@@ -1,0 +1,43 @@
+{
+  "path": "/backwater-valve-rebate-calgary/",
+  "priority": "0.8",
+  "crumb": "Backwater valve rebates",
+  "title": "Backwater Valve Rebate in Calgary: There Isn't One",
+  "og_title": "Is there a backwater valve rebate in Calgary? (Aug 2026)",
+  "description": "As of August 2026 Calgary has no residential backwater valve or sump pump rebate. What the City does fund, what Edmonton pays, and what drives cost.",
+  "h1": "Is there a backwater valve rebate in Calgary?",
+  "image": "hero-backwater.jpg",
+  "image_alt": "Backwater valve access cover set into the concrete basement floor of a Calgary home",
+  "sidebar_links": [
+    ["/backwater-valve-secondary-suite-calgary/", "Backwater valves & legal suites"],
+    ["/sump-pump-calgary/", "Sump pumps & discharge rules"],
+    ["/sewer-water-line-responsibility-calgary/", "Who owns which pipe"],
+    ["/drain-cleaning-calgary/", "Drain cleaning"]
+  ],
+  "faqs": [
+    {
+      "q": "My neighbour swears Calgary pays for backwater valves. Are they thinking of somewhere else?",
+      "a": "<p>Almost certainly. Backwater valve subsidies are common across Canada &mdash; Edmonton has one through EPCOR worth up to $800 for eligible homes, and several Ontario cities run programs too. So when Calgarians hear about a rebate from family elsewhere, it sounds entirely plausible.</p><p>As of August 2026 we can't find one here. The City's own climate-readiness page walks through backwater valves and sump pumps in detail and doesn't attach a dollar to either. If your neighbour actually received money, ask them who cut the cheque &mdash; it may well have been their insurer rather than The City, since some insurance discounts and loss-prevention programs do exist and get remembered as a rebate years later.</p>"
+    },
+    {
+      "q": "A plumber's website told me they'd point me to the current program on calgary.ca. Is that legit?",
+      "a": "<p>Wording like that is doing a lot of work. It implies a program exists without ever naming it, which means nobody can be accused of lying but you still walk away believing money is available. We looked and couldn't find a residential program to point anyone at.</p><p>The fair test is simple: ask them to send you the link. Not &quot;we'll help you with the paperwork&quot; &mdash; the actual URL on calgary.ca, in an email, before you book. A company that's straight with you about a rebate not existing is telling you something useful about how they'll handle the parts of the quote you can't verify either.</p>"
+    },
+    {
+      "q": "If there's no money in it, why would I install one?",
+      "a": "<p>Because the alternative is what a surcharged sewer main does to a finished basement. A backwater valve is a one-way gate on your sewer line: waste flows out, and when the main backs up, a flap closes and it doesn't come in. On a Calgary house with a developed basement, that's the difference between an inconvenient afternoon and gutting the drywall.</p><p>There's also a code angle. The National Plumbing Code 2020 requires fixtures below the level of the adjoining street that are subject to backflow to be protected, so on a lot of newer builds and basement developments this isn't optional anyway. And it's worth one phone call to your insurance broker &mdash; ask whether having one changes your sewer backup coverage or your premium, because that answer is specific to your policy and can shift the maths.</p>"
+    },
+    {
+      "q": "How do I tell whether my house already has one?",
+      "a": "<p>Look at your basement floor near where the sewer line leaves the house, usually on the street-facing side. A backwater valve normally sits in a small box in the concrete with a round or rectangular access cover, often plastic, sometimes with a clear lid so you can see the flap. It's not the floor drain and it's not the cleanout cap, though the three often live within a couple of metres of each other.</p><p>No cover means probably no valve, but not definitely &mdash; older installs get poured over or hidden under flooring during a basement development. Two ways to settle it: a camera pass down the line will show a valve body from the inside, and if you bought recently, check your Real Property Report and permit history. Calgary homes built after backflow protection became a common requirement are far more likely to have one than a 1960s bungalow.</p>"
+    },
+    {
+      "q": "Do I need a permit, or can my handyman put one in?",
+      "a": "<p>A plumbing permit is required to install a backflow prevention device in Calgary. That's not a formality &mdash; the valve cuts into your main building drain, usually through the basement slab, and if it's installed backwards, at the wrong slope, or without an accessible cover, you've got a device that fails silently until the night you need it.</p><p>Unpermitted work on a drainage system is also the sort of thing that surfaces at the worst moment, during a sale or an insurance claim. If you're doing the work yourself, read up on <a href=\"/homeowner-plumbing-permits-alberta/\">what Alberta actually lets a homeowner do</a> first &mdash; and note that if the basement is or will be a rented suite, the rules change again.</p>"
+    },
+    {
+      "q": "Why won't anyone give me a price over the phone?",
+      "a": "<p>Because the honest range is so wide it isn't useful, and the people quoting you a tidy number on the phone are either padding it or planning to revise it in your basement. The cost turns almost entirely on things nobody can see down a phone line: how deep the main drain sits under your slab, whether the spot where it needs to go is under finished flooring or a bathroom, how far the crew has to break and re-pour concrete, and whether there's clean access to the line at all.</p><p>What you should insist on is a site visit and a written fixed price before anyone starts cutting, plus a line on that quote for making good the concrete. If the valve is going in as part of a basement development you're already doing, the incremental cost is much lower than doing it as a standalone job later &mdash; that's the timing decision worth thinking about.</p>"
+    }
+  ]
+}
