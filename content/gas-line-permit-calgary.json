@@ -1,0 +1,43 @@
+{
+  "path": "/gas-line-permit-calgary/",
+  "priority": "0.8",
+  "crumb": "Gas line permits",
+  "title": "Gas Line Permit Calgary: BBQ Lines, Ranges & the Rules",
+  "og_title": "Gas line permits in Calgary — why a homeowner can't pull one, and what that costs you",
+  "description": "Running a gas line for a BBQ, range or garage heater in Calgary? A homeowner can't pull the permit. Here's the rule and what really drives the cost.",
+  "h1": "Gas line permits in Calgary: what a homeowner can and can't do",
+  "image": "hero-gasline.jpg",
+  "image_alt": "A black iron gas line stubbed through the exterior wall of a Calgary home with a shut-off valve for a BBQ connection",
+  "sidebar_links": [
+    ["/homeowner-plumbing-permits-alberta/", "What you can legally plumb yourself"],
+    ["/water-heater-permit-calgary/", "Hot water tank permits"],
+    ["/basement-bathroom-plumbing-calgary/", "Basement bathroom plumbing"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "Can I run my own gas line to the BBQ if I'm careful?",
+      "a": "<p>No, and this one isn't a grey area the way DIY plumbing is. A Calgary homeowner can only take out a gas permit if they personally hold Alberta first- or second-class gasfitter certification, live at the address, and apply in person with proof of qualifications. If you held that ticket you'd already know. For everyone else, a licensed contractor takes out the permit and does the work.</p><p>It's a genuinely odd feeling if you've just been told you can legally replumb your own bathroom &mdash; same house, same owner, totally different answer. The reason is the failure mode. A bad solvent weld drips. A bad gas joint doesn't announce itself, and the consequences aren't limited to your property.</p>"
+    },
+    {
+      "q": "How much does a BBQ gas line cost in Calgary?",
+      "a": "<p>We're not going to publish a number, and we'd be a bit sceptical of the sites that do. There's no authoritative public source for Calgary gas fitting rates, and the spread between an easy job and a hard one on the same street is enormous &mdash; a stub straight out through a rim joist ten feet from the meter is a completely different job from a run across a finished basement to the far corner of the yard.</p><p>What you can do is get comparable quotes by giving every contractor the same three facts: how far the appliance is from the meter, whether the line has to cross finished space, and what else is already on the gas system. Those three variables drive most of the price. If someone quotes you over the phone without asking any of them, that number will change.</p>"
+    },
+    {
+      "q": "My plumber is Red Seal. Can he do the gas connection?",
+      "a": "<p>Maybe &mdash; ask, don't assume. In Alberta, gasfitting is a separate certification from plumbing. Earning the Red Seal endorsement as a plumber requires passing both the Plumber and the Gasfitter Class B interprovincial exams, so a Red Seal plumber usually does have gas qualifications behind them. But a journeyperson plumber without that endorsement may hold no gas ticket at all, and \"licensed plumber\" on a van tells you nothing either way.</p><p>The question to ask when you book is simply: who's coming, and what gas certification do they hold? It takes one sentence to answer and it's the difference between a job that passes inspection and one that doesn't.</p>"
+    },
+    {
+      "q": "Do I need a permit for a fire table or patio heater on the deck?",
+      "a": "<p>If it's connected to a permanent gas line, yes &mdash; you're adding to the gas system, and the City's position is that gas installations require permits, renovation work included. If it runs off a portable propane cylinder you screw on yourself, that's an appliance, not an installation.</p><p>The thing people underestimate on outdoor gas in Calgary is the winter side. An exterior stub, its shut-off and any regulator need to be positioned where snow load, ice fall from the roofline and a February drift aren't sitting on them. That's a placement conversation worth having before the line is run, not after the first chinook.</p>"
+    },
+    {
+      "q": "Can a gasfitter just move my gas meter to a better spot?",
+      "a": "<p>Not unilaterally. The meter isn't part of your house system in the way the piping downstream of it is &mdash; it belongs to the gas distributor, so a relocation is a request to them as well as a job for a contractor. Start by phoning your gas distributor and asking what their process and lead time is, then bring a contractor in around that answer.</p><p>Lead time is the part that catches people. If the meter move is on the critical path of a renovation, find out early &mdash; it is not the kind of thing that happens the week you decide you want it.</p>"
+    },
+    {
+      "q": "I found a permit page that says something different. Which applies?",
+      "a": "<p>Check whose page it is. Search for gas permits in Alberta and the City of Edmonton's pages come up constantly, even when you're clearly looking for Calgary information &mdash; and Edmonton is a separate permit-issuing authority with its own rules and fee schedule. Same province, different city hall.</p><p>Same goes the other way for the towns around us. Airdrie, Cochrane, Okotoks and Chestermere are their own municipalities with their own processes, so City of Calgary fees and rules do not apply there. If you're outside city limits, confirm with that town directly before assuming anything on this page transfers.</p>"
+    }
+  ]
+}
