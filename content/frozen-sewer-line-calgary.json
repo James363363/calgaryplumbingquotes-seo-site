@@ -1,0 +1,43 @@
+{
+  "path": "/frozen-sewer-line-calgary/",
+  "priority": "0.8",
+  "crumb": "Frozen sewer lines",
+  "title": "Frozen Sewer Line Calgary: Signs, Thawing, Prevention",
+  "og_title": "Frozen sewer line in Calgary — how to tell, and what it costs you to ignore",
+  "description": "Drains backing up in a Calgary cold snap? How to tell a frozen sewer line from a frozen pipe, how thawing works, and why the same houses freeze yearly.",
+  "h1": "Frozen sewer line in Calgary: how to tell, how it gets thawed, and why it keeps happening",
+  "image": "hero-frozen-sewer.jpg",
+  "image_alt": "A basement sewer cleanout opened for thawing during a Calgary cold snap",
+  "sidebar_links": [
+    ["/frozen-pipes-calgary/", "Frozen & burst pipes"],
+    ["/sewer-water-line-responsibility-calgary/", "Who owns which pipe"],
+    ["/drain-cleaning-calgary/", "Drain cleaning"],
+    ["/emergency-plumber-calgary/", "Emergency plumbing"]
+  ],
+  "faqs": [
+    {
+      "q": "How do I know it's frozen and not just plugged with the usual gunk?",
+      "a": "<p>Timing and temperature. An ordinary blockage builds up slowly &mdash; the drain gets lazy over weeks, one fixture at a time, and it doesn't care what month it is. A frozen line goes from fine to stopped over a day or two in the middle of a cold snap, and it takes several fixtures with it at once because the ice is out in the main run, not in a trap under a sink.</p><p>The other clue is what changed in the house. If nobody's been home, or you've had one person in a big house over the holidays, that's the classic setup &mdash; not enough warm water going down the line to hold the ice off. Same symptoms in July is a blockage, full stop.</p>"
+    },
+    {
+      "q": "Can I thaw it myself with boiling water or a garden hose?",
+      "a": "<p>No, and pouring things down a blocked line makes it worse. Boiling water doesn't have anything like enough heat to eat through a plug of ice a few metres out in a buried pipe, so all you've done is add scalding water to a line that's already backing up toward the basement floor drain. Salt and chemical drain cleaner do nothing to ice, and the cleaner then sits in the line as a hazard for whoever opens the cleanout.</p><p>Thawing a buried sewer needs steam or hot-water jetting fed down the pipe through a cleanout, and that gear isn't something you rent for the afternoon. The honest version is that this is one of the few plumbing jobs where the DIY answer is genuinely just \"don't.\"</p>"
+    },
+    {
+      "q": "This is the second winter in a row. Why does it keep freezing?",
+      "a": "<p>Because thawing fixed the ice, not the reason the ice formed. A line that freezes repeatedly almost always has something structural going on: it's buried shallower than the frost gets in a dry Calgary winter, or it's got a sag &mdash; a belly &mdash; where the pipe settled and now holds standing water year-round. Standing water in a cold pipe is the thing that freezes.</p><p>Get a camera down it once flow is back, and ask for the distance markers, not just a verdict. Then you know whether you're looking at a spot repair at 12 metres or a full replacement, and you can get a second quote against the same evidence. Paying for an after-hours thaw every January is the expensive way to avoid finding out.</p>"
+    },
+    {
+      "q": "Nobody's living in the house this winter. What should I be doing?",
+      "a": "<p>Either keep water going down the drains on a real schedule &mdash; hot tap running for a few minutes and every toilet flushed, a couple of times a week, by an actual person who's in the building &mdash; or have the plumbing properly winterized and drained so there's nothing in it to freeze. Half-measures are what causes this.</p><p>Keep the heat at 15&nbsp;&deg;C or above too. That's the minimum The City publishes for protecting the water service line, and it keeps the first stretch of drain coming out of the foundation warm as well. And check the insurance angle before you leave: policies commonly have a vacancy clause about how often an empty home has to be checked, and it's a lot cheaper to read it in November than to argue about it in February.</p>"
+    },
+    {
+      "q": "Should I call 311 or a plumber first?",
+      "a": "<p>Call 311 when sewage is coming up into the house. The City's own backup process has an agent work out whether it looks like your internal plumbing or possibly City infrastructure, and that's worth establishing before you pay anyone to dig up the yard. If a couple of neighbours are backing up the same night, that's a strong sign it's the main and not you.</p><p>Know what the City will and won't do, though. Crews won't move furniture, pull back carpet, remove toilets or open drywall to hunt for the source, and if it turns out to be on your side of the property line they'll tell you to call a plumber. So realistically you're often making both calls &mdash; just make 311 the first one so you're not guessing about who owns the problem.</p>"
+    },
+    {
+      "q": "Does home insurance cover a frozen sewer line?",
+      "a": "<p>Depends entirely on your policy and on what actually got damaged. Sewer backup coverage is usually a separate add-on rather than something included by default, and the damage from raw sewage in a finished basement is the expensive part &mdash; not the thawing call. Dig out your policy and look for whether you have a sewer backup endorsement and what the limit is.</p><p>The part that trips people up is maintenance. Insurers generally treat gradual, preventable problems differently from sudden ones, so a line that's frozen three winters running with a known belly in it is a harder conversation than a one-off in a record cold snap. Another reason to fix the pipe rather than re-thaw it &mdash; and to keep the camera footage on file.</p>"
+    }
+  ]
+}
