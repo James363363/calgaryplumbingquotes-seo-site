@@ -1,0 +1,39 @@
+{
+  "path": "/water-heater-permit-calgary/",
+  "priority": "0.8",
+  "crumb": "Water heater permits",
+  "title": "Hot Water Tank Permit Calgary: Do You Actually Need One?",
+  "og_title": "Do you need a permit to replace a hot water tank in Calgary? The honest answer",
+  "description": "Not every hot water tank replacement in Calgary needs a permit. What the City actually requires, and the gas rule that catches homeowners out.",
+  "h1": "Do you need a permit to replace a hot water tank in Calgary?",
+  "image": "hero-permit.jpg",
+  "image_alt": "A gas hot water tank in a Calgary basement utility room with its vent connector and gas shut-off visible",
+  "sidebar_links": [
+    ["/homeowner-plumbing-permits-alberta/", "What you can legally plumb yourself"],
+    ["/hot-water-tank-lifespan-calgary/", "How long tanks really last in Calgary"],
+    ["/no-hot-water-calgary/", "No hot water? Start here"],
+    ["/gas-line-permit-calgary/", "Gas line permits in Calgary"]
+  ],
+  "faqs": [
+    {
+      "q": "I've read that a permit is always required in Alberta. Is that wrong?",
+      "a": "<p>It's an oversimplification, and you'll see it stated flatly on more than one Calgary plumbing site with no source attached. The City of Calgary's own homeowner guidance says a plumbing permit is <em>not</em> required to replace existing fixtures or repair a leak. A hot water tank going back into the same spot, on the same connections, is a fixture replacement on the plumbing side.</p><p>What makes \"you always need a permit\" close to true in practice is the gas side, not the plumbing side. Most Calgary tanks are gas, most swaps involve disconnecting and reconnecting a gas appliance, and gas work is permitted work done by a licensed contractor. So a homeowner phoning around often hears \"yes, permit\" &mdash; the answer is right, the reason given is usually wrong, and the difference matters as soon as your tank is electric or your job is unusual.</p>"
+    },
+    {
+      "q": "Can I just swap my own gas tank if I'm handy?",
+      "a": "<p>The plumbing part, in principle, yes &mdash; you own the house and the water connections are a fixture replacement. The gas part, no. A homeowner in Calgary can't take out a gas permit unless they personally hold Alberta first- or second-class gasfitter certification, live at the address, and apply in person with proof. That's a very short list of people.</p><p>Which means for a gas tank the whole job realistically goes to a licensed contractor, because there's no version of the swap where the gas connection isn't touched. If your tank is electric, the picture is different &mdash; but then you're into the electrical permit and its own rules, which is a separate conversation.</p>"
+    },
+    {
+      "q": "Does going from a tank to tankless change the answer?",
+      "a": "<p>Completely, yes. Tank to tankless is the case where permits are reliably in play, and anyone telling you otherwise hasn't looked at the venting. A tankless unit fires at a much higher input than the 40- or 50-gallon tank it replaces, so the existing gas line is frequently undersized for it and the venting is almost never reusable &mdash; different material, different termination, different sizing.</p><p>That's gas line work and venting work, both permitted, plus new water connections and often a condensate drain. Budget for it as a small renovation rather than a like-for-like swap, and get the gas sizing checked against everything else on the meter before anyone quotes you a unit.</p>"
+    },
+    {
+      "q": "How much is the permit itself?",
+      "a": "<p>For a homeowner plumbing permit the City charges $116.50 &mdash; $112 plus a $4.50 Safety Codes Council fee, with no processing fee. Fees go up every January 1, so confirm the current figure when you apply.</p><p>When a contractor pulls a trade permit it's calculated differently: $112 processing plus $9.79 per $1,000 of construction value, with $116.50 as the floor. On a tank swap that lands near the minimum, so if a quote has a large \"permit fee\" line on it, it's fair to ask what that number is made of. Permit cost is rarely what makes a water heater job expensive.</p>"
+    },
+    {
+      "q": "Nobody permitted my last tank. Does it matter now?",
+      "a": "<p>It matters at two moments: when you sell, and when you claim. An unpermitted, uninspected gas appliance in a basement is exactly the thing a home inspector flags and a buyer's agent uses. It's also the thing you don't want to be explaining to an insurer after a leak or a combustion issue, and \"the guy who did it was cheap\" is not the answer that helps you.</p><p>You can't retroactively inspect a tank that's already in. What you can do is have the venting, combustion air and gas connection looked at by someone certified, and get the next one done properly. If the existing tank is over about ten years old in Calgary's hard water, that decision is coming anyway &mdash; <a href=\"/hot-water-tank-lifespan-calgary/\">here's how to tell if it's due</a>.</p>"
+    }
+  ]
+}
