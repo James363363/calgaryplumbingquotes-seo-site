@@ -1,0 +1,39 @@
+{
+  "path": "/contact/",
+  "priority": "0.7",
+  "crumb": "Contact",
+  "title": "Contact Us | Free Plumbing Quote in Calgary",
+  "og_title": "Get a free plumbing quote in Calgary",
+  "description": "Call (403) 555-0100 any hour, or send the details and get a straight answer on what's wrong, what it costs, and whether it can wait. Free quotes.",
+  "h1": "Tell us what's going on",
+  "image": "hero-contact.jpg",
+  "image_alt": "The front entrance of a well-kept Calgary family home on a bright clear day",
+  "sidebar_links": [
+    ["/emergency-plumber-calgary/", "Is this an emergency?"],
+    ["/plumber-cost-calgary/", "What it should cost"],
+    ["/about/", "Who you're dealing with"],
+    ["/", "All services"]
+  ],
+  "faqs": [
+    {
+      "q": "What should I have ready when I call?",
+      "a": "<p>Not much, and don't worry if you don't have it. What speeds things up most: what's happening and when it started, whether water is actively running right now, roughly when your house was built, and whether you've found your main shut-off valve. That last one matters more than everything else combined.</p><p>If you can safely take a photo of the thing that's wrong &mdash; the puddle, the pipe, the label on the water heater &mdash; send it. A picture of a water heater's data plate tells us more in two seconds than five minutes of description, and it means we bring the right part instead of coming back a second time.</p>"
+    },
+    {
+      "q": "Will you tell me if I don't actually need a plumber?",
+      "a": "<p>Yes, and it happens fairly often. A running toilet, a dripping tap, a slow bathroom sink &mdash; plenty of those are a twenty-minute job with parts from any hardware store, and we'd rather point you at that than charge you for it.</p><p>We're not being noble about it. Someone who got a free honest answer in March is who calls us in January when the main line lets go, and that's the job that matters.</p>"
+    },
+    {
+      "q": "Is there any charge for a quote?",
+      "a": "<p>For work we can scope by looking at it &mdash; a new hot water tank, a backwater valve, a basement bathroom &mdash; no. We come out, look at what's actually there, give you a written price, and you take it or leave it.</p><p>Diagnosis is different and we'll always tell you the number before we drive over. If nobody knows why your drain keeps backing up, finding out is real work with real equipment. What we won't do is advertise a \"free estimate\" and then produce a service call charge once we're in your driveway. Ask us on the phone what you owe if you decide not to proceed &mdash; you'll get a straight number.</p>"
+    },
+    {
+      "q": "How quickly will you get back to me if I use the form?",
+      "a": "<p>Same day during business hours, usually much faster. But be realistic with yourself about which channel to use: <strong>if water is actively running right now, don't fill in a form.</strong> Phone. Every minute of water on a floor is money, and a form sitting in an inbox helps nobody.</p><p>The form is the right tool for planning work, pricing questions, and anything that can wait until tomorrow. During a deep cold snap when half the city's pipes are letting go, phone response will be slower than usual too &mdash; that's true of every plumber in Calgary in January, and anyone telling you otherwise is guessing.</p>"
+    },
+    {
+      "q": "Do you come out to Airdrie, Cochrane or Okotoks?",
+      "a": "<p>Ask us &mdash; it depends on the job and the day. We service Calgary and the immediately surrounding area, and we'd rather answer honestly on the phone than list every town within an hour's drive to look bigger than we are.</p><p>One thing worth knowing if you're outside city limits: Airdrie, Cochrane, Okotoks and Chestermere are separate municipalities with their own permit processes. City of Calgary rules and fees don't apply there. If your job needs a permit, we'll confirm that town's actual requirements before quoting rather than assuming they match Calgary's.</p>"
+    }
+  ]
+}
