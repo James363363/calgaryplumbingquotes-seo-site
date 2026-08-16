@@ -1,0 +1,43 @@
+{
+  "path": "/frozen-pipes-calgary/",
+  "priority": "0.8",
+  "crumb": "Frozen & burst pipes",
+  "title": "Frozen Pipes in Calgary: Thaw It or Stop the Flood",
+  "og_title": "Frozen or burst pipe in Calgary — what to do right now",
+  "description": "Frozen or burst pipe in Calgary? Where the main shut-off is, how to thaw safely, where pipes freeze here, the 311 process and who pays for the meter.",
+  "h1": "Frozen or burst pipe in Calgary: what to do in the next ten minutes",
+  "image": "hero-frozen.jpg",
+  "image_alt": "A frozen copper water line running through an uninsulated rim joist in a Calgary basement",
+  "sidebar_links": [
+    ["/winterize-outdoor-tap-calgary/", "Winterize your outdoor tap"],
+    ["/frozen-sewer-line-calgary/", "Frozen sewer lines"],
+    ["/emergency-plumber-calgary/", "Emergency plumbing"],
+    ["/sewer-water-line-responsibility-calgary/", "Who owns which pipe"]
+  ],
+  "faqs": [
+    {
+      "q": "One tap has no water but the rest of the house is fine. Is that a frozen pipe?",
+      "a": "<p>Almost certainly, yes &mdash; if it happened during a cold stretch and nothing else in the house changed. A freeze is local. It plugs the one run of pipe that got cold, so you lose that fixture and nothing else. Very often it's a kitchen sink on an outside wall, a laundry tub in the garage, or a bathroom above an unheated space.</p><p>The comparison that tells you it's something else: if <em>every</em> tap in the house is dead in the middle of a cold snap, look at the service line coming in from the street rather than anything inside your walls, and call 311. And if water goes down the drains fine one day and backs up out of the floor drain the next, that's a sewer problem, not a supply problem &mdash; two different pipes, two different fixes.</p>"
+    },
+    {
+      "q": "Should I leave a tap dripping when it gets really cold?",
+      "a": "<p>It's the standard advice and it does work for the specific pipes you're worried about &mdash; a bit of movement in the line makes an ice plug much harder to form, and a dripping tap keeps the pressure down if one does start. If you know which run froze last time, that's the tap to leave running a pencil-thin stream on both hot and cold.</p><p>Two honest caveats. It's metered water in Calgary, so leaving every tap in the house running for a week isn't free, and it does nothing for the pipe you didn't think about. The bigger wins are keeping the house at or above the 15&nbsp;&deg;C the City recommends, opening the cabinet doors under sinks on outside walls, and sealing whatever gap is letting outdoor air onto that pipe in the first place.</p>"
+    },
+    {
+      "q": "The City sent us a letter about frozen pipes. Is that a real thing or junk mail?",
+      "a": "<p>It's real. The City sends letters to properties it considers at risk of frozen water service lines, and those letters point you to its Frozen Pipes Prevention Program. Addresses tend to land on that list because of a history of freezing, a shallow service line, or something about the property that makes it more likely.</p><p>Worth taking seriously, because the private side of the service line is your bill, not the City's &mdash; including a frozen or damaged water meter, which is the one exception people always get wrong. Read the letter, follow the instructions, and if it's a rental or a place you don't live in, make sure whoever is there over the winter knows about the 15&nbsp;&deg;C minimum.</p>"
+    },
+    {
+      "q": "We're away for six weeks in the winter. What do we actually have to do?",
+      "a": "<p>Set the furnace at 15&nbsp;&deg;C or higher, not 10&nbsp;&deg;C &mdash; the savings on gas are not worth the risk, and 15&nbsp;&deg;C is the number The City publishes for protecting the service line. Shut off the water at the main and drain the system down if nobody will be in the house at all. Disconnect any garden hose, open the outdoor tap and bleed the line to it. Leave cabinet doors open under sinks on exterior walls.</p><p>Then the part people forget: have a real person physically go into the house on a schedule. An Alberta brokerage says most insurers want a vacant home checked every 24 to 72 hours for burst-pipe damage to be covered. That's their description rather than a universal rule, so pull out your own policy and read the vacancy clause before you book the flight. Keep a text log of the visits &mdash; it costs nothing and it's exactly the evidence an adjuster asks for.</p>"
+    },
+    {
+      "q": "A pipe burst while we were out. Should I clean up first or call insurance first?",
+      "a": "<p>Stop the water first &mdash; main shut-off, breakers off for the wet area &mdash; then get your phone out and document before you move a thing. Wide shots of the room, close-ups of the split pipe, the water line up the wall, the soaked boxes, the ceiling stain. Then start extracting water, because standing water keeps doing damage while you wait for a call back.</p><p>You don't have to choose between mitigating and documenting, and your policy almost certainly requires you to limit further damage. What you must not do is have the basement tidy and the ruined contents at the curb before anyone sees it. Adjusters assess what's in front of them, and photos taken in the first ten minutes are worth more than any description you write later.</p>"
+    },
+    {
+      "q": "Can I thaw it with a propane torch? My neighbour does it every year.",
+      "a": "<p>No, and your neighbour has been lucky. Two things go wrong. Superheating water trapped inside an ice plug can rupture the pipe far more violently than the freeze would have, and thawing inside a wall cavity puts open flame next to dry framing, old paper-faced insulation and dust &mdash; house fires during cold snaps are frequently somebody thawing a pipe.</p><p>Hair dryer, heat lamp, heating pad or hot towels, always with the tap open and always working from the tap end back toward the ice. It's slow and boring, and that's what makes it safe. If the pipe is somewhere you can't reach without opening a wall, that's the point to hand it to someone with a proper thawing setup rather than escalating to fire.</p>"
+    }
+  ]
+}
