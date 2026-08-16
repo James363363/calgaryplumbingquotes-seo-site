@@ -1,0 +1,39 @@
+{
+  "path": "/about/",
+  "priority": "0.6",
+  "crumb": "About",
+  "title": "About Us | Calgary Plumbing Quotes",
+  "og_title": "Who we are, how we price, and how this site is written",
+  "description": "Who we are, what we're licensed for, how we price work, and how the guides on this site are researched and fact-checked. Plain answers, sources included.",
+  "h1": "Who you're actually dealing with",
+  "image": "hero-about.jpg",
+  "image_alt": "A plain service van parked outside a Calgary home with a toolbox being unloaded",
+  "sidebar_links": [
+    ["/contact/", "Get a free quote"],
+    ["/plumber-cost-calgary/", "How we price work"],
+    ["/homeowner-plumbing-permits-alberta/", "What you can legally DIY"],
+    ["/emergency-plumber-calgary/", "Emergency plumbing"]
+  ],
+  "faqs": [
+    {
+      "q": "How do I check that a plumber is actually licensed in Alberta?",
+      "a": "<p>Ask for the journeyperson's name and certificate, and ask specifically whether the person coming to your house holds it or is an apprentice working under someone who does. Both are legal. Being told \"we're licensed\" as a company is not the same answer, and a good outfit won't mind you asking.</p><p>The bit most people miss: gas is a separate ticket. If your job touches a gas line at all &mdash; a water heater, a range, a BBQ line &mdash; the plumbing certificate on its own doesn't cover it. Ask who's coming and what they hold. Alberta publishes the trade requirements publicly if you want to read them yourself.</p>"
+    },
+    {
+      "q": "Why does this site tell me things that cost you money?",
+      "a": "<p>Because the alternative doesn't work. Half the calls we get start with someone saying they've had two quotes that are $2,000 apart and they can't tell why. If we can explain the difference in advance, some of those people fix it themselves or decide to wait &mdash; and the ones who do call already trust us before the van pulls up.</p><p>There's also a simpler reason. If you catch us overstating something on this site, you'd never believe a word we said about your sewer line. It isn't worth it.</p>"
+    },
+    {
+      "q": "Do you actually service my part of the city?",
+      "a": "<p>Calgary proper and the immediate surrounding area. We haven't put up twenty neighbourhood pages to look like we're everywhere, because that's a website trick rather than a real answer &mdash; just call and ask, it takes ten seconds.</p><p>If you're in Airdrie, Cochrane, Okotoks or Chestermere, know that those are separate municipalities with their own permit processes. City of Calgary rules and fees don't apply out there. We'll confirm the local requirements before quoting rather than assuming.</p>"
+    },
+    {
+      "q": "Why are there no reviews on this page?",
+      "a": "<p>Because there aren't real ones to put here yet, and inventing them is both dishonest and, frankly, easy to spot. When there are reviews from actual Calgary customers who've agreed to be quoted, they'll go here and nowhere else.</p><p>In the meantime, the useful thing you can do &mdash; with us or anyone else &mdash; is pull up a company's Google Business Profile and read the two- and three-star reviews rather than the five-star ones. That's where you find out how a company behaves when a job goes sideways, which is the only thing that really matters.</p>"
+    },
+    {
+      "q": "Is the content on this site written by a person or by AI?",
+      "a": "<p>Both, and we'd rather say so than have you wonder. The research, drafting and structuring are AI-assisted. The facts about City of Calgary rules, fees, water data and Alberta trade licensing are pulled from primary sources and linked inline, so you can click through and check any of them yourself rather than taking our word for it. Trade judgement &mdash; what actually fails in Calgary houses and how a real job goes &mdash; comes from the business.</p><p>We mention it because Google's own guidance asks publishers to be open about how content is produced, and because you should know what you're reading. Anything we couldn't verify, we've said we couldn't verify, on the page, instead of quietly filling the gap.</p>"
+    }
+  ]
+}
