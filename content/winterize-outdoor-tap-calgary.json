@@ -1,0 +1,55 @@
+{
+  "path": "/winterize-outdoor-tap-calgary/",
+  "priority": "0.8",
+  "crumb": "Winterize your outdoor tap",
+  "title": "Winterize Your Outdoor Tap in Calgary (Hose Bib Guide)",
+  "og_title": "How to winterize a Calgary hose bib — including the step everyone skips",
+  "description": "The full shut-off and bleeder valve sequence for draining a Calgary outdoor tap, why frost-free sillcocks still burst, and repair vs replace.",
+  "h1": "How to winterize an outdoor tap in Calgary (including the bleeder valve step everyone skips)",
+  "image": "hero-hosebib.jpg",
+  "image_alt": "An outdoor hose bib on the exterior wall of a Calgary home with the garden hose disconnected for winter",
+  "sidebar_links": [
+    [
+      "/frozen-pipes-calgary/",
+      "Frozen & burst pipes"
+    ],
+    [
+      "/water-bill-leak-calgary/",
+      "High water bill? Find the leak"
+    ],
+    [
+      "/low-water-pressure-calgary/",
+      "Low water pressure"
+    ],
+    [
+      "/plumber-cost-calgary/",
+      "What a plumber costs"
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "Do I really need to drain the outdoor tap, or is turning it off enough?",
+      "a": "<p>Turning it off is not enough, and this is the thing that catches people. When you close the interior shut-off valve, there's still a section of pipe full of water between that valve and the spout outside &mdash; and that section runs straight through your rim joist and exterior wall, which is the coldest place in the building envelope. Water expands when it freezes, the section is sealed at both ends, and something has to give.</p><p>That's what the little brass cap on the side of the interior valve is for. Close the valve, open the outdoor tap so air can get in, then open the bleeder and let the trapped water dribble out. Two minutes. Then leave the outdoor tap open all winter.</p>"
+    },
+    {
+      "q": "I can't find the bleeder valve. What am I looking for?",
+      "a": "<p>Look at the pipe feeding the outdoor tap from the inside &mdash; usually in the basement joist bay directly behind where the tap comes through the wall. You want a shut-off valve on that line, and on the side of its body there'll be a small brass cap, a thumbscrew, or a tiny nut about the size of a pencil eraser. That's the bleeder. Put a cup under it before you loosen it.</p><p>If there's a valve but no bleeder, close the valve, open the tap outside and undo the union or a fitting downstream of the valve to let the water out &mdash; or get a bleeder-type valve fitted, it's a small job. If there's no interior valve at all, which happens in some houses, you genuinely can't winterize that tap safely and it's worth having one put in before the fall.</p>"
+    },
+    {
+      "q": "I have a frost-free tap. Can I just leave the hose on?",
+      "a": "<p>No &mdash; this is the most common way a frost-free tap ends up bursting. The whole design depends on the water in that long stem draining out through the spout by gravity once you shut it off. A hose on the end blocks the drain path, the stem stays full, and it freezes inside your wall exactly like a regular tap would.</p><p>Hose off in the fall, every year, including the Y-splitter and the timer if you use one. The City lists disconnecting garden hoses right alongside keeping the house at a minimum of 15&nbsp;&deg;C in its frozen pipe advice. Ten seconds of work to avoid a repair inside a finished wall.</p>"
+    },
+    {
+      "q": "When should I do this? It's still warm out.",
+      "a": "<p>Early October. Calgary hands out hard overnight freezes while the afternoons are still shirt-sleeve weather, and that first freeze is plenty to split a pipe sitting in an exterior wall &mdash; the wall cavity gets colder than the air does. Waiting for it to feel like winter is how people end up doing this in a toque in mid-November, or not at all.</p><p>Easiest way to remember it: the day you drain the hose and hang it in the garage is the day you do the tap. Hose off, interior valve closed, tap open, bleeder open. Do both taps &mdash; it's always the side or back one that gets forgotten.</p>"
+    },
+    {
+      "q": "I turned the tap on in the spring and water poured into the basement. What happened?",
+      "a": "<p>The pipe split back in January and you're only finding out now. It's the classic Calgary sequence: the section between the interior valve and the spout freezes and cracks, but nothing leaks because the interior valve is shut and everything behind the crack is dry. Open that valve in May and the water finds the split immediately.</p><p>Shut the interior valve off again straight away and dry things out. Then it's a repair conversation, and the honest answer on cost depends on access &mdash; a split you can see from an unfinished basement ceiling is a much smaller job than one behind finished drywall or above a soffit. Take photos before anything gets opened up, in case it turns into an insurance discussion.</p>"
+    },
+    {
+      "q": "Is a dripping outdoor tap actually worth fixing, or can it wait?",
+      "a": "<p>Fix it, but it's usually small. A drip from the spout when the tap is closed is normally a worn washer or seat &mdash; a stem repair, not a replacement. Water weeping around the handle while it's running is the packing, which often just needs tightening. Neither of those is a call-someone-tonight job.</p><p>What you shouldn't leave is a drip going into the winter, because that's water sitting in a spot that's about to freeze, and it's water you're paying for on a metered bill. The one that genuinely needs attention now is water appearing <em>inside</em> when the tap is on &mdash; that's a split line, not a washer, and it's doing damage you can't see.</p>"
+    }
+  ]
+}
