@@ -1,0 +1,43 @@
+{
+  "path": "/sewer-water-line-responsibility-calgary/",
+  "priority": "0.9",
+  "crumb": "Who owns which pipe",
+  "title": "Who Is Responsible for Sewer Line Repair in Calgary?",
+  "og_title": "Who owns the pipe between your house and the street?",
+  "description": "The City owns the pipe to your property line, you own the rest. Where that line sits, what 311 will do, and who pays for water and sewer repairs.",
+  "h1": "Who is responsible for the sewer and water line between your house and the street",
+  "image": "hero-sewer-line.jpg",
+  "image_alt": "Excavated trench in a Calgary front yard exposing a residential sewer service line near the property line",
+  "sidebar_links": [
+    ["/backwater-valve-rebate-calgary/", "Backwater valves & rebates"],
+    ["/sewer-scope-buying-home-calgary/", "Sewer scope before you buy"],
+    ["/drain-cleaning-calgary/", "Drain cleaning"],
+    ["/water-bill-leak-calgary/", "Why your water bill jumped"]
+  ],
+  "faqs": [
+    {
+      "q": "Sewage is coming up in my basement floor drain right now. Who do I call first?",
+      "a": "<p>311, before you call anyone else &mdash; including us. It costs you nothing, it takes a few minutes, and it's the only way to find out whether the problem is in the City's main or in your line. If the main is surcharged, half the block is backing up and a plumber augering your pipe accomplishes nothing.</p><p>While you're waiting, stop using water anywhere in the house. Every flush, every load of laundry, every shower is more volume heading for the lowest opening in your basement. Get anything you care about off the floor, keep kids and pets out of the room, and take photos before you clean anything up &mdash; your insurer will want them and so will anyone you end up arguing with about who pays.</p>"
+    },
+    {
+      "q": "The blockage is out near the sidewalk. Isn't that the City's?",
+      "a": "<p>Probably not, and this is the single most expensive misunderstanding in Calgary. The property line usually sits only a few metres in from the curb or sidewalk &mdash; not at the curb itself. So a break under your boulevard grass, two metres short of the road, can still be squarely on your side of the line and entirely your bill.</p><p>The way to settle it rather than guess is to pull your Real Property Report or your legal survey and look at where the front property line is drawn, then have the line camera'd so the blockage gets located by distance from the cleanout. Once you have &quot;the defect is at 11 metres&quot; and &quot;the property line is at 9 metres,&quot; the argument is over and you know who's paying.</p>"
+    },
+    {
+      "q": "Can my plumber just shut off the valve at the curb so we can work?",
+      "a": "<p>No. That curb stop &mdash; the little metal cap in your lawn or sidewalk near the property line &mdash; belongs to The City, and homeowners and plumbers are not permitted to operate it. It's not a technicality anybody enforces loosely; a valve broken off in the closed position turns a plumbing repair into a dig in the boulevard.</p><p>What that means practically is that if a job needs the water off at the street, your plumber books it through The City rather than doing it themselves, and you build that into the schedule. Inside your house, the main shut-off is yours and you should know where it is right now &mdash; usually in the basement near the water heater, on the wall facing the street.</p>"
+    },
+    {
+      "q": "I got a letter saying I have a leak on my water service line. How long do I have?",
+      "a": "<p>Fifteen days, once the leak is confirmed. Under the Water Utility Bylaw an owner has to repair a confirmed service line leak within that window, and The City can issue a remedial order if it isn't done. That's a short runway for booking a contractor and possibly a dig, so start making calls the day the letter arrives rather than the week it expires.</p><p>Get two written quotes if you can, and ask each one which method they're proposing &mdash; a trenchless pull, a full excavation, or a hydrovac spot repair on a single defect. The prices are very different and so is the damage to your yard. Fifteen days is enough time to get a second opinion; it isn't enough time to think about it for a fortnight first.</p>"
+    },
+    {
+      "q": "My house is from the 1950s. Is my sewer line likely to be a problem?",
+      "a": "<p>It's the classic profile, yes. Inner-city Calgary homes built before roughly 1970 typically have clay tile sewer lines with mortared joints, and clay tile plus a mature elm or poplar on the boulevard is the most reliable root-intrusion combination in the city. Cast iron from the same era rots from the bottom of the pipe upward, so it can look fine on a camera pass until it doesn't.</p><p>None of that means you have a failure today. It means the sensible move is to know the condition rather than wait to find out at 11 p.m. A camera inspection on a house of that vintage tells you whether you're budgeting for a replacement in five years or in twenty, which is a much better position than discovering it with a wet basement.</p>"
+    },
+    {
+      "q": "Does my home insurance cover a collapsed sewer line?",
+      "a": "<p>Usually not the pipe itself under a base policy. An Alberta brokerage writing on this points out that the add-on you actually need is a <em>service line endorsement</em>, which is the coverage aimed at tree roots, corrosion and shifting earth on the buried line &mdash; and that things treated as maintenance, like slow clogs, are likely not covered at all. Water damage inside the house and sewer backup coverage are separate items again.</p><p>Read your own policy rather than trusting any summary, including this one, and phone your broker to ask two specific questions: do I have a service line endorsement, and do I have sewer backup coverage. On a Calgary house with an original clay line, those two answers are worth knowing before you need them, not after.</p>"
+    }
+  ]
+}
