@@ -1,0 +1,43 @@
+{
+  "path": "/calgary-hard-water/",
+  "priority": "0.8",
+  "crumb": "Calgary hard water",
+  "title": "How Hard Is Calgary's Water? The Real Numbers",
+  "og_title": "Calgary water hardness — both plants, every season, in mg/L and gpg",
+  "description": "Calgary's 2025 water hardness for the Bearspaw and Glenmore plants, season by season, converted to grains per gallon — and whether a softener is worth it.",
+  "h1": "How hard Calgary's water is, and what to do about it",
+  "image": "hero-hardwater.jpg",
+  "image_alt": "Heavy white limescale build-up on a chrome tap aerator and kettle element from Calgary hard water",
+  "sidebar_links": [
+    ["/hot-water-tank-lifespan-calgary/", "What hard water does to your tank"],
+    ["/low-water-pressure-calgary/", "Low water pressure in Calgary"],
+    ["/water-bill-leak-calgary/", "Why your water bill jumped"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "So how hard is Calgary water, in one number?",
+      "a": "<p>There isn't one number, and that's the honest answer that most pages about this get wrong. Calgary is fed by two treatment plants and they produce measurably different water. Across 2025, Bearspaw ran about 141&ndash;200&nbsp;mg/L of calcium carbonate and Glenmore ran about 181&ndash;274&nbsp;mg/L. Divide by 17.1 and that's roughly 8&ndash;12 grains per gallon on the Bearspaw side and 11&ndash;16 on the Glenmore side.</p><p>If somebody insists on a single figure, \"hard to very hard, and harder in winter\" covers it. What you should be suspicious of is any page quoting one precise grains-per-gallon number for the whole city, because that number can only be right for part of it.</p>"
+    },
+    {
+      "q": "How do I find out whether I'm on Bearspaw or Glenmore?",
+      "a": "<p>Call 311 and ask. We're not going to guess for you, and neither should anyone else &mdash; The City doesn't publish a neighbourhood-by-neighbourhood map of which plant feeds which address, and the plants can share load. Any site telling you your community is definitely on one plant is inventing it.</p><p>In practice it matters less than the question implies. The soft end of the Bearspaw range is still hard water by the standard classification, and everything in this article applies either way. It's worth knowing mainly if you're sizing a softener, where the difference between 9 and 15 grains per gallon changes the settings.</p>"
+    },
+    {
+      "q": "Do I actually need a water softener in Calgary?",
+      "a": "<p>Need, no. Nobody's health is at stake &mdash; The City states there are no known health effects associated with the calcium and magnesium in drinking water, and it does not recommend softeners. It suggests you research the systems available before deciding, which is a fairly pointed way of staying out of the argument.</p><p>Want is a different question, and it comes down to what annoys you and what you're protecting. If you're forever descaling the kettle, fighting spots on glassware, and replacing tap cartridges, a softener will genuinely fix that. If your main concern is your hot water tank, a softener helps but so does flushing it and changing the anode rod, for a fraction of the money. One real caveat: salt-based systems add sodium to your water, which The City flags as potentially unsuitable for anyone on a sodium-reduced diet. Most installers put a hard-water tap at the kitchen sink for drinking and cooking to get around that.</p>"
+    },
+    {
+      "q": "Will a softener make my hot water tank last longer?",
+      "a": "<p>It should help, because scale in the bottom of the tank is the mechanism that shortens tank life here &mdash; it insulates the burner surface, the steel runs hotter than designed, the glass lining cracks. Less scale going in means less scale settling out.</p><p>But be careful with the sales pitch. Softening is not a substitute for maintenance, and the cheapest way to protect a tank in this city is still an annual flush plus checking the anode rod around year five. If a salesperson tells you a softener will double your tank's life, ask them for the evidence rather than the brochure. <a href=\"/hot-water-tank-lifespan-calgary/\">We've written up the whole tank lifespan question here.</a></p>"
+    },
+    {
+      "q": "What about the salt-free systems? Do those work?",
+      "a": "<p>They do something different. Salt-free conditioners &mdash; the common type is template-assisted crystallisation &mdash; don't remove calcium and magnesium at all. They encourage the minerals to form microscopic crystals that stay suspended instead of plating onto pipe walls and heating surfaces. So your water is still technically just as hard, and you'll still get spots on the glassware and soap that doesn't lather.</p><p>The honest position is that the evidence base for them is thinner than for salt-based softening. There's lab work supporting scale reduction on heated surfaces, but nothing like the long track record of ion exchange, and independent field data is scarce. They're a reasonable option if your only concern is scale in the plumbing, if you can't discharge brine, or if the sodium matters to your household. They're a poor choice if you bought one expecting soft-feeling water and better lathering, because they don't deliver that.</p>"
+    },
+    {
+      "q": "Is hard water why my kitchen tap has gone weak?",
+      "a": "<p>Very often, yes, and it's the cheapest plumbing fix there is. Scale builds up in the little screen at the end of the spout &mdash; the aerator &mdash; and it happens faster here than most places. Unscrew it (a cloth in the jaws of pliers saves the chrome), soak it in vinegar overnight, scrub the screen with an old toothbrush, put it back.</p><p>If that fixes it, great. If the tap is still weak afterwards, the same scale has probably got into the mixing cartridge inside, which is a bigger job but still a part rather than a plumbing repair. And if the pressure is down all over the house rather than at one tap, it's not the aerators &mdash; <a href=\"/low-water-pressure-calgary/\">that's a different diagnosis</a>.</p>"
+    }
+  ]
+}

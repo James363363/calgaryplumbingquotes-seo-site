@@ -1,0 +1,43 @@
+{
+  "path": "/no-hot-water-calgary/",
+  "priority": "0.9",
+  "crumb": "No hot water",
+  "title": "No Hot Water in Calgary? What to Check Before You Call",
+  "og_title": "No hot water in Calgary — the checks that save you a service call",
+  "description": "No hot water or a leaking tank in Calgary? The safe checks to do first, the shut-off sequence if it's leaking, and when after-hours is worth paying for.",
+  "h1": "No hot water in Calgary: what to check, what to shut off, and when to call",
+  "image": "hero-hotwater.jpg",
+  "image_alt": "A homeowner checking the gas control valve and pilot access panel at the base of a hot water tank in a Calgary basement",
+  "sidebar_links": [
+    ["/hot-water-tank-lifespan-calgary/", "Is your tank at end of life?"],
+    ["/water-heater-permit-calgary/", "Water heater permits in Calgary"],
+    ["/emergency-plumber-calgary/", "Emergency plumbing"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "My pilot light keeps going out. Can I just keep relighting it?",
+      "a": "<p>You can relight it, and it's worth doing once to see what happens. If it lights and stays lit, something knocked it out &mdash; a draft, a gust down the vent in a windstorm, a bit of dust on the sensor. That happens, especially in the shoulder seasons when the wind is doing strange things around Calgary rooflines.</p><p>If it goes out again within a day or two, stop relighting it and get it looked at. A pilot that won't hold is nearly always a thermocouple or thermopile that has stopped generating enough signal to convince the gas valve the flame is really there. That's a safety interlock doing its job, and it's a cheap part with a straightforward fix. Repeatedly forcing a flame past a failing safety device is the one part of this job we'd genuinely tell you not to do yourself.</p>"
+    },
+    {
+      "q": "There's water under my tank. How do I know if it's actually leaking?",
+      "a": "<p>Dry the floor completely, put down a sheet of paper towel or newspaper, and come back in a couple of hours. If it's damp again, you have a leak. If it stays dry, you were probably looking at condensation &mdash; which is common on a cold Calgary morning when very cold incoming water hits a tank in a humid basement, and also common right after a big hot water draw.</p><p>While it's dry, look at where the water is showing up. Water at the base of the shell, or rust staining running down from a seam, usually means the steel tank has rusted through and there's no repair for that. Water coming from a fitting at the top, from the drain valve at the bottom, or from the discharge pipe off the relief valve is a different story &mdash; those are parts, and parts can be replaced.</p>"
+    },
+    {
+      "q": "Should I shut off the water at the curb if my tank is flooding?",
+      "a": "<p>No &mdash; and this one matters. That valve out by the sidewalk is the water service valve, usually called the curb stop, and The City of Calgary owns it. It's not yours to operate, and it isn't your plumber's either. People pry the little cap off with a screwdriver, damage the valve or the rod, and end up with a City repair bill on top of the plumbing bill they already had.</p><p>Use the shut-off inside your house. In most Calgary homes it's in the basement on the wall facing the street, often within sight of the water heater, and it'll be a round handle or a lever. Find it today, before you need it, and make sure whoever else lives there knows where it is too. That thirty seconds of homework is the difference between a wet floor and a flooded basement.</p>"
+    },
+    {
+      "q": "Is this worth paying after-hours rates for, or can it wait until morning?",
+      "a": "<p>If nothing is leaking, it can almost always wait. No hot water is miserable, not dangerous &mdash; boil a kettle, shower at the gym, call in the morning at day rates. Plumbing companies around Calgary publish emergency and after-hours rates in the $150&ndash;$250 an hour range against roughly $85&ndash;$150 for regular hours, so a night call on a cold tank is a real premium to pay for a warm shower a few hours earlier.</p><p>If water is actively spreading, that's a different calculation, and it's usually worth the call &mdash; water damage compounds by the hour, and the drying and restoration bill dwarfs the plumbing one. Same if you're on the way out of town, or if the tank sits above a finished basement. And in a deep cold snap, if your house is losing heat as well as hot water, don't sit on it: that's how a plumbing problem turns into a frozen pipe problem.</p>"
+    },
+    {
+      "q": "I smell gas near the water heater. What do I do?",
+      "a": "<p>Leave. Don't troubleshoot it, don't try to find the source, don't relight anything. Don't flip light switches, unplug things, or use your phone inside &mdash; take everyone and any pets outside first, and leave the door open behind you.</p><p>From outside, call ATCO Gas's 24-hour emergency line, which is on your gas bill and on their website, or call 911. They will come out. This is not a call you should feel awkward about making &mdash; they would far rather attend a false alarm than the alternative, and a plumber is the wrong first phone call here regardless of how confident you are that it's minor.</p>"
+    },
+    {
+      "q": "My tank is 14 years old and it's just died. Repair or replace?",
+      "a": "<p>At fourteen, replace, unless the failed part is genuinely trivial and you need a few weeks to get organised. Calgary's water is hard enough that most tanks here are living on borrowed time past twelve, and putting a new gas valve on a vessel whose lining is already cracked is spending real money on a delay.</p><p>The thing to weigh isn't just the repair bill against the replacement bill &mdash; it's what a failure costs when it happens on its own schedule. A planned replacement in September means you pick the model, get two quotes, and pay day rates. The same tank going in the middle of January means whatever is on the truck, at emergency rates, possibly with a wet floor. <a href=\"/hot-water-tank-lifespan-calgary/\">We went through the whole repair-versus-replace call here</a>.</p>"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "path": "/sump-pump-calgary/",
+  "priority": "0.8",
+  "crumb": "Sump pumps",
+  "title": "Sump Pumps in Calgary: Rules, Winter Freezing & Cost",
+  "og_title": "Sump pumps in Calgary: where the discharge can legally go",
+  "description": "Where your sump discharge line is allowed to drain under the bylaw, why it ices up in February, and whether your Calgary home needs a pump at all.",
+  "h1": "Sump pumps in Calgary: the discharge rules, the winter problem, and whether you need one",
+  "image": "hero-sump.jpg",
+  "image_alt": "Submersible sump pump sitting in a lined pit in the concrete floor of a Calgary basement",
+  "sidebar_links": [
+    ["/backwater-valve-rebate-calgary/", "Backwater valves & rebates"],
+    ["/sewer-water-line-responsibility-calgary/", "Who owns which pipe"],
+    ["/basement-bathroom-plumbing-calgary/", "Basement bathroom plumbing"],
+    ["/emergency-plumber-calgary/", "Emergency plumbing"]
+  ],
+  "faqs": [
+    {
+      "q": "Do I actually need a sump pump in Calgary?",
+      "a": "<p>Go down and look at your basement floor first. If there's a lined pit with a pipe entering it from below grade, your weeping tile was designed to be pumped and you need a working pump in it. If there's no pit anywhere, your house was built to drain by gravity or shed water at the surface, and plenty of Calgary homes in that category have never had a drop in the basement.</p><p>The bigger truth is that most wet Calgary basements are a surface water problem, not a groundwater problem &mdash; settled grading against the foundation and downspouts dumping two feet from the wall. Fixing those solves more basements than any pump, and it's a fraction of the cost. Anyone who tells you every home in this city needs a sump pump is quoting, not diagnosing.</p>"
+    },
+    {
+      "q": "Where can I run the discharge pipe? My neighbour is complaining.",
+      "a": "<p>They may well have a point. Under the Community Standards Bylaw, sump discharge can't drain onto a neighbouring property, a lane, a sidewalk, a boulevard or a street, and it can't go back into a foundation drain or weeping tile. On a narrow inner-city lot that doesn't leave a lot of options, which is exactly why so many discharge lines end up pointed somewhere they shouldn't be.</p><p>What you're aiming for is a spot on your own property, well away from the foundation, graded so the water keeps travelling instead of soaking down to the pit it just came from. And the weeping tile prohibition isn't just red tape &mdash; pump into your own weeping tile and you've built a loop that runs the same water in circles until the motor dies.</p>"
+    },
+    {
+      "q": "Can I pump the sump water into a drain inside the house?",
+      "a": "<p>We're not going to answer that one, and we'd rather say why than guess. Whether sump discharge may go to the sanitary sewer in Calgary is something we could not confirm from a primary City source, and it's the sort of detail where a confident wrong answer on a plumbing website causes real trouble for the homeowner, not for the website.</p><p>Phone 311 and ask before anyone ties a sump line into an interior drain. It's a two-minute call and it's the only version of this answer worth having.</p>"
+    },
+    {
+      "q": "My pump runs but the basement still got wet in February. What happened?",
+      "a": "<p>Almost certainly the discharge line froze. The pipe runs outdoors, a little water sits in it after each cycle, and in a cold snap that freezes. The next cycle adds more, and within a couple of days there's a solid plug. After that the pump runs, the water can't get out, it drains back into the pit, and the pump keeps cycling until it burns out or the pit overflows. Meanwhile you can hear it running and assume everything's under control.</p><p>Chinooks make it worse here than in a place with steady cold, because each thaw refills the line with liquid water for the next freeze to seize. Slope the line so it drains itself, keep the outdoor run short and above the snow, use a bigger diameter outside than in, and fit a freeze-relief fitting so a blocked outlet dumps in the yard rather than in your basement. Then actually go outside during a cold snap and check water is coming out.</p>"
+    },
+    {
+      "q": "Will the City pump out my basement if it floods?",
+      "a": "<p>No. The City is blunt about it: basement flooding is the homeowner's responsibility, The City will only assess the situation, and &quot;The City does not pump water out of basements.&quot; Maintaining the pump is on you too.</p><p>The one thing worth separating out is what kind of water it is. Clean groundwater in a pit is entirely your problem. <em>Sewage</em> coming up a floor drain is a different call &mdash; ring 311 first, because if the City main is surcharged then half your block is backing up and paying a plumber to auger your line achieves nothing. Take photos before you clean anything up either way.</p>"
+    },
+    {
+      "q": "I have a backwater valve. Do I still need a sump pump?",
+      "a": "<p>They're not interchangeable, and this mix-up costs people basements. A backwater valve is a passive flap on your sewer line that stops sewage flowing back into the house when the City main surcharges. A sump pump actively lifts clean groundwater out of a pit before it reaches your floor. One does nothing about the other's problem.</p><p>If your basement gets damp along the cove joint every spring melt, that's a groundwater and grading issue and a backwater valve won't touch it. If sewage comes up the floor drain during a summer downpour, a sump pump won't touch that either. Some Calgary houses genuinely need both. Note that installing a back-flow prevention device requires a plumbing permit, and as of August 2026 there's no City rebate for either device.</p>"
+    }
+  ]
+}

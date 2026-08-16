@@ -1,0 +1,43 @@
+{
+  "path": "/water-bill-leak-calgary/",
+  "priority": "0.8",
+  "crumb": "High water bill",
+  "title": "Why Is My Calgary Water Bill So High? Find the Leak",
+  "og_title": "The silent leak costing Calgary homeowners about $875 a year",
+  "description": "A slow leak costs roughly $875 a year at 2026 City rates. Here is the math, plus the ten-minute meter check and the free toilet dye test.",
+  "h1": "Why your Calgary water bill jumped, and the $875 leak nobody adds up",
+  "image": "hero-waterbill.jpg",
+  "image_alt": "A residential water meter on a basement wall in a Calgary home with the low-flow indicator turning",
+  "sidebar_links": [
+    ["/low-water-pressure-calgary/", "Low water pressure"],
+    ["/sewer-water-line-responsibility-calgary/", "Who owns which pipe"],
+    ["/calgary-hard-water/", "Calgary hard water"],
+    ["/plumber-cost-calgary/", "What plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "How much can a running toilet really add to a Calgary water bill?",
+      "a": "<p>More than most people believe. The City's own benchmark is that a slow leak taking a minute to fill a 500&nbsp;ml pop bottle adds over twenty cubic metres a month. Put that against the 2026 rates &mdash; $1.7409 per cubic metre for water and $1.9050 for wastewater &mdash; and you get about <strong>$72.92 a month, roughly $875 a year</strong>. That's our arithmetic on The City's figures, not a number The City publishes, but you can check both halves yourself.</p><p>And a bottle a minute is a <em>slow</em> leak. A properly failed flapper runs faster than that. The maddening part is that it makes no noise, so the first evidence is a bill you assume must be a billing error. It usually isn't.</p>"
+    },
+    {
+      "q": "How do I check for a leak using my water meter?",
+      "a": "<p>Shut off every water-using thing in the house &mdash; taps, dishwasher, washer, ice maker, humidifier, irrigation timer &mdash; then go and look at the meter. In most Calgary houses it's in the basement on the wall facing the street, near where the line comes in and often close to the hot water tank. Most meters have a little dial or triangle that spins on any flow at all. With everything off, it should be completely still.</p><p>If it's creeping, you have a leak. If your meter doesn't have an obvious flow indicator, write down the reading, go out for two hours, and read it again &mdash; any change is water you didn't use. One warning: don't touch the valve out at the curb. That one belongs to The City and neither homeowners nor plumbers are allowed to operate it.</p>"
+    },
+    {
+      "q": "Does The City of Calgary give you a credit if a leak blew up your bill?",
+      "a": "<p>Not that we can find. As of August 2026 The City's water leaks page says nothing about bill credits, leak forgiveness, or adjusting a bill for water lost to a leak. Some utilities in other cities run those programs; we found nothing published for Calgary, and we'd rather tell you that plainly than let you assume relief is waiting.</p><p>It costs nothing to phone 311 and ask about your specific bill, and you should. But budget on the basis that the water you lost is water you're paying for. That's the whole argument for doing the meter check the first time a bill looks wrong, rather than waiting to see if it comes back down next month.</p>"
+    },
+    {
+      "q": "My bill went up but I can't find any water anywhere. What else could it be?",
+      "a": "<p>Work through the quiet ones. A water softener regenerating far more often than it needs to &mdash; easy to miss, since it dumps straight into the floor drain, and our hard water makes softeners cycle harder than the default settings assume. A furnace humidifier with a stuck solenoid, still trickling in July. An underground sprinkler line with a crack or a stuck valve, which leaks into gravel where you'll never see it.</p><p>One thing your meter won't catch is a leak on the buried water service line. The meter sits inside the house, so water escaping out in the yard never passes through it and generally never shows on your bill at all. There you're looking for a patch of lawn that greens up early, ground that stays oddly unfrozen in winter, or water you can hear running at the main shut-off with everything in the house off. Call 311 if that sounds like yours &mdash; once a service line leak is confirmed it comes with a 15-day repair deadline attached.</p>"
+    },
+    {
+      "q": "I'm on flat rate, not a meter. Should I switch?",
+      "a": "<p>Run the numbers, because The City states flat-rate customers pay roughly 68% more than metered customers. If your household uses an average amount of water or less, a meter almost certainly saves you money on its own, before any leak enters the conversation.</p><p>The less obvious argument is diagnostic. On flat rate a leak costs you nothing extra month to month, which sounds like a win right up until the water that's been running for two years turns up as a soft spot in the yard or a damp foundation wall. A meter is the only thing in your house that will tell you water is moving when nobody's using any.</p>"
+    },
+    {
+      "q": "The City says I have a leak on my water line. How long do I have to fix it?",
+      "a": "<p>Fifteen days from confirmation. Under the Water Utility Bylaw an owner has to repair a confirmed service line leak within that window or The City may issue a remedial order. It's a short runway once you factor in getting quotes and booking a crew, so start calling the day the letter lands.</p><p>Ask each contractor which method they're proposing &mdash; a trenchless service pull, a full excavation, or a hydrovac spot repair on a single defect. The price and the damage to your yard are very different across those three, and The City publishes no cost figures at all, so two written quotes is the only way to know what fair looks like. Remember the pipe from the property line to your house is yours, and the property line is usually only a few metres in from the curb.</p>"
+    }
+  ]
+}

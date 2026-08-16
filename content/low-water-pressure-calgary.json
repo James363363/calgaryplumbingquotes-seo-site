@@ -1,0 +1,43 @@
+{
+  "path": "/low-water-pressure-calgary/",
+  "priority": "0.8",
+  "crumb": "Low water pressure",
+  "title": "Low Water Pressure in Calgary: Causes and Fixes",
+  "og_title": "Low water pressure in Calgary — start with sudden versus gradual",
+  "description": "Did your pressure drop suddenly or fade over years? That question splits the diagnosis. Calgary causes, old galvanized piping, PRVs, and when to call 311.",
+  "h1": "Why your water pressure is low, and how to work out what's causing it",
+  "image": "hero-pressure.jpg",
+  "image_alt": "A weak stream of water from a kitchen tap in a Calgary home, with a scaled aerator removed on the counter",
+  "sidebar_links": [
+    ["/calgary-hard-water/", "Calgary hard water: the real numbers"],
+    ["/water-bill-leak-calgary/", "High water bill? Find the leak"],
+    ["/no-hot-water-calgary/", "No hot water: what to check"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "My water pressure dropped overnight. Where do I start?",
+      "a": "<p>First, ask a neighbour or two. If their pressure is down as well, it isn't your house &mdash; it's the distribution system, and that's a 311 call, not a plumber call. Crews work on mains, hydrants get flushed, and a break somewhere upstream affects a whole run of houses. You'll save yourself a service call by spending two minutes on this.</p><p>If it's only your house, walk down to the basement and look at the main shut-off valve where the water comes in, and check that it's fully open. A valve that got nudged during a furnace service or a renovation is genuinely one of the most common causes of a sudden drop. After that, the next suspect is a pressure reducing valve if your home has one &mdash; those fail, and when they fail they usually fail closed rather than open.</p>"
+    },
+    {
+      "q": "The pressure has been getting worse for years. Is that different?",
+      "a": "<p>Completely different, and it's the more expensive one. A gradual fade over five or ten years is the signature of pipes closing up from the inside. In Calgary that mostly means galvanized steel supply lines, which is what a lot of inner-city homes built before about 1960 still have.</p><p>Galvanized pipe rusts internally and the rust builds inward in layers. A three-quarter-inch pipe can end up with a quarter-inch of actual opening left, and because it happens slowly nobody notices until they visit somebody else's house and remember what a shower is supposed to feel like. The other tell is rusty or brownish water from both hot and cold taps, especially first thing in the morning or after a holiday away.</p>"
+    },
+    {
+      "q": "Only one tap is weak. Is that a plumbing problem?",
+      "a": "<p>Almost never. If the rest of the house is fine, the problem lives at that fixture, and you can usually fix it yourself for nothing. Start with the aerator &mdash; the little screen that screws into the end of the spout. Ours scale up fast because Calgary's water is hard, roughly 8&ndash;16 grains per gallon depending on which treatment plant you're on. Unscrew it, soak it in vinegar overnight, scrub the screen, refit.</p><p>If it's still weak, the same mineral build-up has likely got into the mixing cartridge inside the tap body, or the little shut-off valve under the sink isn't fully open. On a shower, it's the shower head, then the cartridge. None of that is a repipe and none of it should cost much &mdash; be wary of anyone who looks at one weak tap and starts talking about your supply line.</p>"
+    },
+    {
+      "q": "What is a PRV and how do I know if mine has failed?",
+      "a": "<p>A pressure reducing valve is a bell-shaped brass fitting on the incoming water line, usually within a metre or so of where the pipe enters the basement, often with an adjusting screw and locknut on top. Not every Calgary home has one. Its job is to knock street pressure down to something your fixtures and appliances can live with, which is what stops them being hammered.</p><p>When one fails you usually get one of two things. Pressure drops noticeably across the whole house and stays down &mdash; that's the common failure. Or pressure climbs, taps bang when you shut them, and the relief valve on the hot water tank starts weeping, which is the more damaging version. Either way it's a replaceable part rather than a house-wide problem, and a plumber can put a gauge on a hose bib and tell you in about ten minutes.</p>"
+    },
+    {
+      "q": "Can low pressure mean I've got a leak somewhere?",
+      "a": "<p>It can, and it's worth ruling out because a hidden leak costs you every month you don't find it. The clue is a drop with no obvious cause, sometimes with the sound of running water when nothing's on, damp spots, or a water bill that climbed for no reason. A leak on the buried service line between your property line and the house can pull pressure down and never show itself indoors at all.</p><p>The quick self-test: turn off every tap and appliance in the house, then watch the flow indicator on your water meter. If it's still registering, water is going somewhere. Do that before you call anyone. One thing to know if it does turn out to be the buried service line &mdash; under the Water Utility Bylaw an owner has to repair a confirmed service line leak within 15 days or The City can issue a remedial order, so that one doesn't sit on the to-do list. <a href=\"/water-bill-leak-calgary/\">More on finding leaks here.</a></p>"
+    },
+    {
+      "q": "Should I call 311 or a plumber?",
+      "a": "<p>Call 311 first if your neighbours are affected too, if there's water bubbling up in the street or the boulevard, if the water suddenly came back discoloured after being off, or if you've noticed City crews working nearby. Anything on the City's side of the property line is theirs, including the curb stop out by the sidewalk &mdash; and that one is worth knowing, because neither you nor your plumber is allowed to operate it.</p><p>Call a plumber if it's only your house, if it's been getting slowly worse for years, if the pressure is fine at some taps and poor at others, or if you can hear water running with everything off. And if you're genuinely not sure, 311 is free and a plumber isn't, so start there.</p>"
+    }
+  ]
+}

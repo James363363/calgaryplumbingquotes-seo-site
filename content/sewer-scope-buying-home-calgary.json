@@ -1,0 +1,43 @@
+{
+  "path": "/sewer-scope-buying-home-calgary/",
+  "priority": "0.8",
+  "crumb": "Sewer scope before buying",
+  "title": "Sewer Scope Inspection Before Buying a Calgary Home",
+  "og_title": "Your home inspection doesn't include the sewer line",
+  "description": "A standard home inspection stops at the drain. When a Calgary sewer scope is worth it, what the camera shows, and how to use it in a conditions deal.",
+  "h1": "Should you get a sewer scope before buying a house in Calgary?",
+  "image": "hero-sewerscope.jpg",
+  "image_alt": "Drain camera reel and monitor set up at a basement cleanout during a sewer scope inspection in Calgary",
+  "sidebar_links": [
+    ["/sewer-water-line-responsibility-calgary/", "Who owns which pipe"],
+    ["/drain-cleaning-calgary/", "Drain cleaning"],
+    ["/backwater-valve-rebate-calgary/", "Backwater valves"],
+    ["/plumber-cost-calgary/", "What plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "My home inspector is coming Thursday. Doesn't that cover the sewer?",
+      "a": "<p>No. A standard home inspection is visual and non-invasive &mdash; the inspector will run water, look at the visible drain piping, check the floor drain and note anything obvious. None of that tells you anything about the pipe buried between the foundation and the street, which is the part that costs real money.</p><p>A sewer scope is a separate service with a separate camera and usually a separate person. Some Calgary inspectors offer it as an add-on and some don't. If yours doesn't, book a plumber to do it, ideally the same day so you're not burning two days out of a conditions period that's probably only seven to ten days long anyway.</p>"
+    },
+    {
+      "q": "The house is a 1958 bungalow in Renfrew with big elms out front. Is that a yes?",
+      "a": "<p>That's the exact profile where we'd say don't skip it. Inner-city Calgary homes from before about 1970 typically have clay tile sewer lines with mortared joints, and mature boulevard elms and poplars find those joints reliably. Cast iron from the same era corrodes from the bottom of the pipe upward, so it can look serviceable right up until it isn't.</p><p>Add a finished basement and the case gets stronger, because a backup in a developed basement is a drywall-and-flooring event rather than a mop-up. On a 2015 build in the far northwest with PVC in the ground and no mature trees, the odds are much lower &mdash; still not zero, but that's a judgment call rather than an obvious yes.</p>"
+    },
+    {
+      "q": "It came back with roots. Do I walk away?",
+      "a": "<p>Usually not. Roots in a clay line is a common Calgary finding, and it sits on a spectrum &mdash; a few fine hairs at one joint is a maintenance item, a mass that's blocking most of the pipe with the tile displaced around it is a replacement conversation. The footage tells you which one you're looking at, and so does the plumber's written summary.</p><p>What you do with it is negotiate rather than panic. Get a written repair quote inside the conditions period so you're arguing from a real number instead of a fear, and decide what you want: a price reduction, the seller fixing it before possession, or a holdback. Walking away over roots is often leaving a perfectly good house because of a repair that could be handled properly.</p>"
+    },
+    {
+      "q": "Who pays if the bad part is out near the road?",
+      "a": "<p>You do, in most cases, once you own the house. In Calgary The City owns the water and sewer service from the mains to your property line and the homeowner owns it from the property line to the house &mdash; and the property line usually sits only a few metres in from the curb or sidewalk, not at the road. So a defect under the boulevard grass can still be entirely on the private side.</p><p>That's why the distance reading on a scope report matters so much. If the camera logs a break at 12 metres and the survey puts your front property line at 9, the buyer inherits that bill. Get the distance recorded in the report, not just described in conversation, and check it against the Real Property Report while you still have conditions in place.</p>"
+    },
+    {
+      "q": "The report says 'recommend monitoring.' What does that actually mean?",
+      "a": "<p>Honestly, it usually means the pipe isn't failing today but has features that will get worse &mdash; a slight belly holding a bit of water, minor root entry, some scaling in cast iron, an offset joint that's still passing flow. It's a real finding, not a formality, but it isn't a defect you can hand to a seller and ask for money.</p><p>Treat it as a maintenance schedule you've been handed for free. Ask the plumber what specifically they'd watch and how often, plan on a re-scope in a couple of years, and budget accordingly. And if you're buying with a developed basement, that's also the moment to price out backflow protection &mdash; a valve is cheaper than a claim.</p>"
+    },
+    {
+      "q": "What does a scope cost, and can I get one inside a five-day condition?",
+      "a": "<p>Nobody publishes an authoritative price for this in Calgary &mdash; every figure online is a company's own self-report. As a planning frame, it's typically a flat inspection fee in the territory of an hour or two of plumber time, and Calgary companies self-report hourly rates from roughly $85 to $150. Ask for the flat fee on the phone, and ask specifically whether it includes the recorded footage and a written report, because a verbal &quot;looked fine&quot; is worth very little in a negotiation.</p><p>Five days is tight but workable if you call the day the offer is accepted. Two things get you turned away at the door: no access to a cleanout, and a tenant or seller who wasn't told you were coming. Have your agent confirm access in writing, and if the house has no accessible cleanout, say so on the phone so the plumber brings the right kit or pulls a toilet.</p>"
+    }
+  ]
+}

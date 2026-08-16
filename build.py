@@ -11,6 +11,7 @@ import os
 import re
 import shutil
 from datetime import date
+from html import unescape
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CONTENT = os.path.join(ROOT, "content")
@@ -74,12 +75,18 @@ FOOTER = [
 
 
 # ---------------------------------------------------------------- helpers
-def strip_tags(html: str) -> str:
-    """Plain text for JSON-LD answer fields."""
-    text = re.sub(r"<[^>]+>", "", html)
-    text = (text.replace("&amp;", "&").replace("&nbsp;", " ")
-                .replace("&mdash;", "—").replace("&ndash;", "–")
-                .replace("&lt;", "<").replace("&gt;", ">").replace("&#39;", "'"))
+def strip_tags(markup: str) -> str:
+    """Plain text for JSON-LD answer fields.
+
+    Block-level tags become spaces so paragraphs don't concatenate
+    ("...price.Diagnostics are..."), and HTML entities are fully decoded so
+    "&minus;30&nbsp;&deg;C" doesn't reach a rich result as raw entity text.
+    """
+    text = re.sub(r"</(p|div|li|ul|ol|h[1-6]|section|table|tr)>", " ", markup)
+    text = re.sub(r"<br\s*/?>", " ", text)
+    text = re.sub(r"<[^>]+>", "", text)
+    text = unescape(text)
+    text = text.replace(" ", " ")
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -98,7 +105,9 @@ def business_schema() -> dict:
         "url": DOMAIN + "/",
         "telephone": PHONE_DISPLAY,
         "email": EMAIL,
-        "priceRange": "$$",
+        # priceRange and openingHoursSpecification are deliberately omitted until
+        # the real business confirms them — publishing unverified availability as
+        # structured data is a claim, not a placeholder.
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "[STREET ADDRESS]",
@@ -110,12 +119,6 @@ def business_schema() -> dict:
         "areaServed": [
             {"@type": "City", "name": "Calgary", "addressRegion": "AB", "addressCountry": "CA"}
         ],
-        "openingHoursSpecification": [{
-            "@type": "OpeningHoursSpecification",
-            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday",
-                          "Friday", "Saturday", "Sunday"],
-            "opens": "00:00", "closes": "23:59",
-        }],
         "knowsAbout": [
             "Emergency plumbing", "Water heater repair and replacement",
             "Drain cleaning", "Sewer line repair", "Backwater valve installation",
@@ -199,7 +202,7 @@ def build_header(path: str) -> str:
     )
     return f"""<a class="skip" href="#main">Skip to content</a>
 <div class="topbar"><div class="wrap">
-  <span>Serving Calgary and area &mdash; 24/7 emergency callouts</span>
+  <span>Serving Calgary and the surrounding area</span>
   <a href="tel:{PHONE_TEL}">Call {PHONE_DISPLAY}</a>
 </div></div>
 <header class="site">
@@ -209,7 +212,7 @@ def build_header(path: str) -> str:
       <span class="brand-text"><b>{BRAND}</b><span>Licensed Calgary plumbing</span></span>
     </a>
     <div class="hdr-cta">
-      <a class="tel" href="tel:{PHONE_TEL}"><small>24/7 dispatch</small><b>{PHONE_DISPLAY}</b></a>
+      <a class="tel" href="tel:{PHONE_TEL}"><small>Call or text</small><b>{PHONE_DISPLAY}</b></a>
       <a class="btn btn-primary btn-sm" href="/contact/">Free quote</a>
     </div>
   </div>
@@ -231,7 +234,8 @@ def build_footer() -> str:
         <p>[STREET ADDRESS]<br>Calgary, AB [POSTAL CODE]</p>
         <p><a href="tel:{PHONE_TEL}">{PHONE_DISPLAY}</a><br>
            <a href="mailto:{EMAIL}">{EMAIL}</a></p>
-        <p>Open 24 hours for emergencies.<br>Serving Calgary and surrounding communities.</p>
+        <p>Serving Calgary and surrounding communities.<br>
+           After-hours cover: <span class="placeholder">[CONFIRM AFTER-HOURS COVERAGE]</span></p>
         <p><span class="placeholder">[LICENCE / WCB / INSURANCE INFO]</span></p>
       </div>
       {cols}
@@ -304,14 +308,15 @@ def build_page(slug: str) -> str:
       <a class="btn btn-ghost" href="/contact/">Get a free quote</a>
     </div>
     <div class="hero-trust">
-      <span>&#10003; Licensed &amp; insured</span>
       <span>&#10003; Upfront pricing before we start</span>
-      <span>&#10003; 24/7 emergency callouts</span>
+      <span>&#10003; We tell you when it can wait</span>
+      <span>&#10003; Sources cited on every guide</span>
     </div>
   </div>
   <div><img src="/images/{hero_img}" alt="{hero_alt}" width="900" height="600" fetchpriority="high"></div>
 </div></div></section>"""
-        main = hero + '<div class="wrap page">' + body + "</div>"
+        # FAQ must be visible on the page wherever FAQPage schema is emitted.
+        main = hero + '<div class="wrap page">' + body + build_faq(faqs) + "</div>"
     else:
         crumb = meta.get("crumb", meta["h1"])
         main = f"""<div class="wrap page">

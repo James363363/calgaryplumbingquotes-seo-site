@@ -1,0 +1,43 @@
+{
+  "path": "/basement-bathroom-plumbing-calgary/",
+  "priority": "0.8",
+  "crumb": "Basement bathrooms",
+  "title": "Basement Bathroom Rough-In Calgary: Permits & Drainage",
+  "og_title": "Basement bathroom plumbing in Calgary — rough-ins, permits and the concrete question",
+  "description": "Adding a basement bathroom in Calgary? Finding an existing rough-in, breaking concrete vs up-flush, venting, slope and the permits that apply.",
+  "h1": "Basement bathroom plumbing in Calgary: rough-ins, permits and the concrete question",
+  "image": "hero-basement-bath.jpg",
+  "image_alt": "Capped ABS drain and vent stubs in a Calgary basement concrete slab, roughed in for a future bathroom",
+  "sidebar_links": [
+    ["/homeowner-plumbing-permits-alberta/", "What you can legally plumb yourself"],
+    ["/backwater-valve-secondary-suite-calgary/", "Backwater valves & secondary suites"],
+    ["/sump-pump-calgary/", "Sump pumps and discharge rules"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "How do I tell whether my basement already has a bathroom rough-in?",
+      "a": "<p>Sweep the slab and look for patches. A rough-in group is usually a 3-inch capped stub for the toilet sitting somewhere near a wall, a 2-inch stub a few feet away for a shower, a smaller one for the sink, and sometimes a vent stub poking up inside a stud bay. The concrete around them is often a different colour or texture from the rest of the floor because it was poured back over the trench.</p><p>Two things to watch for. First, a rough-in that exists isn't necessarily where you want the bathroom &mdash; builders put them where the drain happened to run, not where your layout works. Second, a stub in the floor tells you nothing about whether it's connected properly or vented. Before you design a room around it, have someone camera it and confirm where it goes.</p>"
+    },
+    {
+      "q": "Do I definitely need a permit for a basement bathroom?",
+      "a": "<p>Yes. Adding a bathroom means new fixtures, new drains and new vents &mdash; the plumbing system is being extended, and that's the City's own trigger for a plumbing permit. On top of that, if the basement is being developed for the first time you'll need a building permit for the development itself, and the plumbing permit is separate from it.</p><p>There's one rule that catches people badly: the City says that if you're intending to have both a kitchen and a bathroom in your basement, you must apply for a secondary suite. Not a bathroom-and-a-wet-bar debate &mdash; if it reads as a kitchen, you're in suite territory, which is a much bigger process. Worth knowing before you sketch anything.</p>"
+    },
+    {
+      "q": "Is an up-flush toilet a cop-out, or is it a legitimate option?",
+      "a": "<p>Legitimate, with honest tradeoffs. A macerating or up-flush system lets you put a bathroom where the gravity drain can't reach without excavating the slab, which on a finished basement or a shallow-fall situation can be the difference between a project that happens and one that doesn't.</p><p>The tradeoff is that you've introduced a mechanical part into a system that otherwise has none. Pumps fail eventually, they're noisier than gravity, and they're intolerant of anything going down the toilet that shouldn't. Gravity drainage installed properly will outlive you. If you can reach a gravity connection with adequate fall, take it &mdash; if you genuinely can't, an up-flush is a reasonable answer and not something to be embarrassed about.</p>"
+    },
+    {
+      "q": "Why is my plumber making a fuss about where the sink goes?",
+      "a": "<p>Venting. Every fixture needs air behind it or the trap siphons dry, and a dry trap means sewer gas in the room. A fixture against a wall that already has a vent stack in it is straightforward. A fixture out in the middle of the floor, or in the far corner away from any existing stack, means either a long horizontal run to reach a vent or a more involved arrangement to get air to it.</p><p>It's not the plumber being awkward &mdash; moving the vanity three feet toward a wall can take real money out of the job. Ask the question at layout stage, when a change is free, rather than after the framing is up.</p>"
+    },
+    {
+      "q": "Does a basement bathroom mean I need a backwater valve?",
+      "a": "<p>It's the right question to ask, because basement fixtures are below street level and that's exactly the situation backflow protection exists for. The National Plumbing Code 2020 requires fixtures located below the level of the adjoining street and subject to backflow to be protected. A plumbing permit is required to install a backflow prevention device, so it's permitted work either way.</p><p>The complication if you're heading toward a suite: a normally-open backwater valve may only serve one dwelling unit, and a secondary suite counts as a separate dwelling unit &mdash; so one valve cannot legally protect both the main house and the suite. Get that designed in at the start. Retrofitting it later means opening the floor a second time.</p>"
+    },
+    {
+      "q": "Can I do the plumbing myself and just get it inspected?",
+      "a": "<p>On a home you own and live in, yes &mdash; Alberta's trade rules include an owner exemption, and the City sells a homeowner plumbing permit for $116.50. Rough-in and final inspections are part of the deal, and honestly the inspections are the best value in the whole project because they catch mistakes before drywall.</p><p>Two caveats. If the bathroom is part of a suite you plan to rent, the homeowner permit isn't available to you &mdash; it requires the home not be a rental. And if anything on the job touches gas, that's a licensed contractor regardless. <a href=\"/homeowner-plumbing-permits-alberta/\">The full DIY rules are here.</a></p>"
+    }
+  ]
+}

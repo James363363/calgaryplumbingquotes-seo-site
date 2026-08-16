@@ -86,6 +86,15 @@ for url, html in sorted(pages.items()):
                         errors.append("%s empty FAQ answer in schema" % p)
         except json.JSONDecodeError as e:
             errors.append("%s invalid JSON-LD: %s" % (p, e))
+    # FAQ markup must correspond to FAQ content the visitor can actually see,
+    # or it is invisible-content structured data (policy violation).
+    has_faq_schema = "FAQPage" in types
+    has_faq_visible = 'class="faq"' in html
+    if has_faq_schema and not has_faq_visible:
+        errors.append("%s FAQPage schema but no visible FAQ section" % p)
+    if has_faq_visible and not has_faq_schema:
+        warnings.append("%s visible FAQ but no FAQPage schema" % p)
+
     if "Plumber" not in types:
         errors.append("%s missing LocalBusiness/Plumber schema" % p)
     if "BreadcrumbList" not in types:

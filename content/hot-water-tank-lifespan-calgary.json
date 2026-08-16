@@ -1,0 +1,43 @@
+{
+  "path": "/hot-water-tank-lifespan-calgary/",
+  "priority": "0.9",
+  "crumb": "Hot water tank lifespan",
+  "title": "How Long Does a Hot Water Tank Last in Calgary?",
+  "og_title": "Hot water tank lifespan in Calgary — what hard water really costs you",
+  "description": "Calgary's hard water shortens tank life. Realistic lifespan, how to read your tank's real age, and when repair beats replace — using the City's own data.",
+  "h1": "How long a hot water tank actually lasts in Calgary",
+  "image": "hero-tank-age.jpg",
+  "image_alt": "An ageing residential hot water tank in a Calgary basement utility room with scale staining around the drain valve",
+  "sidebar_links": [
+    ["/no-hot-water-calgary/", "No hot water: what to check first"],
+    ["/water-heater-permit-calgary/", "Do you need a water heater permit?"],
+    ["/calgary-hard-water/", "Calgary hard water: the real numbers"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "My tank is 10 years old and working fine. Do I have to replace it?",
+      "a": "<p>No. Age on its own is not a failure. Plenty of Calgary tanks run past twelve years, and the ones that do are almost always the ones somebody looked after &mdash; flushed now and then, anode rod checked at least once.</p><p>What changes at ten is your risk profile, not your tank. From there on, the sensible thing is to stop treating it as a permanent fixture and start treating it as a thing that will fail on a date you don't control. Know where the shut-offs are, keep anything valuable off the floor around it, and have a rough idea of what a replacement costs so you're not making that decision at 11 p.m. with water spreading. If it's on carpet or above a finished basement, move it up your list.</p>"
+    },
+    {
+      "q": "How do I find out how old my tank actually is?",
+      "a": "<p>Look for the manufacturer's data plate &mdash; usually a sticker on the front or side of the jacket. You want the brand name, the model number and the serial number. Most manufacturers hide the build date in the first four characters of the serial, commonly as year plus week of the year, so a serial starting <em>1832</em> often means 2018, week 32.</p><p>The catch is that the format genuinely varies by brand, and some of them have changed schemes over the years. Some use a letter for the month, some put the code somewhere else entirely. Don't guess &mdash; being three years out changes the whole decision. Take a photo of the plate, then look up that specific brand's own date-code guide, or phone their consumer line and read them the model and serial. Also check the joist or the wall beside the tank: a lot of Calgary installers leave a dated install sticker, and install date is really the number you care about.</p>"
+    },
+    {
+      "q": "I've never flushed my tank. Should I do it now?",
+      "a": "<p>Honestly? If the tank is well past ten and has never been flushed, probably not, and any plumber who tells you it's risk-free is glossing. Two things go wrong on old tanks. The drain valve is usually plastic, and once you open it after a decade of sitting there it often refuses to seat again, so now you've got a dripping valve you didn't have this morning. And disturbing a thick sediment bed can uncover a thin, already-rusted patch of tank floor that the scale was effectively plugging.</p><p>If your tank is under about six years old, flush it, and keep doing it &mdash; that's genuinely worth the half hour. If it's older than that and has never been touched, the better use of your money is usually to put it toward the replacement you're going to be making anyway. Ask a plumber to look at the tank's actual condition before flushing it rather than after.</p>"
+    },
+    {
+      "q": "My tank makes a popping and rumbling noise when it heats. Is that dangerous?",
+      "a": "<p>Not dangerous in the sense of about to explode &mdash; that's what the temperature and pressure relief valve on the side is there to prevent. But it is your tank telling you something specific: there's a layer of hardness scale sitting on the bottom of it, water is getting trapped underneath, and when the burner fires that trapped water flashes to steam and forces its way up through the sediment. That's the popping.</p><p>The part that matters is what's happening underneath the noise. That scale layer insulates the steel floor of the tank from the water above it, so the burner has to run longer to reach the same thermostat setting and the steel runs hotter than it was designed to. That's what cracks the glass lining, and once bare steel meets water you're counting down. Rumbling on a five-year-old tank is a maintenance prompt. Rumbling on a twelve-year-old tank is a budget prompt.</p>"
+    },
+    {
+      "q": "Is it worth repairing an older tank or should I just replace it?",
+      "a": "<p>Depends entirely on what failed. If it's a part bolted to the outside of the tank &mdash; thermocouple, gas control valve, thermostat, a heating element, the relief valve, the dip tube &mdash; that's a repair, and on a tank under about eight years old it's usually the right call. Those are hours and parts, not a new appliance.</p><p>If the tank itself is leaking &mdash; moisture at the base, rust weeping from a seam, a puddle that keeps coming back &mdash; there is no repair. A steel tank that has rusted through gets replaced, full stop, and anyone offering to patch it is selling you a delay. The grey zone is a ten-plus-year-old tank with a significant component failure. The rough test we use: if the repair is heading past about 40% of what a replacement costs, you're paying good money to keep an appliance that's already on borrowed time.</p>"
+    },
+    {
+      "q": "Do I need a permit to swap out my own hot water tank in Calgary?",
+      "a": "<p>The plumbing side and the gas side are two different questions, and it's the gas side that catches people out. As of August 2026, The City requires a plumbing permit when a plumbing system is constructed, extended or altered. A straight like-for-like swap with no change to the piping usually isn't an alteration; changing the size, the location or the venting usually is.</p><p>Gas is stricter. A homeowner cannot pull a gas permit in Calgary unless they hold Alberta first- or second-class gasfitter certification and live at the address &mdash; otherwise a licensed contractor has to pull it. So for the vast majority of people with a gas tank, the connection is not a DIY job regardless of how confident you are with a pipe wrench. <a href=\"/water-heater-permit-calgary/\">We've laid the whole thing out here</a>, and it's worth reading before you buy a tank at a big-box store.</p>"
+    }
+  ]
+}

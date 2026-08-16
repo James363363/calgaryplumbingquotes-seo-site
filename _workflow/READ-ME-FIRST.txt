@@ -1,0 +1,15 @@
+deploy.yml must end up at  .github/workflows/deploy.yml  in the repo.
+
+GitHub's drag-and-drop uploader will NOT create a .github folder, so add this
+file by hand, and add it LAST:
+
+  Repo -> Add file -> Create new file
+  Type the filename exactly:   .github/workflows/deploy.yml
+  (typing the slashes creates the folders as you go)
+  Paste the contents of deploy.yml, then Commit.
+
+Add it last: committing it triggers the CI build, and verify.py fails the
+build if any content file is still missing.
+
+NOTE: if you deploy via Cloudflare Pages instead of GitHub Pages, you do not
+need this file at all - Cloudflare does the building.
