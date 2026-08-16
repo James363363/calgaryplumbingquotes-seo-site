@@ -1,0 +1,43 @@
+{
+  "path": "/backwater-valve-secondary-suite-calgary/",
+  "priority": "0.8",
+  "crumb": "Backwater valves & suites",
+  "title": "Backwater Valves & Secondary Suites in Calgary",
+  "og_title": "Legal suite plumbing in Calgary: the one-valve-per-unit rule",
+  "description": "One backwater valve may serve only one dwelling unit. What Calgary's advisories mean for a legal basement suite, plus permits and who does the work.",
+  "h1": "Backwater valves and plumbing rules for a legal secondary suite in Calgary",
+  "image": "hero-suite.jpg",
+  "image_alt": "Plumbing rough-in for a basement secondary suite bathroom in a Calgary home",
+  "sidebar_links": [
+    ["/backwater-valve-rebate-calgary/", "Backwater valve rebates"],
+    ["/homeowner-plumbing-permits-alberta/", "DIY plumbing & the law"],
+    ["/basement-bathroom-plumbing-calgary/", "Basement bathroom plumbing"],
+    ["/sump-pump-calgary/", "Sump pumps"]
+  ],
+  "faqs": [
+    {
+      "q": "My house already has a backwater valve. Doesn't that cover the suite too?",
+      "a": "<p>Probably not, and this is the part that surprises people. The City's plumbing advisory reads a normally-open backwater valve as being permitted to serve only <em>one</em> dwelling unit. A legal secondary suite is a separate dwelling unit, so once the basement becomes a suite you have two units and one valve, which doesn't line up.</p><p>The advisory language about existing installations is that they may need to be removed, reconfigured, or have backwater protection added to meet the minimum requirements. What that means in your specific basement depends on where the valve sits relative to where each unit's drainage joins the main. Get a plumber to look at the actual pipe layout before you assume it's either fine or a disaster &mdash; and confirm the interpretation with The City, because the advisory itself says it isn't an official code interpretation.</p>"
+    },
+    {
+      "q": "Why does the code care about basement fixtures specifically?",
+      "a": "<p>Because of where the water goes when the sanitary main backs up. The National Plumbing Code 2020 requires fixtures located below the level of the adjoining street, and subject to backflow, to be protected. Anything below street level is downhill from a surcharged main, so a basement toilet, shower or floor drain is where sewage arrives first.</p><p>In a Calgary basement suite that's basically the whole unit &mdash; the bathroom, the kitchen sink, the laundry, the floor drain. That's why backflow protection tends to come up early in a suite conversion rather than as a finishing detail, and why it's cheaper to sort out while the floor is open than after the flooring goes down.</p>"
+    },
+    {
+      "q": "What's this about shut-off valves for the suite's water?",
+      "a": "<p>There's a companion advisory covering the potable water side. The short version is that in a building with more than one dwelling unit, each unit's water supply needs to be able to be shut off on its own &mdash; so you can isolate the suite to fix a tap down there without cutting water to the upstairs kitchen at the same time.</p><p>For a suite that's already built and being legalized, the advisory notes an alternative: shut-off valves at all the fixtures throughout the building, where that achieves the same purpose. That's a much friendlier option than opening walls to add a unit valve, but whether it flies in your building is a conversation with the safety codes officer, not something to decide from a web page.</p>"
+    },
+    {
+      "q": "Can I do the plumbing myself if I'm going to rent the suite out?",
+      "a": "<p>Careful here. Alberta's owner exemption lets you perform restricted plumbing work on property you own where you intend it &quot;only for personal and not-for-profit use.&quot; A suite you're building to rent is, on its face, for profit &mdash; so a reasonable reading is that the exemption doesn't cover it and the work needs a certified journeyperson.</p><p>We're flagging that as a reading, not settled law, because it hasn't been handed to us as a ruling and the wording is doing all the work. Before you pick up a pipe cutter, phone Alberta Apprenticeship and Industry Training and ask them directly, and consider asking a lawyer if there's real money riding on it. Getting this wrong on a rental suite is the kind of thing that resurfaces during an insurance claim or a sale.</p>"
+    },
+    {
+      "q": "Do I need a permit for the backwater valve, or is it covered by the suite permit?",
+      "a": "<p>A plumbing permit is required to install a backflow prevention device. On a suite conversion you're generally pulling permits anyway &mdash; the whole point of legalizing a suite is having the paperwork &mdash; but don't assume the development permit swallows the trade permits. They're separate approvals with separate inspections.</p><p>Ask whoever's doing the work to confirm in writing which permits are being pulled and in whose name, and make sure you get copies of the inspection results at the end. An unpermitted backflow device on a rented suite is a bad combination: it's a rental unit, so a claim will be scrutinised, and the missing permit is the first thing anyone will find.</p>"
+    },
+    {
+      "q": "The advisory says it has no legal status. So what do I actually rely on?",
+      "a": "<p>Right &mdash; and it's worth reading that line yourself. Both advisories state that advisory bulletins have no legal status and cannot be used as an official interpretation of the bylaws, codes and regulations in effect. They're The City telling you how it reads the code, which is genuinely useful, but they aren't the code.</p><p>What you rely on is the National Plumbing Code as adopted in Alberta, plus the decision of the safety codes officer who inspects your job. The practical move is to call The City's Technical Assistance Centre through 311 before the work is designed, describe your layout, and get their read. Doing that early costs you a phone call. Doing it after the concrete is poured costs considerably more.</p>"
+    }
+  ]
+}
