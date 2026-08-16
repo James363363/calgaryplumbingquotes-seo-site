@@ -1,0 +1,43 @@
+{
+  "path": "/drain-cleaning-calgary/",
+  "priority": "0.8",
+  "crumb": "Drain cleaning",
+  "title": "Drain Cleaning Calgary | Clogged & Slow Drains Cleared",
+  "og_title": "Calgary drain cleaning, and how to tell how urgent it is",
+  "description": "One slow fixture or the whole house? That answer changes what to do next. Same-day Calgary drain cleaning, honest DIY advice, main line backups handled.",
+  "h1": "Drain cleaning in Calgary, and how to tell a local clog from a main line problem",
+  "image": "hero-drain.jpg",
+  "image_alt": "Plumber feeding a drain auger cable into a basement cleanout in a Calgary home",
+  "sidebar_links": [
+    ["/sewer-water-line-responsibility-calgary/", "Who owns which pipe"],
+    ["/frozen-sewer-line-calgary/", "Frozen sewer lines"],
+    ["/sewer-scope-buying-home-calgary/", "Sewer scope before you buy"],
+    ["/emergency-plumber-calgary/", "Emergency plumbing"]
+  ],
+  "faqs": [
+    {
+      "q": "How do I know if it's just my sink or something bigger?",
+      "a": "<p>Count the fixtures. If one sink is slow and every other drain in the house runs normally, it's a local clog in that trap or branch &mdash; hair, soap, grease. Irritating, cheap, and it can wait for a weekday.</p><p>If two or more are slow at once, or the basement floor drain gurgles or backs up when the washing machine empties, that's your main line and it's a different situation entirely. The floor drain is the lowest opening in the house, so it's where everything comes out first. Stop running water &mdash; no laundry, no dishwasher, no showers &mdash; and get someone out, because every litre you send down has nowhere to go but your floor.</p>"
+    },
+    {
+      "q": "Should I just pour drain cleaner down it?",
+      "a": "<p>Honestly, no, and not because we want the call. If the line is completely blocked the product just sits on top of standing water, diluted, doing very little. What doesn't work stays parked in your trap. It's rough on aging cast iron and on older ABS joints, which describes a big chunk of Calgary's housing stock. And it makes it genuinely dangerous for whoever opens that pipe next &mdash; a plumber, or you an hour later.</p><p>Hot water and a proper plunger first. If you've already poured something in, just tell us when you call. Nobody's going to give you a hard time about it, but we do need to know before anyone pulls a trap apart.</p>"
+    },
+    {
+      "q": "Why does the same drain keep blocking every few months?",
+      "a": "<p>Because the clog is the symptom, not the problem. Something about that line collects debris, and clearing it without finding out why just puts you on a subscription. The usual suspects around here are grease coating the pipe wall on a kitchen line, a belly &mdash; a settled section that holds water instead of draining through &mdash; or roots in an older clay tile sewer.</p><p>There's a fourth one people miss: venting. Drains need air behind the water to flow, and a blocked or frost-capped vent stack makes them gurgle, run slow and pull the traps dry, which is where basement sewer smells come from. Frost closing a vent is a real thing in a Calgary deep freeze. A camera pass, or a look at the vent from the roof, sorts out which of the four you've got.</p>"
+    },
+    {
+      "q": "Is hydro jetting better than snaking?",
+      "a": "<p>Better at a different job. Snaking bores a hole through the blockage and gets you flowing again fast, which is exactly what you want when there's water on the floor. What it doesn't do is clean the pipe wall, so a grease-lined kitchen main narrows straight back up and you're calling again next year. Jetting scours the walls and actually restores the pipe diameter, so the gap between problems gets a lot longer.</p><p>But it isn't automatically the right answer. On a fragile line &mdash; deteriorated cast iron, cracked clay tile in a pre-1960 house &mdash; high pressure can turn a bad pipe into a broken one. The sensible order is clear it, camera it, then decide. Anyone quoting you jetting on a line they've never looked at is guessing with your pipe.</p>"
+    },
+    {
+      "q": "Sewage is coming up the basement floor drain. Who do I call first?",
+      "a": "<p>311, before a plumber. It's free and it's the only way to find out whether the City main is surcharged or the blockage is in your line. If the main is backed up, half the block is dealing with the same thing and paying someone to auger your pipe accomplishes nothing.</p><p>Know what The City will and won't do: an agent determines whether it looks like internal plumbing or City infrastructure, but crews won't move furniture, pull back carpet, remove toilets or open drywall to find the source. If it's on your side they'll tell you to call a plumber. In the meantime, stop using water anywhere in the house, keep people and pets out of the room, and photograph everything before you clean up &mdash; your insurer will want it.</p>"
+    },
+    {
+      "q": "My house is from the 1950s. Are tree roots inevitable?",
+      "a": "<p>Not inevitable, but you're in the profile. Homes built before roughly 1970 in Calgary usually have clay tile sewer lines laid in short sections with mortared joints, and our established neighbourhoods have big mature boulevard trees whose roots range far past the canopy hunting for water. Frost cycling nudges those joints open a fraction, warm damp sewer air leaks out, and the roots head straight for it.</p><p>The practical move isn't panic, it's knowing the condition. A camera pass tells you whether you're looking at a replacement in five years or twenty, and preventive augering every year or two on a known root line is far cheaper than an emergency backup and a basement restoration. It also tells you whether the defect sits on your side of the property line or The City's, which decides who pays.</p>"
+    }
+  ]
+}
