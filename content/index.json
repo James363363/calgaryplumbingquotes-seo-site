@@ -1,0 +1,34 @@
+{
+  "path": "/",
+  "layout": "home",
+  "priority": "1.0",
+  "title": "Plumber in Calgary | Repairs, Drains & Water Heaters | 24/7",
+  "og_title": "Calgary Plumbing Quotes — straight answers and honest prices",
+  "description": "Licensed Calgary plumbers for leaks, blocked drains, hot water tanks, frozen pipes and sewer backups. Upfront pricing, 24/7 emergency callouts, free quotes.",
+  "h1": "A Calgary plumber who tells you what it costs before the work starts",
+  "lede": "Whether water is spreading across your basement floor right now or you're just trying to work out whether that hot water tank has one more winter in it, you'll get a straight answer, a price you can plan around, and no pressure to buy anything you don't need.",
+  "image": "hero-pillar.jpg",
+  "image_alt": "A licensed plumber working on copper supply lines in the utility room of a Calgary home",
+  "faqs": [
+    {
+      "q": "Do you charge to come out and give me a quote?",
+      "a": "<p>For replacement work &mdash; a new hot water tank, a backwater valve, repiping, a basement bathroom &mdash; the quote is free. We come out, look at what's actually there, and give you a written price.</p><p>Diagnostics are different, and you should be sceptical of anyone who says otherwise. If your drain is backing up and nobody knows why, somebody has to spend an hour with a camera or an auger finding out. That's real work and it gets billed. What we do is tell you the diagnostic fee before we drive over, and roll it into the repair if you go ahead with us. The trap to watch for around Calgary is the \"free estimate\" that turns into a service call charge once the van is in your driveway &mdash; ask any plumber, including us, to say out loud on the phone what you'll owe if you decide not to proceed.</p>"
+    },
+    {
+      "q": "How fast can someone actually get here in an emergency?",
+      "a": "<p>Depends on the hour and the weather, and any plumber who promises you a hard number in January is guessing. On a normal day you're usually looking at same-day. During a deep cold snap &mdash; the week it hits &minus;30&nbsp;&deg;C and half the city's pipes let go at once &mdash; every plumber in Calgary is triaging, and so are we.</p><p>What matters more than our drive time is what you do in the first five minutes. Find your main shut-off valve <em>now</em>, before you need it. In most Calgary homes it's in the basement near the water heater, on the wall facing the street. Knowing where that handle is turns a flooded basement into a wet floor.</p>"
+    },
+    {
+      "q": "Are you licensed, and how would I check?",
+      "a": "<p>Yes &mdash; <span class=\"placeholder\">[LICENCE / WCB / INSURANCE INFO]</span>. But the more useful thing to know is what \"licensed\" actually means here, because a lot of Calgary companies say it without explaining it.</p><p>Plumber is a <strong>compulsory certification trade</strong> in Alberta. That means the person doing the work legally has to hold a journeyperson certificate or be a registered apprentice working under one &mdash; it isn't optional and it isn't a nice-to-have. Gasfitting is a <em>separate</em> ticket. A Red Seal plumber is not automatically a gasfitter, so if your job touches a gas line, ask specifically who's coming and what they hold. <a href=\"/homeowner-plumbing-permits-alberta/\">We wrote a full explainer on Alberta's rules here</a>, including what you're allowed to do yourself.</p>"
+    },
+    {
+      "q": "My house is from the 1970s. Should I be worried about the plumbing?",
+      "a": "<p>Worried, no. Aware, yes. Calgary's housing stock tells you a lot about what's likely to go wrong. Inner-city homes from before about 1960 often still have galvanized steel supply lines that scale shut from the inside &mdash; that's the classic \"pressure got worse over ten years and I never noticed\" case. Homes built roughly 1975&ndash;1997 may have Poly-B supply lines. Anything with an original sewer line from before the 1970s is likely clay tile, which is what mature boulevard tree roots go looking for.</p><p>None of that means you have a problem today. It means that when something does go, it's usually one of a short list of predictable things, and knowing which list your house is on makes budgeting a lot less alarming.</p>"
+    },
+    {
+      "q": "Where do you actually service?",
+      "a": "<p>Calgary proper and the immediate surrounding area. We'd rather say that plainly than list forty neighbourhood names to look bigger than we are.</p><p>One thing worth knowing if you're just outside the city: Airdrie, Cochrane, Okotoks and Chestermere are their own municipalities with their own permit processes. City of Calgary permit rules and fees do not apply there. If your job needs a permit and you're outside Calgary, we'll confirm that town's requirements before quoting rather than assuming.</p>"
+    }
+  ]
+}
