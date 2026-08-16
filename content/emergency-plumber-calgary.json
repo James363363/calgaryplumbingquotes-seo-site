@@ -1,0 +1,55 @@
+{
+  "path": "/emergency-plumber-calgary/",
+  "priority": "0.9",
+  "crumb": "Emergency plumbing",
+  "title": "Emergency Plumber Calgary | 24 Hour Callouts, Honest Triage",
+  "og_title": "Emergency plumber in Calgary — and how to tell if you actually need one tonight",
+  "description": "24 hour emergency plumbers in Calgary. What is a real emergency, what waits till morning, the first five minutes, and how after-hours pricing works.",
+  "h1": "Emergency plumber in Calgary — and how to tell whether you actually need one tonight",
+  "image": "hero-emergency.jpg",
+  "image_alt": "A plumber shutting off the main water valve in a flooded Calgary basement at night",
+  "sidebar_links": [
+    [
+      "/frozen-pipes-calgary/",
+      "Frozen & burst pipes"
+    ],
+    [
+      "/no-hot-water-calgary/",
+      "No hot water"
+    ],
+    [
+      "/sewer-water-line-responsibility-calgary/",
+      "Who owns which pipe"
+    ],
+    [
+      "/plumber-cost-calgary/",
+      "What a plumber costs"
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "Is this actually an emergency, or am I about to pay after-hours rates for nothing?",
+      "a": "<p>Rough rule: if water or sewage is moving and you can't stop it, if there's no water at all in deep cold, or if you can smell gas, that's tonight. A dripping tap, one slow drain, a toilet that won't stop running, or a weeping shut-off valve is a Tuesday morning problem &mdash; put a bucket under it, or close the little stop valve on the wall behind the toilet, and go to bed.</p><p>The two that catch people out in both directions: no hot water feels like a crisis and usually isn't damaging anything, while a small ceiling stain feels minor and can be a live leak. Mark the edge of the stain with a pencil and check it in a couple of hours. If it's grown, that's changed the answer.</p>"
+    },
+    {
+      "q": "Where is the main water shut-off in a Calgary house?",
+      "a": "<p>Basement, low on the wall facing the street, usually within a couple of metres of the water meter and often near the hot water tank. In an older inner-city bungalow it might be tucked behind a furnace room partition; in a 1980s suburban home it's typically in an unfinished corner of the mechanical room. Round handle turns clockwise; lever turns a quarter turn so it sits across the pipe.</p><p>Go and find it this week, before you need it, and turn it off and on once to make sure it isn't seized &mdash; old gate valves in this city seize all the time. Discovering a stuck valve while the ceiling is coming down is the difference between a wet floor and an insurance claim. There's also a curb stop out by the property line, but that one belongs to The City and no homeowner or plumber is allowed to operate it.</p>"
+    },
+    {
+      "q": "How fast will someone actually get here?",
+      "a": "<p>On a normal day, same-day is realistic and a couple of hours is common. In the week a deep cold snap breaks, every plumbing company in Calgary is working through a queue and anyone who promises you a firm 60 minutes in that week is guessing. We'd rather tell you \"three ahead of you, realistically late afternoon\" and be right than tell you what you want to hear.</p><p>What matters more than the drive time is the first five minutes at your end &mdash; main off, breakers off for wet areas, photos taken before anything gets cleaned up. That's what actually decides how much this costs you.</p>"
+    },
+    {
+      "q": "How much does an after-hours plumber cost in Calgary?",
+      "a": "<p>Nobody can give you an authoritative figure, and be suspicious of pages that do &mdash; there's no industry survey and no regulated rate here, so every number online is a company describing its own pricing. For scale, one Calgary company publishes roughly $150 to $250 an hour for emergency and after-hours work, versus $95 to $150 for a company during normal hours. That's one firm's self-report, not a benchmark.</p><p>The bigger variable is the structure. Ask on the phone: is there a call-out charge on top of labour, is there a minimum billable time, when does the after-hours rate start and stop, and what do I owe if I decide not to go ahead once you've looked at it. Any company that won't say those numbers out loud before driving over is telling you something.</p>"
+    },
+    {
+      "q": "Should I call 311 or a plumber when sewage backs up?",
+      "a": "<p>Call 311 first. The agent works out whether it looks like your internal plumbing or possibly City infrastructure, and knowing which side of the property line the problem is on before anyone digs saves real money. If your neighbours are backing up the same evening too, that points at the main rather than your line.</p><p>Just know the limits. City crews won't move furniture, pull back carpet, remove toilets or make holes in drywall to find the source, and if the blockage turns out to be on private property they'll advise you to call a plumber. So in practice it's often both calls &mdash; 311 first, plumber second. Meanwhile, stop using water in the house entirely; every flush and every load of laundry is going straight back onto your floor.</p>"
+    },
+    {
+      "q": "I smell gas. Do I call you?",
+      "a": "<p>No &mdash; not first. Get everyone out of the building. Don't flip light switches, don't unplug anything, don't use the phone inside, don't go hunting for the source. Once you're outside, call your gas utility's emergency line or 911. That's the call that matters.</p><p>A plumber comes after the gas has been made safe. Worth knowing that in Alberta, plumbing and gasfitting are two separate tickets &mdash; a Red Seal plumber is not automatically a gasfitter. If the repair touches a gas line, ask specifically who's coming and what certification they hold, because the wrong answer is a job that fails City inspection.</p>"
+    }
+  ]
+}
