@@ -1,0 +1,43 @@
+{
+  "path": "/plumber-cost-calgary/",
+  "priority": "0.9",
+  "crumb": "What plumbers charge",
+  "title": "How Much Do Plumbers Charge in Calgary? (2026)",
+  "og_title": "What Calgary plumbers charge, and why nobody can prove it",
+  "description": "Hourly vs flat rate, the service call fee most pages leave out, and why two quotes for the same job differ by hundreds. Honest ranges, sources named.",
+  "h1": "What plumbers charge in Calgary, and why no one can give you an exact number",
+  "image": "hero-cost.jpg",
+  "image_alt": "A plumber writing a written quote on a clipboard beside a hot water tank in a Calgary basement",
+  "sidebar_links": [
+    ["/homeowner-plumbing-permits-alberta/", "What you can do yourself"],
+    ["/emergency-plumber-calgary/", "Emergency plumbing"],
+    ["/hot-water-tank-lifespan-calgary/", "Is my hot water tank due?"],
+    ["/contact/", "Get a written quote"]
+  ],
+  "faqs": [
+    {
+      "q": "Is a plumbing estimate actually free in Calgary, or is that a hook?",
+      "a": "<p>Both, depending on what you're asking for. If you want a price to replace something &mdash; a hot water tank, a backwater valve, a basement bathroom, a service line &mdash; that quote should be free, because someone comes out, measures, and writes you a number. That's a sales visit and nobody should bill you for it.</p><p>If you want someone to find out why your drain keeps backing up, that's not an estimate, that's an hour of skilled work with a camera or an auger, and it gets charged. The plumbers who advertise &quot;free diagnosis&quot; are recovering it somewhere in the repair price, which you only notice if you get a second quote.</p><p>The question that cuts through all of it: <em>what do I owe if you come out and I decide not to proceed?</em> Ask it on the phone, before you book. Anyone who won't give you a straight number has answered a different question.</p>"
+    },
+    {
+      "q": "I got quoted way more than the hourly rate on the website. How?",
+      "a": "<p>Usually because the hourly rate isn't the whole invoice. There's often a service call or minimum charge on top &mdash; frequently the first hour, whether the job took ten minutes or sixty &mdash; plus parts with a markup on them, plus GST, plus an after-hours premium if it was an evening or a weekend. Add those up and a &quot;$120 an hour&quot; plumber can hand you a $400 bill for a ninety-minute visit and none of it is dishonest.</p><p>The fix isn't outrage, it's asking up front. Get the service call fee, the hourly or flat rate, and whether parts are itemised, all before anyone drives over. If the answer is a flat-rate quote for the whole job, even better &mdash; then the number you agree to is the number you pay.</p>"
+    },
+    {
+      "q": "Why is one quote $900 and the other $1,600 for the same job?",
+      "a": "<p>Nearly always because they aren't the same job, even though the first line reads the same. Check whether one includes the permit and the inspections and the other doesn't. Check whether one replaces the shut-off valves and flex lines and the other reuses twenty-year-old ones. Check the warranty &mdash; one year of labour versus five is a real cost difference. Check who patches the drywall or restores the lawn.</p><p>The way to settle it is to write the job down in one sentence yourself and give every plumber the identical sentence, then compare the written quotes line by line rather than total by total. Nine times out of ten the gap is scope, not greed &mdash; and the cheaper one is cheaper because it's doing less.</p>"
+    },
+    {
+      "q": "What does a plumbing permit cost, and should it be in the quote?",
+      "a": "<p>This one's actually verifiable, which is rare on this page. A homeowner's plumbing permit from The City is <strong>$116.50</strong> &mdash; $112 for the permit plus a $4.50 Safety Codes Council fee, no processing fee. That's the published figure as of August 2026, and City fees go up every January 1. A contractor pulling a trade permit is billed differently: $112 processing plus $9.79 per $1,000 of construction value, so the permit line grows with the size of the job.</p><p>If the work needs a permit, yes, it should be in the quote, and the plumber should be the one pulling it. Work that needs a permit includes constructing, extending or altering the plumbing system and replacing water or sewer lines. Repairing a leak, swapping a faucet or clearing a blockage doesn't. Anyone offering to skip a required permit is handing you a problem that surfaces at resale or at claim time.</p>"
+    },
+    {
+      "q": "Should I just go with the cheapest plumber?",
+      "a": "<p>If the scope genuinely matches, sure &mdash; there's no prize for overpaying. Independent owner-operators in this city report lower hourly rates than the bigger outfits and plenty of them do excellent work. What you trade away is usually availability: one truck means one job at a time, which you'll feel on the week half of Calgary's pipes freeze at once.</p><p>Where cheap goes wrong is when it's cheap because something's missing &mdash; no permit, no written quote, no warranty, no WCB coverage, or a price that changes once they're in your basement. Ask for it in writing, ask what happens if it takes longer than expected, and ask who's actually coming and what ticket they hold. Plumbing and gas are separate certifications in Alberta and a cheap quote from someone without the right one isn't a bargain.</p>"
+    },
+    {
+      "q": "Is it worth calling after hours, or should I wait until Monday?",
+      "a": "<p>Depends entirely on whether you can stop the water. Emergency and after-hours rates around Calgary are reported at roughly $150&ndash;$250 an hour against $85&ndash;$150 in normal hours, so the premium is genuine and it's worth thinking for thirty seconds before you dial.</p><p>Water you can't shut off, sewage coming up a floor drain, or a burst line in a &minus;30&nbsp;&deg;C snap &mdash; call now, because water damage compounds by the hour and the drying bill dwarfs the premium. A dripping tap, a slow drain, a weeping shut-off going into a bucket &mdash; shut that fixture's valve, put a towel down and book normal hours. Any plumber worth calling will tell you which category you're in over the phone for free.</p>"
+    }
+  ]
+}
