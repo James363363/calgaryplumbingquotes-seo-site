@@ -1,0 +1,43 @@
+{
+  "path": "/homeowner-plumbing-permits-alberta/",
+  "priority": "0.9",
+  "crumb": "DIY plumbing & the law",
+  "title": "Can I Do My Own Plumbing in Alberta? The Real Rules",
+  "og_title": "Alberta's DIY plumbing rules, resolved — compulsory trade vs. the owner exemption",
+  "description": "Plumbing is a compulsory trade in Alberta, yet homeowners have an exemption. What you can do yourself, what needs a permit, and where gas stops you.",
+  "h1": "Plumbing is a compulsory trade in Alberta — and you can still legally do your own",
+  "image": "hero-diy.jpg",
+  "image_alt": "A homeowner replacing the P-trap under a bathroom vanity in a Calgary house with basic hand tools",
+  "sidebar_links": [
+    ["/water-heater-permit-calgary/", "Do I need a permit for a hot water tank?"],
+    ["/gas-line-permit-calgary/", "Gas line permits in Calgary"],
+    ["/basement-bathroom-plumbing-calgary/", "Basement bathroom plumbing & rough-ins"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers actually charge"]
+  ],
+  "faqs": [
+    {
+      "q": "So is it actually legal for me to plumb my own house, or not?",
+      "a": "<p>Legal, yes, for your own home that you live in. The confusion comes from the fact that two different governments are involved and people mash their rules together. The province decides <em>who is allowed to do the work</em>, and it carves out an exemption for owners working on their own property for personal, not-for-profit use. The City of Calgary decides <em>whether the work needs a permit and an inspection</em>, and that's a completely separate question with its own form and its own fee.</p><p>Where people get burned is assuming that because the province lets them do it, the City doesn't need to know. Those are two different hurdles and you have to clear both. The good news is the second one costs $116.50 and a couple of appointments &mdash; it is genuinely not the obstacle people build it up to be.</p>"
+    },
+    {
+      "q": "Do I need a permit just to change a tap or a toilet?",
+      "a": "<p>No. The City is explicit that a plumbing permit is not required to replace existing faucets and fixtures, repair a leak in a water or drainage line, or clear a blockage. Swapping a fifteen-year-old kitchen faucet, putting in a new toilet where the old one sat, replacing a shut-off valve that's weeping &mdash; none of that needs paperwork.</p><p>The line is whether you're <em>changing the system</em> or just changing what's hanging off it. Same location, same connections, same drain and vent? That's a fixture swap. Running a new drain line, moving the toilet three feet, adding a fixture that wasn't there? Now you've extended or altered the plumbing system, and that's a permit.</p>"
+    },
+    {
+      "q": "What happens if I do the work and just never pull the permit?",
+      "a": "<p>Practically, most of the time, nothing happens for years. Then you go to sell. A permit leaves a record; no permit leaves no record, which sounds like an advantage right up until a buyer's home inspector is standing in a basement bathroom that isn't on any permit and asks when it went in. At that point you're negotiating against your own renovation, and the buyer holds the pen.</p><p>The other moment it surfaces is a claim. If a joint you made lets go and floods the basement, your insurer is going to want to know who did the work and whether it was inspected. Read your own policy before you assume it either way &mdash; ask your broker the question directly, in writing, while nothing is wrong. That's a five-minute phone call that's worth a lot more than a guess.</p>"
+    },
+    {
+      "q": "I'm putting a suite in the basement. Does the DIY exemption still cover me?",
+      "a": "<p>This is the one to be careful about. The provincial exemption is written for property the owner intends \"only for personal and not-for-profit use.\" A suite you plan to rent out is, on the plain reading of those words, not personal and not-for-profit. And separately, the City's homeowner permit is only available if the home isn't a rental &mdash; that part isn't ambiguous at all.</p><p>We're flagging this as a reasonable reading of the wording, not as settled law, because as far as we can tell nobody has definitively tested it. If your basement project is heading toward a legal secondary suite, phone Alberta Apprenticeship and Industry Training and ask them directly before you buy fittings. Suites also drag in the <a href=\"/backwater-valve-secondary-suite-calgary/\">backwater valve requirement for separate dwelling units</a>, which is its own pile of detail.</p>"
+    },
+    {
+      "q": "Why can't I pull a gas permit if I can pull a plumbing one?",
+      "a": "<p>Because gasfitting is a completely separate ticket from plumbing in Alberta, and the City doesn't extend the homeowner allowance to it. A homeowner can only take out a gas permit if they personally hold Alberta first- or second-class gasfitter certification, live at the address, and turn up in person with proof of qualifications. That's a very short list of people, and if you were on it you wouldn't be reading this.</p><p>So the practical rule in a Calgary house is: water and drainage, you can do yourself. The moment the job touches a gas line &mdash; a BBQ stub, a range, a garage heater, the gas connection on a water heater &mdash; a licensed contractor pulls the permit and does the work. The one narrow exception is a gas fireplace, where you may install the insert yourself but a licensed gas fitter still has to make the gas connection.</p>"
+    },
+    {
+      "q": "Is a Red Seal plumber automatically allowed to do my gas work?",
+      "a": "<p>Not automatically, no, and this is worth asking about before someone starts. To earn the Red Seal endorsement in Alberta a plumber has to pass both the Plumber and the Gasfitter Class B interprovincial exams &mdash; so a Red Seal plumber typically has gas qualifications behind them. But \"plumber\" on its own does not mean \"gasfitter,\" and plenty of perfectly competent journeyperson plumbers hold one ticket and not the other.</p><p>If your job crosses both, just ask on the phone: who's coming, and what do they hold? Anyone legitimate will answer that in one sentence without getting defensive about it.</p>"
+    }
+  ]
+}
