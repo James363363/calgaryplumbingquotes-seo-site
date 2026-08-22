@@ -1,0 +1,28 @@
+{
+  "_comment": "Date each page's cited facts were last re-checked against their sources. Update a slug ONLY when the sources were actually opened and confirmed. build.py renders these; a slug missing here renders no date at all rather than an unearned one.",
+  "reviewed": {
+    "about": "2026-08-16",
+    "backwater-valve-rebate-calgary": "2026-08-16",
+    "backwater-valve-secondary-suite-calgary": "2026-08-16",
+    "basement-bathroom-plumbing-calgary": "2026-08-16",
+    "calgary-hard-water": "2026-08-16",
+    "contact": "2026-08-16",
+    "drain-cleaning-calgary": "2026-08-16",
+    "emergency-plumber-calgary": "2026-08-16",
+    "frozen-pipes-calgary": "2026-08-16",
+    "frozen-sewer-line-calgary": "2026-08-15",
+    "gas-line-permit-calgary": "2026-08-16",
+    "homeowner-plumbing-permits-alberta": "2026-08-16",
+    "hot-water-tank-lifespan-calgary": "2026-08-16",
+    "index": "2026-08-16",
+    "low-water-pressure-calgary": "2026-08-16",
+    "no-hot-water-calgary": "2026-08-16",
+    "plumber-cost-calgary": "2026-08-16",
+    "sewer-scope-buying-home-calgary": "2026-08-16",
+    "sewer-water-line-responsibility-calgary": "2026-08-15",
+    "sump-pump-calgary": "2026-08-16",
+    "water-bill-leak-calgary": "2026-08-16",
+    "water-heater-permit-calgary": "2026-08-15",
+    "winterize-outdoor-tap-calgary": "2026-08-22"
+  }
+}
