@@ -73,6 +73,7 @@ FOOTER = [
     ("Hot water &amp; water supply", [
         ("/no-hot-water-calgary/", "No hot water? Start here"),
         ("/hot-water-tank-lifespan-calgary/", "How long tanks last in Calgary"),
+        ("/hot-water-tank-replacement-calgary/", "Hot water tank replacement"),
         ("/water-heater-permit-calgary/", "Water heater permits"),
         ("/calgary-hard-water/", "Calgary hard water &amp; softeners"),
         ("/low-water-pressure-calgary/", "Low water pressure"),
