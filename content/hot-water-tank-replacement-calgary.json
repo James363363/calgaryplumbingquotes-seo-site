@@ -1,0 +1,44 @@
+{
+  "path": "/hot-water-tank-replacement-calgary/",
+  "priority": "0.8",
+  "crumb": "Hot water tank replacement",
+  "title": "Hot Water Tank Replacement Calgary: Cost & Options",
+  "og_title": "Replacing a hot water tank in Calgary: what it costs and what actually drives the price",
+  "description": "What a hot water tank replacement costs in Calgary, what changes the price, how the venting decides it, and where the published numbers come from.",
+  "h1": "Replacing a hot water tank in Calgary: what it costs and what actually drives the price",
+  "image": "hero-hotwater.jpg",
+  "image_alt": "A replacement gas hot water tank standing beside its old vent connector in a Calgary basement utility room",
+  "sidebar_links": [
+    ["/hot-water-tank-lifespan-calgary/", "Is your tank actually due?"],
+    ["/water-heater-permit-calgary/", "Do you need a permit?"],
+    ["/no-hot-water-calgary/", "No hot water? Start here"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"],
+    ["/calgary-hard-water/", "Calgary hard water and your tank"]
+  ],
+  "faqs": [
+    {
+      "q": "Can I buy the tank myself at a big-box store and just pay someone to install it?",
+      "a": "<p>You can ask, but a lot of Calgary shops will say no, and it's worth understanding why before you assume you're being upsold. When a contractor supplies the tank, they carry the warranty conversation &mdash; if it fails in year three, that's their problem to chase with the manufacturer. When you supply it, that chain breaks, and most of them would rather not be halfway inside it.</p><p>The other half is the labour warranty. If your tank leaks and nobody can say whether it was the unit or the install, you end up with two parties pointing at each other and you in the middle. Ask up front: who warranties the tank, who warranties the work, and for how long. If the answer to supply-your-own is yes, get that split in writing before anyone books a date.</p>"
+    },
+    {
+      "q": "How do I know whether I need a power vent or the ordinary kind?",
+      "a": "<p>Go and look at the top of your current tank. If a plain metal pipe rises off it at an angle and disappears into a chimney or a bigger shared flue, that's an atmospheric tank &mdash; it vents on the fact that hot gas rises, with no fan. If there's a plastic pipe running out through a side wall and a small blower on top, that's a power vent.</p><p>The usual reason a Calgary house ends up switching is the chimney. Older inner-city homes often share a masonry flue between the furnace and the tank, and once the furnace gets replaced with a modern high-efficiency one that vents out the side wall, the tank is left alone on a flue that's now oversized for it. That's the moment the conversation changes from a swap to a venting job, and it's the single biggest reason two houses on the same street get very different quotes.</p>"
+    },
+    {
+      "q": "Do I have to put back the same size I've got now?",
+      "a": "<p>No, but resist the urge to jump up a size just because you once ran out of hot water. Think about what actually changed. Two kids who now shower back to back is a real reason. One bad morning three winters ago is not.</p><p>Going bigger isn't free either, and the costs aren't only the tank. A taller unit has to physically clear the joists and ducting in a Calgary basement, a wider one has to get down the stairs and around the corner, and a bigger burner draws more gas &mdash; which means somebody should check the line against everything else on your meter rather than assuming. If you're tight on space, ask about the same capacity in a different footprint before you assume you need a bigger box.</p>"
+    },
+    {
+      "q": "There's a $300 permit fee on my quote. Is that the real number?",
+      "a": "<p>The City's published fee is a lot lower than that. A homeowner plumbing permit is $116.50 &mdash; $112 plus a $4.50 Safety Codes Council fee. A contractor's trade permit is $112 processing plus $9.79 per $1,000 of construction value, and $116.50 is the floor, which on a tank swap is roughly where it lands. Fees go up every January 1, so check the current figure rather than trusting a page written last year.</p><p>That doesn't automatically make a $300 line item dishonest. A contractor's time to pull the permit, wait for the inspector and be on site for the inspection is real work, and some of them bundle it into that line rather than the labour line. What you're owed is the breakdown. \"Permit and paperwork\" as a single unexplained number is a fair thing to ask about, and a straight shop will answer it in a sentence.</p>"
+    },
+    {
+      "q": "Should I just go tankless while the wall's open anyway?",
+      "a": "<p>Maybe &mdash; but price it as a small renovation, not a tank swap, because that's what it is. The gas demand is much higher than the 40- or 50-gallon tank it replaces, so the branch line and sometimes the meter capacity have to be checked against your furnace, range, fireplace and garage heater all together. The old vent almost never gets reused. And you'll need a condensate drain.</p><p>The Calgary-specific catch is scale. Our water is hard enough that a tankless heat exchanger wants descaling on a schedule, and that's an ongoing cost people find out about in year three rather than at the quote. It's a real option and plenty of people are happy with it &mdash; just get both numbers side by side, including the servicing, before you decide.</p>"
+    },
+    {
+      "q": "My tank is twelve years old but it's working fine. Replace it now or wait for it to go?",
+      "a": "<p>There's no honest way to give you a date, and anyone who does is guessing. What you can do is weigh the difference between the two ways it ends. Replacing on a Tuesday in September, with three quotes in hand, is the cheapest version of this job you will ever get. Replacing at 11 p.m. in January because forty gallons is running across your basement floor is the most expensive, and that's before anything the water ruined.</p><p>So the useful question isn't \"how long has it got.\" It's whether the tank is somewhere it can do damage &mdash; on a finished floor, above a developed basement, next to stored boxes &mdash; and whether you'd rather choose the date than have it chosen for you. If it's sitting on bare concrete near a floor drain, waiting costs you less. If it isn't, twelve years is a reasonable point to start getting prices.</p>"
+    }
+  ]
+}
