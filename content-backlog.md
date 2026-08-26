@@ -43,7 +43,9 @@ Take the top unpublished item. Respect the note attached to it.
    *Note: heavily defended — 8 Calgary competitors, most 2026-dated. Angle on cold
    Calgary inlet temperatures, gas-sizing and venting permit triggers, and hard-water
    descaling as an ongoing cost. Expect 6–12 months to rank; do not read early flatness
-   as failure.*
+   as failure. **The operating-cost half is now published** as
+   `/tank-vs-tankless-operating-cost-calgary/` — this page is the install/commercial
+   half only, and must link to it rather than restate the arithmetic.*
 4. **Sewer line repair Calgary** — `new`. Roadmap Wk 10. Trenchless vs conventional.
    *Note: `/sewer-water-line-responsibility-calgary/` owns who-pays. This is the repair
    job itself. The City gives no cost figures — say so.*
@@ -83,13 +85,34 @@ Take the top unpublished item. Respect the note attached to it.
 
 ## WEDNESDAY QUEUE — homeowner guides
 
-1. What counts as a plumbing emergency (roadmap Wk 1)
-2. Why Calgary drains re-block (roadmap Wk 2)
-3. Repair vs replace: the decision (roadmap Wk 3) — *check overlap with
-   `/hot-water-tank-lifespan-calgary/`, which already has a "Repair or replace" section*
-4. Finding a hidden leak (roadmap Wk 4) — *link to `/water-bill-leak-calgary/`, don't repeat the arithmetic*
-5. Tank vs tankless operating cost (roadmap Wk 5)
-6. Gas vs electric water heater failure modes (roadmap Wk 6)
+1. Gas vs electric water heater failure modes (roadmap Wk 6)
+
+**The queue is down to one item. Flag for fresh keyword research** before next
+Wednesday — per the standing rule, do not invent topics unattended.
+
+### Deferred from the Wednesday queue (reasoned, not skipped silently)
+
+All four deferred 2026-08-26, after checking each against the built site. The
+roadmap was written against a plan; the site that exists already answers these.
+
+- **What counts as a plumbing emergency (roadmap Wk 1).** `/emergency-plumber-calgary/`
+  already carries the H2 "Is this actually an emergency? Start here", plus an FAQ
+  asking the same question in the same words, and its own H1 is "how to tell whether
+  you actually need one tonight". A second URL would cannibalise it. **Revisit only if
+  the section is later split out because the page has outgrown 2,000 words.**
+- **Why Calgary drains re-block (roadmap Wk 2).** `/drain-cleaning-calgary/` owns this
+  under "A drain that keeps clogging is a symptom, not bad luck" (grease, bellies,
+  roots, venting) and "Grease, roots and the Calgary specifics". That page is already
+  over spec at 2,371 words and is queued for a Saturday trim — adding a sibling URL
+  would split the signal rather than add anything.
+- **Repair vs replace: the decision (roadmap Wk 3).** The note on this item already
+  flagged the overlap and it holds: `/hot-water-tank-lifespan-calgary/` has "Repair or
+  replace" with usually-repair / usually-replace lists, and
+  `/hot-water-tank-replacement-calgary/` has "Before you replace, make sure you need to".
+  A generic whole-house repair-vs-replace guide would be thin and un-localisable.
+- **Finding a hidden leak (roadmap Wk 4).** `/water-bill-leak-calgary/` is this page:
+  meter check, toilet dye test, the work-down-this-list sequence, and the 15-day rule.
+  Nothing left that isn't already there.
 
 ---
 
@@ -110,6 +133,11 @@ homeowner figure and the $9.79-per-$1,000 contractor formula appear on at least 
 pages now. A stale fee on a site whose whole pitch is accuracy is the worst possible
 error. Diarise it.
 
+**Hard date — monthly:** `/tank-vs-tankless-operating-cost-calgary/` cites the Direct
+Energy regulated gas rate, which is reset every month. The page is written so the
+conclusion survives a rate change (it stress-tests up to $6/GJ), but the August 2026
+figure of $1.729/GJ should be refreshed at the next Saturday pass on that page.
+
 ---
 
 ## FRIDAY LANE — BLOCKED
@@ -129,6 +157,7 @@ jobs, so the lane has produced nothing. See
 | 2026-08-16 | 23 pages — initial build | mixed | — | See `claude/calgaryplumbingquotes-build-summary.md` |
 | 2026-08-22 | `/winterize-outdoor-tap-calgary/` | refresh | — | Saturday refresh: re-verified City sources, trimmed to 2,010 w |
 | 2026-08-24 | `/hot-water-tank-replacement-calgary/` | service / commercial | hot water tank replacement Calgary | **Intent verified distinct** from `/no-hot-water-calgary/` (symptom), `/hot-water-tank-lifespan-calgary/` (informational) and `/water-heater-permit-calgary/` (permit yes/no) — the SERP for this query is served entirely by commercial install-and-cost pages, and the site had none. Cites calgary.ca trades-permits, the City fee schedule, and the City hardness data; competitor price ranges labelled as self-reported. Corrects the "$100–$300 permit fee" figure published by a ranking competitor against the City's actual $116.50. **Hero image `hero-hotwater.jpg` is reused from `/no-hot-water-calgary/`** — all 23 heroes were already assigned 1:1; replace when original photography lands (roadmap M4). |
+| 2026-08-26 | `/tank-vs-tankless-operating-cost-calgary/` | homeowner guide | tank vs tankless cost Calgary | **Original arithmetic — the linkable asset.** Derives the actual annual energy saving from switching tank→tankless by combining NRCan's Alberta residential water-heating figure (42.5 PJ / 1,601.0 thousand households 2021 = 26.5 GJ/household), NRCan's ENERGY STAR "30% less energy" figure, the August 2026 Direct Energy regulated rate ($1.729/GJ) and ATCO Gas South's Low Use variable delivery ($1.000/GJ). Result: **$21.73/yr**, ceiling $84/yr under stress-test; payback 69–184 years against a $1,500–$4,000 install premium. Every ranking Calgary page claims $150–$300/yr with no arithmetic shown. Also: the fixed daily charge cancels out of the comparison; the federal fuel charge has been zero since 31 Mar 2025, so carbon-tax savings claims are stale; the most-cited "cold inlet is a myth" article was written by a Rinnai employee. **Could not verify** a Calgary winter inlet water temperature or any manufacturer-published hardness threshold — both stated as unverified on the page, with 311 and the installation manual as the reader's next step. Hero `hero-tank-age.jpg` reused from `/hot-water-tank-lifespan-calgary/`. 2,200 words. |
 
 ---
 
