@@ -1,0 +1,55 @@
+{
+  "path": "/tank-vs-tankless-operating-cost-calgary/",
+  "priority": "0.8",
+  "crumb": "Tank vs tankless running cost",
+  "title": "Tank vs Tankless Running Cost in Calgary | The Real Number",
+  "og_title": "We worked out what tankless actually saves a Calgary home per year",
+  "description": "The tank vs tankless energy saving, calculated from Alberta's published gas rates and NRCan data. It comes to about $22 a year, not the $150 you've read.",
+  "h1": "Tank vs tankless in Calgary: what the switch actually saves you per year",
+  "image": "hero-tank-age.jpg",
+  "image_alt": "A gas storage hot water tank and gas meter in the mechanical room of a Calgary home",
+  "sidebar_links": [
+    [
+      "/hot-water-tank-replacement-calgary/",
+      "Tank replacement costs"
+    ],
+    [
+      "/hot-water-tank-lifespan-calgary/",
+      "How long tanks last here"
+    ],
+    [
+      "/calgary-hard-water/",
+      "Calgary hard water"
+    ],
+    [
+      "/water-heater-permit-calgary/",
+      "Water heater permits"
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "Everyone says tankless saves 30% on energy. Is that wrong?",
+      "a": "<p>No, that part is probably about right &mdash; Natural Resources Canada says an ENERGY STAR certified tankless unit uses roughly 30% less energy than a storage tank. The problem is what happens next. People hear &ldquo;30%&rdquo; and picture 30% off a heating bill. It's 30% off the gas your <em>water heater</em> burns, which in an Alberta house is a small slice of a small number.</p><p>Thirty per cent of about 26 gigajoules a year is roughly 8 GJ. Alberta gas in August 2026 costs $1.729 a gigajoule for the gas itself plus a dollar a gigajoule to deliver it. Eight times $2.73 is about twenty-two dollars. The percentage is real. The dollars behind it just aren't very big here, because our gas is cheap.</p>"
+    },
+    {
+      "q": "So is a tankless heater a bad idea in Calgary?",
+      "a": "<p>Not at all &mdash; it's just a bad idea to buy one <em>to save money on gas</em>. That's the only claim this page is arguing with.</p><p>The reasons people are actually happy with them are reasons nobody puts in a spreadsheet. Nobody runs out of hot water when three people shower back to back. You get the floor space in the utility room back, which matters a lot if you're squeezing a bathroom into a basement. And they tend to last longer than a tank, so you may buy one appliance instead of two. If you want those things and you can afford the premium, buy it and enjoy it. Just don't let anyone tell you it pays for itself.</p>"
+    },
+    {
+      "q": "I got a quote saying I'd save $200 a year. Are they lying to me?",
+      "a": "<p>Probably not lying &mdash; more likely repeating a number that's been copied around the internet for years without anyone checking it against an Alberta gas bill. A lot of those figures started life in the United States, where gas costs several times what it costs here and a percentage saving turns into real money.</p><p>The fair way to handle it is not to accuse anyone of anything. Just ask them to show their work: how many gigajoules a year do you think my water heater burns, and what did you multiply that by? If they can answer that, great, compare it to what's on this page. If the number came from a brochure, you both now know that.</p>"
+    },
+    {
+      "q": "Does our hard water wreck a tankless unit?",
+      "a": "<p>&ldquo;Wreck&rdquo; is strong, but Calgary water is genuinely hard &mdash; the City's own 2025 numbers run up to 274 mg/L at the Glenmore plant, which is well into the &ldquo;very hard&rdquo; end of the scale. Scale builds up on any surface that heats water, and a tankless unit's heat exchanger is a narrow passage where a little scale matters more than it does in the bottom of a 50-gallon tank.</p><p>Practically, that means a descaling flush on a schedule for the rest of the unit's life, either as a service call or as a Saturday job with a pump and a jug of solution. Worth being honest about something: we went looking for a manufacturer that publishes an actual hardness threshold &mdash; over this many mg/L, treat the water or flush this often &mdash; and couldn't find one. Before you buy, ask to see the installation manual for the exact model and read what it says about water quality and warranty. That's a fair question and a good installer won't mind it.</p>"
+    },
+    {
+      "q": "What about the cold water coming in? Doesn't winter make it worse?",
+      "a": "<p>The physics is straightforward: the colder the water arriving, the more energy it takes to get it to shower temperature, and a tankless unit has to do all of that heating in the seconds the water spends inside it. That's why they're rated by how much flow they can lift by how many degrees, rather than by a tank size.</p><p>What we can't tell you is the actual number for Calgary. We looked for a published City of Calgary figure for the temperature of water arriving at a house in January and couldn't find one. Rather than borrow a figure from somewhere else and dress it up as local, we'd say ask 311 whether the City publishes distribution water temperatures. What matters for your house anyway is the sizing: tell the installer how many showers might run at once and make them tell you the flow the unit delivers at winter conditions, not the number on the front of the box.</p>"
+    },
+    {
+      "q": "Does swapping a tank for a tankless need a permit?",
+      "a": "<p>Yes, and this is the part that catches people. A like-for-like tank swap is one thing, but going tankless usually means new venting and often a bigger gas line, and once you're altering the gas system a licensed contractor has to pull the permit &mdash; a homeowner can't do it unless they hold Alberta gasfitter certification.</p><p>The permit itself is not the expensive part. City of Calgary trade permit fees start at $116.50 as of August 2026 and go up every January 1. The expensive part is the venting and gas-line work the permit is attached to. <a href=\"/water-heater-permit-calgary/\">We've written up exactly when a water heater job needs a permit here</a>, including the tankless case.</p>"
+    }
+  ]
+}
