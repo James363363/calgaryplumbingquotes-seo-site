@@ -71,7 +71,7 @@ Take the top unpublished item. Respect the note attached to it.
 - **Drain cleaning Calgary — REBUILD (roadmap Wk 2).** Deferred 2026-08-24, same reason.
   `/drain-cleaning-calgary/` was built 2026-08-16 and runs 2,373 words — **over the
   1,200–2,000 spec**. The real work here is a trim, not a rebuild. **Queued as a Saturday
-  refresh instead** (see SATURDAY QUEUE).
+  refresh instead** (see SATURDAY QUEUE). → **Done 2026-08-29**, now 1,999 w.
 - **Hot-water-tank repair & replacement (roadmap Wk 3).** → **Published 2026-08-24** as
   `/hot-water-tank-replacement-calgary/`. Intent verified as distinct from the three
   existing hot-water pages before building — see PUBLISHED below.
@@ -102,9 +102,9 @@ roadmap was written against a plan; the site that exists already answers these.
   the section is later split out because the page has outgrown 2,000 words.**
 - **Why Calgary drains re-block (roadmap Wk 2).** `/drain-cleaning-calgary/` owns this
   under "A drain that keeps clogging is a symptom, not bad luck" (grease, bellies,
-  roots, venting) and "Grease, roots and the Calgary specifics". That page is already
-  over spec at 2,371 words and is queued for a Saturday trim — adding a sibling URL
-  would split the signal rather than add anything.
+  roots, venting) and "Grease, roots and the Calgary specifics". That page was trimmed to
+  1,999 words on 2026-08-29 — adding a sibling URL would split the signal rather than add
+  anything.
 - **Repair vs replace: the decision (roadmap Wk 3).** The note on this item already
   flagged the overlap and it holds: `/hot-water-tank-lifespan-calgary/` has "Repair or
   replace" with usually-repair / usually-replace lists, and
@@ -120,18 +120,21 @@ roadmap was written against a plan; the site that exists already answers these.
 
 Seasonal order: refresh **ahead of** the season, not during it.
 
-1. **`/drain-cleaning-calgary/`** — trim 2,373 → under 2,000 (over spec), re-verify sources.
-   *Promoted here 2026-08-24 from the Monday queue.*
-2. `/frozen-pipes-calgary/` — ahead of the freeze window
-3. `/frozen-sewer-line-calgary/` — ahead of the freeze window
-4. `/no-hot-water-calgary/` — ahead of the winter failure peak
-5. `/plumber-cost-calgary/` — trim 2,684 → under 2,000 (over spec)
-6. `/sump-pump-calgary/` and `/water-bill-leak-calgary/` — both slightly over spec
+1. `/frozen-pipes-calgary/` — ahead of the freeze window
+2. `/frozen-sewer-line-calgary/` — ahead of the freeze window
+3. `/no-hot-water-calgary/` — ahead of the winter failure peak
+4. `/plumber-cost-calgary/` — trim 2,684 → under 2,000 (over spec)
+5. `/sump-pump-calgary/` and `/water-bill-leak-calgary/` — both slightly over spec
+
+**Done 2026-08-29:** `/drain-cleaning-calgary/` — trimmed 2,371 → 1,999 w, both cited
+City sources re-verified unchanged, permit-exemption fact and three internal links added.
+See PUBLISHED.
 
 **Hard date — 1 January:** City of Calgary permit fees increase annually. The $116.50
 homeowner figure and the $9.79-per-$1,000 contractor formula appear on at least five
 pages now. A stale fee on a site whose whole pitch is accuracy is the worst possible
-error. Diarise it.
+error. Diarise it. *(Spot-checked 2026-08-29 against calgary.ca trades-permits: still
+$112 + $4.50 SCC = $116.50.)*
 
 **Hard date — monthly:** `/tank-vs-tankless-operating-cost-calgary/` cites the Direct
 Energy regulated gas rate, which is reset every month. The page is written so the
@@ -158,6 +161,7 @@ jobs, so the lane has produced nothing. See
 | 2026-08-22 | `/winterize-outdoor-tap-calgary/` | refresh | — | Saturday refresh: re-verified City sources, trimmed to 2,010 w |
 | 2026-08-24 | `/hot-water-tank-replacement-calgary/` | service / commercial | hot water tank replacement Calgary | **Intent verified distinct** from `/no-hot-water-calgary/` (symptom), `/hot-water-tank-lifespan-calgary/` (informational) and `/water-heater-permit-calgary/` (permit yes/no) — the SERP for this query is served entirely by commercial install-and-cost pages, and the site had none. Cites calgary.ca trades-permits, the City fee schedule, and the City hardness data; competitor price ranges labelled as self-reported. Corrects the "$100–$300 permit fee" figure published by a ranking competitor against the City's actual $116.50. **Hero image `hero-hotwater.jpg` is reused from `/no-hot-water-calgary/`** — all 23 heroes were already assigned 1:1; replace when original photography lands (roadmap M4). |
 | 2026-08-26 | `/tank-vs-tankless-operating-cost-calgary/` | homeowner guide | tank vs tankless cost Calgary | **Original arithmetic — the linkable asset.** Derives the actual annual energy saving from switching tank→tankless by combining NRCan's Alberta residential water-heating figure (42.5 PJ / 1,601.0 thousand households 2021 = 26.5 GJ/household), NRCan's ENERGY STAR "30% less energy" figure, the August 2026 Direct Energy regulated rate ($1.729/GJ) and ATCO Gas South's Low Use variable delivery ($1.000/GJ). Result: **$21.73/yr**, ceiling $84/yr under stress-test; payback 69–184 years against a $1,500–$4,000 install premium. Every ranking Calgary page claims $150–$300/yr with no arithmetic shown. Also: the fixed daily charge cancels out of the comparison; the federal fuel charge has been zero since 31 Mar 2025, so carbon-tax savings claims are stale; the most-cited "cold inlet is a myth" article was written by a Rinnai employee. **Could not verify** a Calgary winter inlet water temperature or any manufacturer-published hardness threshold — both stated as unverified on the page, with 311 and the installation manual as the reader's next step. Hero `hero-tank-age.jpg` reused from `/hot-water-tank-lifespan-calgary/`. 2,200 words. |
+| 2026-08-29 | `/drain-cleaning-calgary/` | refresh | drain cleaning Calgary | **Saturday refresh.** Both cited sources re-opened and confirmed unchanged: calgary.ca sewage-backup (311 first; agent determines internal vs City; crews will not move furniture, pull carpet, remove toilets or open drywall; private-side → call a plumber) and calgary.ca trades-permits (permit **not** required to remove a blockage in the drainage, repair a leak, or replace existing faucets/fixtures; homeowner fee still **$112 + $4.50 SCC = $116.50**). **No drift on any fact; no dead links.** Trimmed 2,371 → 1,999 words by cutting body prose that the FAQ block already restated (chemical cleaners, snaking vs jetting, roots). Added the permit-exemption fact with citation, plus in-body links to `/backwater-valve-rebate-calgary/`, `/sump-pump-calgary/` and `/homeowner-plumbing-permits-alberta/` (11 internal links, was 8). Note: the two pages published since this one (`/hot-water-tank-replacement-calgary/`, `/tank-vs-tankless-operating-cost-calgary/`) are not topically adjacent to drain cleaning — no link forced. Source label corrected: the City page is titled "Sewage backups", not "sewage backup". |
 
 ---
 
