@@ -1,0 +1,43 @@
+{
+  "path": "/leak-detection-calgary/",
+  "priority": "0.8",
+  "crumb": "Leak detection",
+  "title": "Leak Detection Calgary: How a Hidden Leak Gets Found",
+  "og_title": "Leak detection in Calgary — and the free call to make first",
+  "description": "Where the leak is decides who pays. The City finds buried service line leaks free via 311. What detection costs, and the tests you can run tonight.",
+  "h1": "Leak detection in Calgary: finding the water before it finds your foundation",
+  "image": "hero-waterbill.jpg",
+  "image_alt": "The flow indicator turning on a residential water meter in a Calgary basement with every tap in the house shut off",
+  "sidebar_links": [
+    ["/water-bill-leak-calgary/", "High water bill?"],
+    ["/sewer-water-line-responsibility-calgary/", "Who owns which pipe"],
+    ["/low-water-pressure-calgary/", "Low water pressure"],
+    ["/plumber-cost-calgary/", "What plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "Does The City of Calgary actually come out and look for a leak for free?",
+      "a": "<p>For the buried water service, yes &mdash; and hardly anyone knows it. The City runs leak locators who get dispatched through 311 when someone reports a suspected leak, and when they're not out at emergency main breaks they do scheduled leak detection surveys around the city. So if your symptom is out in the yard rather than in the house, that 311 call is the cheapest diagnostic available to you and it happens before you've paid anybody.</p><p>What they're sorting out is whose pipe it is. The City's own test is to shut the water off at the valve &mdash; if the leak stops, it's on your side and it's your bill. They'll usually want access to your meter or main shut-off inside to run further checks. Fair warning though: once a leak on your side is confirmed, you've got 15 days to get it repaired before The City can issue a remedial order, so line up quotes the same week.</p>"
+    },
+    {
+      "q": "My water bill is normal but I still think there's a leak outside. Is that possible?",
+      "a": "<p>Very. It catches people out constantly. Your meter sits inside the house, so water escaping from the buried service line out in the front yard never passes through it and generally never lands on your bill at all. You can have a genuinely serious leak running for a year with a bill that looks completely ordinary.</p><p>What you're looking for instead is the ground telling you. A strip of lawn that greens up two weeks before the rest, a patch that stays soft, or ground that stays oddly unfrozen in the middle of a cold snap. Sometimes you can hear it &mdash; go to your main shut-off with everything in the house off and just listen. Any of that is worth a 311 call.</p>"
+    },
+    {
+      "q": "What should a plumber charge me just to find a leak in Calgary?",
+      "a": "<p>Nobody publishes it, and we've looked. We went through the Calgary pages currently ranking for leak detection in August 2026 and not one of them puts a price on it. There's no independent source either &mdash; no City department or trade body tracks this. If you find an article confidently quoting an average, check where it's written; it's almost always American.</p><p>What you can anchor on is hourly rates Calgary companies publish about themselves &mdash; roughly $85 to $120 an hour for independents, $95 to $150 for companies, and $150 to $250 after hours. That's a planning range for diagnostic time, not a quote, and it's each company grading its own homework. The useful move is to ask on the phone what the diagnostic costs, whether it rolls into the repair, and what happens if they don't find it the first time.</p>"
+    },
+    {
+      "q": "Can they find a leak without cutting holes in my walls?",
+      "a": "<p>Often they can narrow it enough that you open one small area instead of guessing across a whole room, which is really what you're paying for. Acoustic listening picks up the sound of pressurised water escaping, thermal imaging shows the cool shape of a wet area behind a finished surface, and isolating and pressure-testing sections rules out most of the house before anyone points a tool anywhere.</p><p>But be realistic about it. None of that sees through drywall &mdash; it tells you where to look, and eventually something has to be opened to fix the pipe. Be sceptical of any promise of a no-damage repair. A camera, by the way, only goes down drains and sewers, not through your supply pipes, so if you're being sold a camera for a damp wall, ask why.</p>"
+    },
+    {
+      "q": "Do I need a permit to repair a leak?",
+      "a": "<p>Not for a repair. The City is clear that a plumbing permit isn't required to repair a leak in a water distribution or drainage system, the same way you don't need one to swap a tap or clear a blockage. So a straightforward fix doesn't come with paperwork.</p><p>Replacing the line is a different story. The City does require a permit when water or sewer lines in or around the home are replaced &mdash; and a full service replacement is exactly that. The homeowner permit is $112 plus a $4.50 Safety Codes Council fee, so $116.50, as of August 2026. Worth knowing because permit cost sometimes gets used to explain a big quote, and it's a small number.</p>"
+    },
+    {
+      "q": "Will my insurance cover a leaking water line under my lawn?",
+      "a": "<p>Read your policy before you assume, because The City's own guidance on service line leaks says plainly that these repairs aren't typically covered by a basic homeowner's policy. That's a City document saying it, not us.</p><p>The add-on that's usually relevant is a service line endorsement, which is the one covering the buried line against things like tree roots, corrosion and shifting earth. Whether you have it, and what it caps out at, is a five-minute phone call to your broker &mdash; and much better made now than the week you're staring at a trench in your front yard with a 15-day clock running.</p>"
+    }
+  ]
+}
