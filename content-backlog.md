@@ -28,32 +28,32 @@ Editorial standard lives in `BRIEF.md`. Nothing here overrides it.
 
 Take the top unpublished item. Respect the note attached to it.
 
-1. **Leak detection Calgary** — `new`. Roadmap Wk 4.
-   *Note: the existing `/water-bill-leak-calgary/` page already owns the leak-cost
-   arithmetic and the meter/dye-test method. **Verify distinct search intent before
-   building.** If the SERP for "leak detection Calgary" is served by the existing page's
-   intent, do not build a second URL — strengthen the existing page instead and record
-   that here.*
-2. **Water softener installation Calgary** — `new`. Roadmap Wk 8.
+> **Queue order unchanged at the 2026-09-01 review, deliberately.** The site is 17 days
+> old and drew 19 organic sessions in that window (`seo-tracking.md`). There is no
+> ranking data — Google Search Console is not connected — and 19 sessions cannot rank
+> six topics against each other. Reordering this queue on that basis would be
+> superstition, not prioritisation. Order stands until there is data worth obeying.
+
+1. **Water softener installation Calgary** — `new`. Roadmap Wk 8.
    *Note: `/calgary-hard-water/` owns the hardness data and the "do you need one"
    question. This page must be the install/commercial half only — sizing, salt vs
    salt-free, drain and bypass requirements, what the job involves. Verify intent split
    before building. Use the verified Bearspaw/Glenmore figures, show the ÷17.1 conversion.*
-3. **Tankless water heater installation Calgary** — `new`. Roadmap Wk 5.
+2. **Tankless water heater installation Calgary** — `new`. Roadmap Wk 5.
    *Note: heavily defended — 8 Calgary competitors, most 2026-dated. Angle on cold
    Calgary inlet temperatures, gas-sizing and venting permit triggers, and hard-water
    descaling as an ongoing cost. Expect 6–12 months to rank; do not read early flatness
    as failure. **The operating-cost half is now published** as
    `/tank-vs-tankless-operating-cost-calgary/` — this page is the install/commercial
    half only, and must link to it rather than restate the arithmetic.*
-4. **Sewer line repair Calgary** — `new`. Roadmap Wk 10. Trenchless vs conventional.
+3. **Sewer line repair Calgary** — `new`. Roadmap Wk 10. Trenchless vs conventional.
    *Note: `/sewer-water-line-responsibility-calgary/` owns who-pays. This is the repair
    job itself. The City gives no cost figures — say so.*
-5. **Backwater valve installation Calgary** — `new`. Roadmap Wk 11.
+4. **Backwater valve installation Calgary** — `new`. Roadmap Wk 11.
    *Note: **two** pages already exist (`/backwater-valve-rebate-calgary/` and
    `/backwater-valve-secondary-suite-calgary/`). Consolidate, do not duplicate. Verify
    there is genuine install-intent demand distinct from those two before building.*
-6. **Sewer-line inspection / camera Calgary** — `new`. Roadmap Wk 9.
+5. **Sewer-line inspection / camera Calgary** — `new`. Roadmap Wk 9.
    *Note: `/sewer-scope-buying-home-calgary/` owns the pre-purchase angle and no plumber
    competes there. Verify distinct intent — this would be the general diagnostic-camera
    service, not the buyer's inspection. If the intent is not distinct, skip it.*
@@ -85,10 +85,31 @@ Take the top unpublished item. Respect the note attached to it.
 
 ## WEDNESDAY QUEUE — homeowner guides
 
-1. Gas vs electric water heater failure modes (roadmap Wk 6)
+> ### ⚠️ THIS LANE RUNS DRY AFTER 2026-09-02 — read this before anything else
+>
+> Item 1 is the **last** roadmap item. It publishes Wednesday 2026-09-02, and the lane
+> then has nothing left. The standing rule forbids inventing topics unattended, so on
+> **2026-09-09 the Wednesday run will correctly publish nothing** unless a human
+> commissions fresh keyword research first.
+>
+> Flagged at the 2026-09-01 monthly review as the one operational decision that actually
+> needed making. The Monday lane is fine — five items, covered into mid-October.
 
-**The queue is down to one item. Flag for fresh keyword research** before next
-Wednesday — per the standing rule, do not invent topics unattended.
+1. Gas vs electric water heater failure modes (roadmap Wk 6)
+2. **Basement bathroom: permits, backwater valve and what the City actually requires**
+   — `candidate — intent NOT verified, do not build unattended`.
+   *Added 2026-09-01. The only item on this page derived from observed demand rather
+   than the roadmap. `/basement-bathroom-plumbing-calgary/` and
+   `/backwater-valve-rebate-calgary/` are the site's two joint-best organic pages
+   (7 sessions each, of 19 total — see `seo-tracking.md`), and a basement bathroom is
+   the situation that turns a backwater valve from an optional upgrade into a code
+   question. A guide here would sit between the two pages that already draw, and link
+   both.*
+   **The caveat is real: 7 sessions is noise, not evidence.** Do not build this because
+   of the traffic number. Build it only if a human verifies the intent is distinct from
+   what `/basement-bathroom-plumbing-calgary/` already covers — the same bar every other
+   item here has to clear. **This is a backstop for 2026-09-09, not a substitute for the
+   keyword research.**
 
 ### Deferred from the Wednesday queue (reasoned, not skipped silently)
 
@@ -125,6 +146,17 @@ Seasonal order: refresh **ahead of** the season, not during it.
 3. `/no-hot-water-calgary/` — ahead of the winter failure peak
 4. `/plumber-cost-calgary/` — trim 2,684 → under 2,000 (over spec)
 5. `/sump-pump-calgary/` and `/water-bill-leak-calgary/` — both slightly over spec
+6. **`/backwater-valve-rebate-calgary/` and `/basement-bathroom-plumbing-calgary/`**
+   — *added 2026-09-01.* The site's two joint-best organic pages (7 sessions each of 19).
+   Not stale, not over spec, nothing wrong with them — the case for a pass is that
+   strengthening a page that already draws beats betting a new URL that doesn't.
+   **Deliberately placed below the seasonal items**, which are time-boxed by the October
+   freeze window and cannot slip; these two can wait. Re-check the traffic at the next
+   monthly snapshot before spending the slot — on 7 sessions this could be noise.
+
+**Do not add refreshes for staleness this quarter.** Every page was reviewed
+2026-08-15/16 or later. The 90-day threshold is not reachable until mid-November, so
+age-based refresh work would be invented work. Keep running the seasonal order.
 
 **Done 2026-08-29:** `/drain-cleaning-calgary/` — trimmed 2,371 → 1,999 w, both cited
 City sources re-verified unchanged, permit-exemption fact and three internal links added.
@@ -162,6 +194,21 @@ jobs, so the lane has produced nothing. See
 | 2026-08-24 | `/hot-water-tank-replacement-calgary/` | service / commercial | hot water tank replacement Calgary | **Intent verified distinct** from `/no-hot-water-calgary/` (symptom), `/hot-water-tank-lifespan-calgary/` (informational) and `/water-heater-permit-calgary/` (permit yes/no) — the SERP for this query is served entirely by commercial install-and-cost pages, and the site had none. Cites calgary.ca trades-permits, the City fee schedule, and the City hardness data; competitor price ranges labelled as self-reported. Corrects the "$100–$300 permit fee" figure published by a ranking competitor against the City's actual $116.50. **Hero image `hero-hotwater.jpg` is reused from `/no-hot-water-calgary/`** — all 23 heroes were already assigned 1:1; replace when original photography lands (roadmap M4). |
 | 2026-08-26 | `/tank-vs-tankless-operating-cost-calgary/` | homeowner guide | tank vs tankless cost Calgary | **Original arithmetic — the linkable asset.** Derives the actual annual energy saving from switching tank→tankless by combining NRCan's Alberta residential water-heating figure (42.5 PJ / 1,601.0 thousand households 2021 = 26.5 GJ/household), NRCan's ENERGY STAR "30% less energy" figure, the August 2026 Direct Energy regulated rate ($1.729/GJ) and ATCO Gas South's Low Use variable delivery ($1.000/GJ). Result: **$21.73/yr**, ceiling $84/yr under stress-test; payback 69–184 years against a $1,500–$4,000 install premium. Every ranking Calgary page claims $150–$300/yr with no arithmetic shown. Also: the fixed daily charge cancels out of the comparison; the federal fuel charge has been zero since 31 Mar 2025, so carbon-tax savings claims are stale; the most-cited "cold inlet is a myth" article was written by a Rinnai employee. **Could not verify** a Calgary winter inlet water temperature or any manufacturer-published hardness threshold — both stated as unverified on the page, with 311 and the installation manual as the reader's next step. Hero `hero-tank-age.jpg` reused from `/hot-water-tank-lifespan-calgary/`. 2,200 words. |
 | 2026-08-29 | `/drain-cleaning-calgary/` | refresh | drain cleaning Calgary | **Saturday refresh.** Both cited sources re-opened and confirmed unchanged: calgary.ca sewage-backup (311 first; agent determines internal vs City; crews will not move furniture, pull carpet, remove toilets or open drywall; private-side → call a plumber) and calgary.ca trades-permits (permit **not** required to remove a blockage in the drainage, repair a leak, or replace existing faucets/fixtures; homeowner fee still **$112 + $4.50 SCC = $116.50**). **No drift on any fact; no dead links.** Trimmed 2,371 → 1,999 words by cutting body prose that the FAQ block already restated (chemical cleaners, snaking vs jetting, roots). Added the permit-exemption fact with citation, plus in-body links to `/backwater-valve-rebate-calgary/`, `/sump-pump-calgary/` and `/homeowner-plumbing-permits-alberta/` (11 internal links, was 8). Note: the two pages published since this one (`/hot-water-tank-replacement-calgary/`, `/tank-vs-tankless-operating-cost-calgary/`) are not topically adjacent to drain cleaning — no link forced. Source label corrected: the City page is titled "Sewage backups", not "sewage backup". |
+| 2026-08-31 | `/leak-detection-calgary/` | service / commercial | leak detection Calgary | **Row added retroactively 2026-09-01 — the 2026-08-31 run published the page but did not update this file**, breaking the "update it in the same commit as the page" rule at the top. 1,995 words, 17 internal links, `review-log.json` stamped 2026-08-31. Intent was verified distinct from `/water-bill-leak-calgary/` (which owns the cost arithmetic and the meter/dye-test method): this page is the *diagnostic* — who finds the leak, what it costs, and the 311 angle. Leads on a fact no competitor surfaces: **the City dispatches leak locators for the buried water service free via 311**, and the City's own shut-off-at-the-valve test is what decides whose pipe it is. Carries the 15-day repair rule. **That run also left the page an ORPHAN** — no FOOTER entry and no inbound in-body links, so `verify.py` failed on `main` with 1 ERROR from 2026-08-31 until 2026-09-01. Fixed at the monthly review: added to the `FOOTER` "Hot water &amp; water supply" group, plus contextual in-body links from `/water-bill-leak-calgary/` and `/sewer-water-line-responsibility-calgary/`. `verify.py` now passes clean. |
+
+---
+
+## Monthly SEO review
+
+Snapshots and the measurement gap live in **`seo-tracking.md`**. Read it before
+reprioritising anything here.
+
+**2026-09-01 — first review.** Site 17 days old; 19 organic sessions. **No queue was
+reordered on the strength of that**, and no future run should reorder on numbers this
+small either. Two things came out of it: the Wednesday lane runs dry after 2026-09-02
+(flagged above), and **Google Search Console is not connected**, which is why nothing in
+this repo can answer a question about positions, impressions, CTR or actual queries.
+Connecting GSC is the highest-value non-content task on the list.
 
 ---
 
@@ -177,3 +224,7 @@ jobs, so the lane has produced nothing. See
   unattended.
 - Update `content/review-log.json` for any page whose sources you actually opened and
   confirmed. Do not stamp a date you did not earn.
+- **A page is not published until this file records it.** The 2026-08-31 run published
+  `/leak-detection-calgary/` and updated `review-log.json` but skipped the backlog and
+  the inbound links, leaving `main` failing `verify.py` for a day. Both are part of the
+  publish, not follow-up work.
