@@ -1,1 +1,41 @@
-placeholder-probe
+{
+  "path": "/gas-vs-electric-water-heater-calgary/",
+  "priority": "0.8",
+  "crumb": "Gas vs electric",
+  "title": "Gas vs Electric Water Heater Calgary: How Each Fails",
+  "og_title": "Gas or electric water heater? How each one actually fails in Calgary",
+  "description": "How gas and electric water heaters fail differently in Calgary, and what electric really costs to run here, worked from published rates.",
+  "h1": "How gas and electric water heaters fail, and what electric really costs to run in Calgary",
+  "image": "hero-hotwater.jpg",
+  "image_alt": "The control valve and burner access panel on a residential gas water heater in a Calgary basement utility room",
+  "sidebar_links": [
+    ["/no-hot-water-calgary/", "No hot water? Start here"],
+    ["/hot-water-tank-lifespan-calgary/", "How long tanks last in Calgary"],
+    ["/hot-water-tank-replacement-calgary/", "What a replacement costs"],
+    ["/tank-vs-tankless-operating-cost-calgary/", "Tank vs tankless running cost"],
+    ["/calgary-hard-water/", "Calgary hard water"],
+    ["/water-heater-permit-calgary/", "Water heater permits"]
+  ],
+  "faqs": [
+    {
+      "q": "My electric tank gives me about ten minutes of hot water and then it goes freezing. Is the tank finished?",
+      "a": "<p>Probably not, and this is the single most misdiagnosed thing in hot water. An electric tank has two elements, and they don't run at the same time &mdash; the manufacturer's manual calls it a &ldquo;flip/flop system,&rdquo; where the top one heats the upper portion first and then hands power down to the bottom one. If the lower element has failed, the top of the tank still heats perfectly. You get roughly a third of a tankful of hot water and then nothing, which feels exactly like a tank that's worn out or too small.</p><p>So before anyone sells you a bigger tank, get somebody to test both elements and both thermostats. It's a cheap check and it's frequently a single part. The version worth knowing about too: if the <em>upper</em> element goes, you get no hot water at all, because power never flips down to the bottom. Same tank, opposite symptom.</p><p>What would change the picture is water on the floor, or rust in the hot water. That's the tank itself, and that isn't repairable on either fuel.</p>"
+    },
+    {
+      "q": "My gas bill feels high. Would switching to an electric tank save me money?",
+      "a": "<p>No &mdash; and it isn't close, which is why it's worth being blunt about. We worked it out on this page from the published rates: at September 2026 numbers, natural gas costs about $2.12 a gigajoule delivered and electricity works out to about $48.63 a gigajoule once you convert kilowatt-hours to the same unit. That's before you allow for a gas tank losing some heat up the flue, which is the only part of the argument that runs electric's way.</p><p>Put through an average Alberta household's water heating, that's roughly $56 a year on gas against $770 to $980 on electricity. We stress-tested it three ways, including assuming electricity is 100 per cent efficient, and the gap never drops below about fourteen times. It's not an assumption you can argue your way out of; it's just what the two energies cost in Alberta.</p><p>If your gas bill is genuinely high, the thing to chase isn't the fuel &mdash; it's whether something is running that shouldn't be. Hot water is a small share of most Calgary gas bills; heating is the big one.</p>"
+    },
+    {
+      "q": "Is a gas water heater actually dangerous, or is that just something people say?",
+      "a": "<p>It's the reason there's a law about it. A gas water heater burns fuel indoors and sends the exhaust up a vent, and if that vent stops drawing properly, the combustion products don't leave. That's the failure mode an electric tank simply cannot have. Alberta's Building Code requires certified carbon monoxide alarms in every building with a residential occupancy that also has a fuel-burning appliance or an attached garage &mdash; including in the service room where the appliance lives, and within five metres of bedrooms.</p><p>The provincial guidance specifically names backdrafting chimneys and flues, and flags tightly sealed houses with ventilation fans. That's a fairly good description of a Calgary house in February with the furnace running, the range hood on and everything shut up against &minus;30.</p><p>Practically: have a working CO alarm, look at the vent connector once a year, and don't stack storage against the base of the unit where it draws its combustion air. If an alarm ever goes off, get everyone outside first and phone the emergency number on your gas bill or 911 &mdash; not a plumber.</p>"
+    },
+    {
+      "q": "A plumber told me Calgary's hard water is wrecking my tank. Real, or an upsell?",
+      "a": "<p>Real, but more specific than the way it usually gets pitched, and the specifics matter because they change what you should actually do. Laboratory testing found that on an electric tank, hard water didn't hurt the tank's efficiency or its lifespan &mdash; what it did was let sediment build up until it buried the bottom element, which then overheated and failed. Cleaning the tank and replacing that element restored full performance. On a gas tank the sediment sits between the burner and the water instead, and measured efficiency drifted down about three percentage points over two years' worth of testing.</p><p>Worth knowing the study was funded by the water-treatment industry's trade association, which has an obvious interest in hard water sounding alarming. We'd still take it seriously, partly because its electric finding cuts against that interest. And its test water was harder than ours &mdash; roughly 444 mg/L against Calgary's 141 to 274.</p><p>So: flushing sediment is worth doing, especially on an electric tank. &ldquo;Your tank is finished because of hard water&rdquo; is a much bigger claim than the evidence supports. Ask what specifically has failed.</p>"
+    },
+    {
+      "q": "Can I change a heating element myself?",
+      "a": "<p>People do, and we'd rather explain the risk than pretend it's impossible. The part is cheap and widely sold. What's behind the access panel is a 240-volt circuit, and a 4,500-watt element draws somewhere around 18 or 19 amps &mdash; that circuit isn't safe just because the thermostat has clicked off. You also have to drain the tank, and getting a seized element out without damaging the tank's glass lining is where a straightforward job turns into a replacement.</p><p>If you're going ahead: kill the breaker, confirm it's actually dead with a meter rather than assuming, and check whether the work needs an electrical permit before you start. The City runs homeowner electrical permits alongside plumbing ones, and 311 will tell you what applies to your job &mdash; the rules are worth a phone call rather than a guess.</p><p>The part we'd push back on is diagnosing by replacing. If you swap an element and the symptom doesn't change, you've spent money proving the thermostat was the problem. Have it tested first.</p>"
+    }
+  ]
+}
