@@ -95,7 +95,9 @@ Take the top unpublished item. Respect the note attached to it.
 > Flagged at the 2026-09-01 monthly review as the one operational decision that actually
 > needed making. The Monday lane is fine — five items, covered into mid-October.
 
-1. Gas vs electric water heater failure modes (roadmap Wk 6)
+1. ~~Gas vs electric water heater failure modes (roadmap Wk 6)~~ — **published 2026-09-02**,
+   see PUBLISHED. **This lane is now empty.** The 2026-09-09 run has nothing to build and
+   should publish nothing rather than invent a topic. Item 2 below is a candidate only.
 2. **Basement bathroom: permits, backwater valve and what the City actually requires**
    — `candidate — intent NOT verified, do not build unattended`.
    *Added 2026-09-01. The only item on this page derived from observed demand rather
@@ -141,8 +143,8 @@ roadmap was written against a plan; the site that exists already answers these.
 
 Seasonal order: refresh **ahead of** the season, not during it.
 
-1. `/frozen-pipes-calgary/` — ahead of the freeze window
-2. `/frozen-sewer-line-calgary/` — ahead of the freeze window
+1. ~~`/frozen-pipes-calgary/`~~ — **done 2026-09-05**, see below
+2. `/frozen-sewer-line-calgary/` — ahead of the freeze window ← **next**
 3. `/no-hot-water-calgary/` — ahead of the winter failure peak
 4. `/plumber-cost-calgary/` — trim 2,684 → under 2,000 (over spec)
 5. `/sump-pump-calgary/` and `/water-bill-leak-calgary/` — both slightly over spec
@@ -161,6 +163,23 @@ age-based refresh work would be invented work. Keep running the seasonal order.
 **Done 2026-08-29:** `/drain-cleaning-calgary/` — trimmed 2,371 → 1,999 w, both cited
 City sources re-verified unchanged, permit-exemption fact and three internal links added.
 See PUBLISHED.
+
+**Done 2026-09-05:** `/frozen-pipes-calgary/` — all three cited sources re-opened. **No fact
+drifted**, but two citation errors were corrected and one unverifiable claim removed. Trimmed
+2,059 → 1,999 w. New verified material from the Frozen Pipes Prevention Program page. See
+PUBLISHED.
+
+**Note for the next seasonal pass:** the City's frozen-water-lines page has been retitled
+*"Protect your water lines and meter from freezing"* — the URL is unchanged, but other
+pages may still cite it under the old title *"Frozen water lines"*. Check
+`/frozen-sewer-line-calgary/` and `/winterize-outdoor-tap-calgary/` when their turn comes.
+
+**Also worth a sweep:** the claim that homeowners and plumbers *may not legally operate*
+the curb stop is **not** in the City source and was removed from two pages on 2026-09-05
+(`/frozen-pipes-calgary/`, `/no-hot-water-calgary/`). What the source supports is that
+The City owns the service valve and that the homeowner is responsible for the main
+shut-off inside the house. Check `/sewer-water-line-responsibility-calgary/` and
+`/leak-detection-calgary/` for the same wording when they come up.
 
 **Hard date — 1 January:** City of Calgary permit fees increase annually. The $116.50
 homeowner figure and the $9.79-per-$1,000 contractor formula appear on at least five
@@ -195,6 +214,8 @@ jobs, so the lane has produced nothing. See
 | 2026-08-26 | `/tank-vs-tankless-operating-cost-calgary/` | homeowner guide | tank vs tankless cost Calgary | **Original arithmetic — the linkable asset.** Derives the actual annual energy saving from switching tank→tankless by combining NRCan's Alberta residential water-heating figure (42.5 PJ / 1,601.0 thousand households 2021 = 26.5 GJ/household), NRCan's ENERGY STAR "30% less energy" figure, the August 2026 Direct Energy regulated rate ($1.729/GJ) and ATCO Gas South's Low Use variable delivery ($1.000/GJ). Result: **$21.73/yr**, ceiling $84/yr under stress-test; payback 69–184 years against a $1,500–$4,000 install premium. Every ranking Calgary page claims $150–$300/yr with no arithmetic shown. Also: the fixed daily charge cancels out of the comparison; the federal fuel charge has been zero since 31 Mar 2025, so carbon-tax savings claims are stale; the most-cited "cold inlet is a myth" article was written by a Rinnai employee. **Could not verify** a Calgary winter inlet water temperature or any manufacturer-published hardness threshold — both stated as unverified on the page, with 311 and the installation manual as the reader's next step. Hero `hero-tank-age.jpg` reused from `/hot-water-tank-lifespan-calgary/`. 2,200 words. |
 | 2026-08-29 | `/drain-cleaning-calgary/` | refresh | drain cleaning Calgary | **Saturday refresh.** Both cited sources re-opened and confirmed unchanged: calgary.ca sewage-backup (311 first; agent determines internal vs City; crews will not move furniture, pull carpet, remove toilets or open drywall; private-side → call a plumber) and calgary.ca trades-permits (permit **not** required to remove a blockage in the drainage, repair a leak, or replace existing faucets/fixtures; homeowner fee still **$112 + $4.50 SCC = $116.50**). **No drift on any fact; no dead links.** Trimmed 2,371 → 1,999 words by cutting body prose that the FAQ block already restated (chemical cleaners, snaking vs jetting, roots). Added the permit-exemption fact with citation, plus in-body links to `/backwater-valve-rebate-calgary/`, `/sump-pump-calgary/` and `/homeowner-plumbing-permits-alberta/` (11 internal links, was 8). Note: the two pages published since this one (`/hot-water-tank-replacement-calgary/`, `/tank-vs-tankless-operating-cost-calgary/`) are not topically adjacent to drain cleaning — no link forced. Source label corrected: the City page is titled "Sewage backups", not "sewage backup". |
 | 2026-08-31 | `/leak-detection-calgary/` | service / commercial | leak detection Calgary | **Row added retroactively 2026-09-01 — the 2026-08-31 run published the page but did not update this file**, breaking the "update it in the same commit as the page" rule at the top. 1,995 words, 17 internal links, `review-log.json` stamped 2026-08-31. Intent was verified distinct from `/water-bill-leak-calgary/` (which owns the cost arithmetic and the meter/dye-test method): this page is the *diagnostic* — who finds the leak, what it costs, and the 311 angle. Leads on a fact no competitor surfaces: **the City dispatches leak locators for the buried water service free via 311**, and the City's own shut-off-at-the-valve test is what decides whose pipe it is. Carries the 15-day repair rule. **That run also left the page an ORPHAN** — no FOOTER entry and no inbound in-body links, so `verify.py` failed on `main` with 1 ERROR from 2026-08-31 until 2026-09-01. Fixed at the monthly review: added to the `FOOTER` "Hot water &amp; water supply" group, plus contextual in-body links from `/water-bill-leak-calgary/` and `/sewer-water-line-responsibility-calgary/`. `verify.py` now passes clean. |
+| 2026-09-02 | `/gas-vs-electric-water-heater-calgary/` | homeowner guide | gas vs electric water heater Calgary | **Row added retroactively 2026-09-05.** The 2026-09-02 run published the page but updated neither this file nor `review-log.json`, and **left the page an ORPHAN** — no `FOOTER` entry, no inbound in-body links — so `verify.py` failed on `main` with 1 ERROR from 2026-09-02 until 2026-09-05. Same failure mode as the 2026-08-31 `/leak-detection-calgary/` run, three days later. Fixed at the 2026-09-05 Saturday pass: added to the `FOOTER` "Hot water &amp; water supply" group, plus contextual in-body links from `/no-hot-water-calgary/` and `/hot-water-tank-replacement-calgary/`. **`review-log.json` deliberately still has no entry for this slug** — that run's sources were never confirmed by anyone, and the 2026-09-05 run checked the frozen-pipes sources, not these. The page currently renders no review date, which is the honest outcome. Whoever next touches it should verify its citations and stamp it then. |
+| 2026-09-05 | `/frozen-pipes-calgary/` | refresh | frozen pipes Calgary | **Saturday refresh — seasonal, ahead of the freeze window.** All three cited sources re-opened; **no fact had drifted.** Confirmed unchanged: 15 °C minimum thermostat, UL-listed heat tape/pipe sleeves, outside lines turned off/disconnected/drained, owner pays all private-side repair costs *including missing, damaged or frozen water meters*, City may send a crew to confirm, delays due to high volumes, Work Authorization Form required before the City thaws the private portion, at-risk letters; City owns main→property line and the homeowner owns property line→house, property line "a few metres from the edge of the curb or sidewalk", The City owns the service valve; and all three Acera Insurance claims (24–72 h vacancy checks, clogs/high pressure treated as maintenance, service line coverage for roots/shifting earth/corrosion). **Two citation errors corrected:** the City page has been retitled "Protect your water lines and meter from freezing" (was cited as "Frozen water lines", 3 occurrences), and the brokerage is *Acera*, not *ACERA*. **One claim removed as unverifiable:** the page asserted that neither homeowners nor plumbers may legally operate the curb stop — the City source does not say this. Replaced with what it does say: the homeowner is responsible for the main shut-off inside the house, everything past the property line is City property. Also corrected "service line endorsement" → "service line coverage", the source's own wording. **New verified material:** a section on the Frozen Pipes Prevention Program (new citation) — letters go out December 1–March 31, the ask is one inside tap running 24 h/day at pencil width until a follow-up letter, and metered residential participants are billed a **flat 7 m³/month for water and wastewater**, which is the fact that decides whether people comply and which no competitor surfaces. Trimmed 2,059 → **1,999 w** by cutting body prose the FAQ block already restated (torch reasoning, vacancy-check advice, the frozen-vs-sewer differential). Added an in-body link to `/leak-detection-calgary/`, published since this page went up (9 internal link targets, 15 links). The unverified-thaw-charge `.note` was kept and re-confirmed as still unverifiable. **Same unverifiable curb-stop claim found and fixed on `/no-hot-water-calgary/`** ("Neither you nor your plumber may legally operate it") — it is not in the City source. `review-log.json` was **not** stamped for that page: only the one valve fact was checked, not its other citations. |
 
 ---
 
@@ -224,7 +245,11 @@ Connecting GSC is the highest-value non-content task on the list.
   unattended.
 - Update `content/review-log.json` for any page whose sources you actually opened and
   confirmed. Do not stamp a date you did not earn.
-- **A page is not published until this file records it.** The 2026-08-31 run published
-  `/leak-detection-calgary/` and updated `review-log.json` but skipped the backlog and
-  the inbound links, leaving `main` failing `verify.py` for a day. Both are part of the
-  publish, not follow-up work.
+- **A page is not published until this file records it.** This has now failed twice.
+  The 2026-08-31 run published `/leak-detection-calgary/` and updated `review-log.json`
+  but skipped the backlog and the inbound links, leaving `main` failing `verify.py` for a
+  day. The 2026-09-02 run then published `/gas-vs-electric-water-heater-calgary/` and
+  skipped the backlog, `review-log.json` **and** the inbound links, leaving `main` failing
+  for three days. The backlog row, the `FOOTER` entry and two contextual in-body links are
+  part of the publish, not follow-up work. **Run `python3 verify.py` before you commit,
+  and do not commit on 1 ERROR.**
