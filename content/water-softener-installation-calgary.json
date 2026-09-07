@@ -1,0 +1,44 @@
+{
+  "path": "/water-softener-installation-calgary/",
+  "priority": "0.8",
+  "crumb": "Water softener installation",
+  "title": "Water Softener Installation Calgary: Sizing and Cost",
+  "og_title": "Water softener installation in Calgary: sizing it right, and what the job actually involves",
+  "description": "Sizing a softener from the City's own hardness data, the drain and permit rules, honest installed cost ranges, and what it costs to run each year.",
+  "h1": "Water softener installation in Calgary: sizing it right, and what the job actually involves",
+  "image": "hero-hardwater.jpg",
+  "image_alt": "A whole-home water softener and brine tank plumbed into the incoming water line in a Calgary basement utility room",
+  "sidebar_links": [
+    ["/calgary-hard-water/", "How hard is Calgary water?"],
+    ["/hot-water-tank-lifespan-calgary/", "Hardness and your tank"],
+    ["/homeowner-plumbing-permits-alberta/", "Can you do it yourself?"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"],
+    ["/water-bill-leak-calgary/", "High water bill? Find the leak"]
+  ],
+  "faqs": [
+    {
+      "q": "The salesman says I need a 48,000-grain unit for four people. Do I?",
+      "a": "<p>Probably not, and you can check him yourself. Take the City's hardness figure, divide it by 17.1 to get grains per gallon, multiply by about 62 gallons per person per day, and multiply by the number of people in the house. For four people on the hardest Calgary water that's around 3,900 grains a day.</p><p>Now the bit they usually skip: a \"32,000 grain\" unit doesn't deliver 32,000 grains at a sensible salt setting &mdash; it delivers closer to 20,000. Even so, 20,000 divided by 3,900 is about five days between regenerations, which is perfectly normal. A bigger unit isn't a scam and it does use salt a bit more efficiently, but ask him what daily grain load he calculated. If he can't tell you, he didn't calculate one.</p>"
+    },
+    {
+      "q": "Do I need a permit from the City to put one in?",
+      "a": "<p>Our honest answer is that you probably do and we can't prove it to you. The City says a plumbing permit is required when a plumbing system is \"constructed, extended or altered,\" and the only things it lists as exempt are fixing a leak, swapping faucets and fixtures, and clearing a blockage. Cutting into your main to add a softener, a bypass and a drain line isn't any of those.</p><p>But the City doesn't name water softeners anywhere we could find, so we're giving you our reading and not a rule. Ring 311 and ask before the work happens. If you're doing it yourself and you live in the house, the homeowner permit is $116.50 as of September 2026 &mdash; less than most people assume, and cheap next to explaining unpermitted work to a buyer's lawyer in ten years.</p>"
+    },
+    {
+      "q": "How much water and salt does the thing actually use once it's in?",
+      "a": "<p>Less than the scare stories suggest. A modern electronic unit uses about 40 gallons per regeneration. For a family of four on the harder side of Calgary water that's roughly 72 regenerations a year, about 10.8 cubic metres &mdash; which at the City's 2026 water and wastewater rates works out around $39 a year. On the softer side it's closer to $20.</p><p>Salt is the bigger nuisance, and it's four to eleven of the 20&nbsp;kg bags a year depending on your water and your settings &mdash; so it's a few trips down the basement stairs, not a fortune. The one thing worth avoiding is an old timer-style unit that regenerates on a fixed schedule whether you used the water or not. Those run near 90 gallons a cycle and cost roughly three times as much to run for exactly the same soft water.</p>"
+    },
+    {
+      "q": "Why does my neighbour's install cost less than my quote? Same house type.",
+      "a": "<p>Nine times out of ten it's the drain and the outlet. The unit has to flush brine somewhere on every regeneration, so it needs to sit within reach of a floor drain, a laundry standpipe or a utility sink, and it needs a plug for the electronic valve. If your utility area has both, it's a short job. If the drain is on the other side of the basement, somebody is running a line, and that's real work.</p><p>The other one is whether your house has a pre-plumbed softener loop. A lot of Calgary homes built since about 2000 have a capped pair of stubs sitting there waiting. If you've got one the plumber connects to it; if you haven't, they're cutting into your main line. Go and look before you assume you're being overcharged &mdash; and ask both companies to itemise the labour separately from the equipment.</p>"
+    },
+    {
+      "q": "Will the softener make the outside tap and the drinking water taste salty?",
+      "a": "<p>The outside taps normally aren't softened at all, and that's on purpose &mdash; softening the garden hose spends salt on your lawn for no benefit. A properly planned install leaves the exterior lines on hard water, and most also leave the kitchen cold tap hard so you've got an unsoftened source for drinking and cooking.</p><p>The important thing is that where that split lands gets decided before install day, not after. Moving it later means a second visit and a second invoice. As for taste, softened water doesn't taste salty, but ion exchange does trade the calcium and magnesium for sodium, so there is more sodium in it than in what came in. If anyone in the house is watching their sodium, ask for the hard-water kitchen tap to be quoted in from the start.</p>"
+    },
+    {
+      "q": "It's been in six months and the water feels hard again. What do I check first?",
+      "a": "<p>Salt bridge, almost always. If the brine tank gets packed right to the top, the salt can set into a solid crust with an empty space underneath, so the unit is happily regenerating with nothing to regenerate with while the level looks fine from above. Push a broom handle down the side of the tank &mdash; if it breaks through a hard layer into a gap, that's your answer. Break it up, and from then on keep the tank between a third and two-thirds full rather than brim-full.</p><p>The other two-minute check is the bypass valve. If it got knocked into bypass while somebody was moving boxes around the furnace, hard water is going straight past the softener and nothing is wrong with the machine at all. Check those two before you phone anyone, because between them they explain most of these calls.</p>"
+    }
+  ]
+}
