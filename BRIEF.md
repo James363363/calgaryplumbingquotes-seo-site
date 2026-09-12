@@ -110,9 +110,14 @@ Start directly with content. Wrap major sections in `<section>`.
 - City owns from the water main to the property line; homeowner owns from the property line
   to the house. Homeowner pays "all repair costs to the service on private property (with
   the exception of the water meter)." The property line typically ends "a few metres from
-  the edge of the curb or sidewalk." The water service valve (curb stop) sits very close to
-  the property line but **The City owns it** — homeowners and plumbers cannot legally operate it.
-  Source: https://www.calgary.ca/water/customer-service/water-service-lines-calgary.html
+  the edge of the curb or sidewalk." The water service valve (curb stop) "is placed very close
+  to the property line, but is not always on The City's side, however The City owns it." The
+  homeowner is responsible for the main shut-off valve normally located inside the house.
+  **DO NOT state that homeowners or plumbers may not legally operate the valve** — that claim
+  is not in the source. It was published in error and removed from `/frozen-pipes-calgary/`
+  and `/no-hot-water-calgary/` on 2026-09-05; this line was corrected 2026-09-12.
+  Source: https://www.calgary.ca/water/water-utility/water-service-lines-calgary.html
+  (canonical as of 2026-09-12; the older `/water/customer-service/` path still resolves)
 - Sewer: "Builders or homeowners are responsible for providing the water and sewer service
   connections from the property line to the residential or commercial plumbing system."
   Source: https://www.calgary.ca/development/home-building/water-sewer-connections.html
@@ -236,6 +241,8 @@ Start directly with content. Wrap major sections in `<section>`.
   the private portion. At-risk properties receive letters directing them to the City's Frozen
   Pipes Prevention Program.
   Source: https://www.calgary.ca/water/drinking-water/frozen-water-lines.html
+  (URL unchanged; the page is now titled **"Protect your water lines and meter from freezing"**
+  — cite it under that title, not the old "Frozen water lines". Confirmed 2026-09-12.)
 
 **Insurance (Alberta)**
 - An Alberta brokerage states most insurers require a vacant home be checked every **24–72
@@ -298,6 +305,11 @@ is a competitive advantage on this site, not a weakness.
 /homeowner-plumbing-permits-alberta/           DIY plumbing & the law
 /gas-line-permit-calgary/                      Gas line permits
 /basement-bathroom-plumbing-calgary/           Basement bathroom plumbing
+/hot-water-tank-replacement-calgary/           Hot water tank replacement (pub. 2026-08-24)
+/tank-vs-tankless-operating-cost-calgary/      Tank vs tankless running cost (pub. 2026-08-26)
+/leak-detection-calgary/                       Leak detection (pub. 2026-08-31)
+/gas-vs-electric-water-heater-calgary/         Gas vs electric water heaters (pub. 2026-09-02)
+/water-softener-installation-calgary/          Water softener installation (pub. 2026-09-07)
 /about/                                        About / trust
 /contact/                                      Contact & free quote
 ```
