@@ -78,8 +78,10 @@ FOOTER = [
         ("/gas-vs-electric-water-heater-calgary/", "Gas vs electric water heaters"),
         ("/water-heater-permit-calgary/", "Water heater permits"),
         ("/calgary-hard-water/", "Calgary hard water &amp; softeners"),
+        ("/water-softener-installation-calgary/", "Water softener installation"),
         ("/low-water-pressure-calgary/", "Low water pressure"),
         ("/water-bill-leak-calgary/", "High water bill? Find the leak"),
+        ("/leak-detection-calgary/", "Leak detection"),
     ]),
     ("Drains, sewers &amp; basements", [
         ("/drain-cleaning-calgary/", "Drain cleaning"),
