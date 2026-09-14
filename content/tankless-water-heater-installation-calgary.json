@@ -1,0 +1,44 @@
+{
+  "path": "/tankless-water-heater-installation-calgary/",
+  "priority": "0.8",
+  "crumb": "Tankless installation",
+  "title": "Tankless Water Heater Installation Calgary: The Job",
+  "og_title": "Tankless water heater installation in Calgary: what actually has to change in your house",
+  "description": "Gas capacity, venting, condensate and Calgary's hardness against the manufacturers' own 200 mg/L limit — what a tankless conversion really involves here.",
+  "h1": "Tankless water heater installation in Calgary: what actually has to change in your house",
+  "image": "hero-tank-age.jpg",
+  "image_alt": "A gas storage hot water tank beside the gas meter in the mechanical room of a Calgary home, the setup a tankless conversion replaces",
+  "sidebar_links": [
+    ["/tank-vs-tankless-operating-cost-calgary/", "Does tankless actually save money?"],
+    ["/water-heater-permit-calgary/", "Water heater permits"],
+    ["/calgary-hard-water/", "How hard is Calgary water?"],
+    ["/hot-water-tank-replacement-calgary/", "Tank replacement costs"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "The quote says my gas line has to be upsized. Is that real or is it padding?",
+      "a": "<p>It's usually real, and it's the single biggest reason two quotes on the same street come out thousands apart. Your storage tank is somewhere around 40,000 BTU an hour. The tankless units sold here go up to 199,900. That's roughly five times the gas, through the same pipe, at the same moment &mdash; and the unit only works if it still sees between 3.5 and 10.5 inches of water column at its inlet when the furnace and the stove are also running.</p><p>What you can do is make them show their work. Ask which model, what its maximum input is, what the total connected load on your meter becomes with it added, and what size and length of pipe they're proposing. A gasfitter who has actually sized it will answer that in about thirty seconds. One who hasn't will change the subject to the warranty.</p>"
+    },
+    {
+      "q": "Can I just reuse the chimney the old tank vented into?",
+      "a": "<p>No, and this catches people out because the chimney is right there and it looks like it's doing nothing now. A condensing tankless unit doesn't push hot gas up a flue; it pulls almost all the heat out of the exhaust, which leaves it cool and wet. The manufacturers' own manuals list plastic pipe &mdash; Schedule 40 PVC, CPVC or approved polypropylene &mdash; going out through a wall, not clay or metal going up.</p><p>The part worth asking about before the truck leaves is the other end of it. If your old tank shared that chimney with an older mid-efficiency furnace, taking the tank out leaves the furnace venting up a flue that was sized for both. We couldn't find a plain-language City or Alberta document that settles what has to happen next, so don't take our word for it &mdash; ask the installer, in writing, what they intend to do about the chimney, and get it on the quote rather than discovering it in November.</p>"
+    },
+    {
+      "q": "Everyone says Calgary water is hard on tankless. How hard is too hard?",
+      "a": "<p>There's an actual number, and almost nobody around here prints it. Navien and Rinnai both publish a total hardness limit of 200 mg/L in their installation manuals &mdash; that's about 12 grains per gallon. Above it, you're expected to treat the water, and Rinnai says so flatly: if the area is known for hard water, the water must be treated.</p><p>Now put the City's own numbers next to that. Glenmore plant water ran 181 to 274 mg/L through 2025 &mdash; over the line in every single quarter. Bearspaw ran 141 to 200 and touched it twice. So for a good chunk of this city, a tankless unit installed with nothing in front of it is running outside the maker's published water spec from day one. That doesn't mean it explodes. It means scale, more flushing, and a conversation about the warranty that you'd rather have now than in year six.</p>"
+    },
+    {
+      "q": "Which treatment plant supplies my house? I want to know where I sit on that hardness range.",
+      "a": "<p>Fair question and we can't answer it for you. The City publishes the hardness numbers for both plants but doesn't publish a map of which neighbourhoods get which water, and we're not going to guess at it &mdash; guessing is how a page like this ends up wrong in a way nobody catches.</p><p>Call 311 and ask which plant serves your address. It's a two-minute call and it changes the answer materially: the difference between the bottom of the Bearspaw range and the top of the Glenmore range is nearly double the hardness, which is the difference between a softener being optional and it being the thing that decides whether your warranty survives.</p>"
+    },
+    {
+      "q": "Do I need a permit, and can I pull it myself to save the fee?",
+      "a": "<p>You need one, and no, you almost certainly can't pull it yourself. The City lists three things that trigger a water heater permit &mdash; changing the gas lines upstream of the water heater shut-off, changing the venting system's size or design, and changing the type of water heater. A tank-to-tankless conversion does all three at once, so there's no argument to be had about it.</p><p>The catch is that it's gas work, and the City is blunt about that: homeowners can't take out a gas permit on their own house unless they happen to be a first- or second-class gasfitter. Everyone else hires a licensed contractor who pulls it. Ignore the pages telling you the permit runs $100 to $150 &mdash; that's the homeowner plumbing fee, which isn't the fee you'll be paying. Contractor trade permits are priced off the value of the work, and your installer should be showing you that line on the invoice, not burying it.</p>"
+    },
+    {
+      "q": "How do I compare three tankless quotes when they're all wildly different?",
+      "a": "<p>Strip out the brand names, because the equipment is the part everyone quotes honestly. The spread is in the work. Ask each of them to itemise five things separately: the gas line and anything the meter needs, the venting and where it exits the wall, the condensate drain, the 120-volt outlet, and the isolation valves for flushing. Whoever leaves one of those out isn't cheaper &mdash; they've just moved it to a change order.</p><p>Then ask one question that sorts them fast: what inlet water temperature did you size this on? A tankless unit's rated flow is a function of how far it has to lift the incoming temperature, and Calgary's winter mains temperature isn't something we could find published anywhere official. If they've assumed summer water, the unit will be fine in July and disappointing in January, and you'll have paid for capacity you never had.</p>"
+    }
+  ]
+}
