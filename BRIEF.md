@@ -310,6 +310,7 @@ is a competitive advantage on this site, not a weakness.
 /leak-detection-calgary/                       Leak detection (pub. 2026-08-31)
 /gas-vs-electric-water-heater-calgary/         Gas vs electric water heaters (pub. 2026-09-02)
 /water-softener-installation-calgary/          Water softener installation (pub. 2026-09-07)
+/tankless-water-heater-installation-calgary/   Tankless water heater installation (pub. 2026-09-14)
 /about/                                        About / trust
 /contact/                                      Contact & free quote
 ```
