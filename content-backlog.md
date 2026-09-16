@@ -80,33 +80,118 @@ Take the top unpublished item. Respect the note attached to it.
 
 ## WEDNESDAY QUEUE — homeowner guides
 
-> ### ⚠️ THIS LANE RUNS DRY AFTER 2026-09-02 — read this before anything else
+> ### ⚠️ LANE DRY SINCE 2026-09-02 — TWO WEDNESDAYS MISSED — read this before anything else
 >
-> Item 1 is the **last** roadmap item. It publishes Wednesday 2026-09-02, and the lane
-> then has nothing left. The standing rule forbids inventing topics unattended, so on
-> **2026-09-09 the Wednesday run will correctly publish nothing** unless a human
-> commissions fresh keyword research first.
+> The last roadmap item published **2026-09-02**. The lane has been empty since.
+> **2026-09-09 published nothing** (correctly — no item cleared the bar), and
+> **2026-09-16 published nothing** for the same reason, after re-checking. That is two
+> consecutive missed Wednesdays, and it will be three on 2026-09-23 unless a human
+> picks from the researched candidates below.
 >
-> Flagged at the 2026-09-01 monthly review as the one operational decision that actually
-> needed making. The Monday lane is fine — five items, covered into mid-October.
+> The blocker is **not** a lack of topics — the 2026-09-16 run did the keyword and SERP
+> research the 2026-09-01 review asked for, and three evidenced candidates are recorded
+> below. The blocker is the standing rule that an unattended run does not commission its
+> own topics. **One line from James unblocks the lane.**
+
+### Status of the previous standing candidate
 
 1. ~~Gas vs electric water heater failure modes (roadmap Wk 6)~~ — **published 2026-09-02**,
-   see PUBLISHED. **This lane is now empty.** The 2026-09-09 run has nothing to build and
-   should publish nothing rather than invent a topic. Item 2 below is a candidate only.
-2. **Basement bathroom: permits, backwater valve and what the City actually requires**
-   — `candidate — intent NOT verified, do not build unattended`.
-   *Added 2026-09-01. The only item on this page derived from observed demand rather
-   than the roadmap. `/basement-bathroom-plumbing-calgary/` and
-   `/backwater-valve-rebate-calgary/` are the site's two joint-best organic pages
-   (7 sessions each, of 19 total — see `seo-tracking.md`), and a basement bathroom is
-   the situation that turns a backwater valve from an optional upgrade into a code
-   question. A guide here would sit between the two pages that already draw, and link
-   both.*
-   **The caveat is real: 7 sessions is noise, not evidence.** Do not build this because
-   of the traffic number. Build it only if a human verifies the intent is distinct from
-   what `/basement-bathroom-plumbing-calgary/` already covers — the same bar every other
-   item here has to clear. **This is a backstop for 2026-09-09, not a substitute for the
-   keyword research.**
+   see PUBLISHED. Last roadmap item in this lane.
+2. ~~**Basement bathroom: permits, backwater valve and what the City actually requires**~~
+   — **REJECTED 2026-09-16. Intent is not distinct. Do not build this.**
+   *Added 2026-09-01 as a backstop, explicitly requiring a human to verify the intent was
+   distinct from `/basement-bathroom-plumbing-calgary/`. The 2026-09-16 run read that page
+   in full and the verdict is clear enough not to need a human: the proposed page is three
+   sections of the existing one.* `/basement-bathroom-plumbing-calgary/` already carries
+   the H2s **"Backwater valves: get this decided before you pour"**, **"The permits, in
+   order"** and **"Inspection sequence"**, plus the FAQs *"Do I definitely need a permit
+   for a basement bathroom?"* and *"Does a basement bathroom mean I need a backwater
+   valve?"*. It runs **2,088 words — already over the 1,200–2,000 spec** — so the honest
+   move on this topic is a trim, not a second URL. Building it would cannibalise one of the
+   site's two joint-best organic pages. **Closed. The 7-sessions traffic signal that
+   suggested it was noise, exactly as the note warned.**
+
+### CANDIDATES — researched 2026-09-16, awaiting James's go-ahead
+
+These were produced by the fresh keyword/SERP research the 2026-09-01 review flagged as
+needed. Each has been checked for distinct intent against all 27 live pages and for a
+primary source. **None of them may be built unattended** — the standing rule holds. James
+picks one (or none) and the next Wednesday run builds it.
+
+**W-A. What your Calgary home's pipes are actually made of, by build era** — *recommended.*
+Lead, galvanized steel, copper, Poly-B, PEX; cast iron and clay on the drain side.
+- **Why this one is not an invented topic:** the Monday queue's Poly-B deferral note
+  already specifies it — *"Cover Poly-B only as an identification section inside the
+  housing-era cluster, linking out."* **This is that cluster page.** It is the page that
+  note was written to be attached to, and it is the compliant way to serve Poly-B intent
+  here while sending the click to `polybreplacementcalgary.com` instead of competing
+  with it.
+- **The original angle — a distinction every competing page gets wrong.** The ranking
+  content on "do I have lead pipes" is generic Canadian/American and runs on the
+  pre-1986-solder rule of thumb. Calgary's actual exposure window is far narrower: the
+  City states lead connections were *"only used for a short time period, primarily
+  between 1939 and 1947, during World War II"* and that *"the majority of water service
+  pipes in Calgary, including homes built prior to 1950, are made of copper."* A Calgary
+  homeowner reading national content about their 1948 bungalow is being scared by a fact
+  that does not apply to their house. Nobody local has published that correction.
+- **Second distinction, and the better one.** The City's open **Public Water Service Lines
+  map** (`data.calgary.ca`, dataset `h33q-z247`) records the material of the **public**
+  portion only — main to property line. It tells a homeowner **nothing** about the pipe on
+  their own side, which is the part they pay for. Every "look up your pipe" article misses
+  this. It links straight into `/sewer-water-line-responsibility-calgary/`, which already
+  owns the ownership line.
+- **Original arithmetic available:** the dataset is public and queryable, so the run can
+  publish the actual city-wide material breakdown of public service lines — a number no
+  competitor has. *Confirm the dataset's fields and row count at build time; the
+  2026-09-16 run verified the dataset exists and is public but did not pull the figures.*
+- Also verified and citable: the City's own identification method (copper = brownish;
+  galvanized = grey and **magnetic**; lead = dark matte grey, **non-magnetic**, shiny when
+  scraped), the free **Tap Water Sampling Program** (annual, first-come first-served via
+  **311**, runs **May 1 – September 30**), and rebates for NSF-certified filters.
+- Sources: https://www.calgary.ca/water/water-utility/lead-water-service-lines.html ·
+  https://data.calgary.ca/Health-and-Safety/Public-Water-Service-Lines-map/h33q-z247
+- Intent check: **distinct.** No live page covers pipe materials or identification.
+  Links naturally to `/sewer-water-line-responsibility-calgary/`, `/leak-detection-calgary/`,
+  `/low-water-pressure-calgary/` (galvanized corrosion is a real cause) and
+  `/calgary-hard-water/`. Out to `polybreplacementcalgary.com` for Poly-B.
+- **Caution for whoever builds it:** CBC reported in 2024 that roughly 150 Calgary
+  households remained on lead pipes and about half had refused replacement. That is a news
+  source, not a primary one — **re-verify against the City or leave it out.** Do not state
+  a current count the City has not published.
+
+**W-B. Renting it out: who pays for the plumbing, landlord or tenant (Alberta)** — *viable.*
+- Intent check: **distinct.** `/backwater-valve-secondary-suite-calgary/` covers the code
+  and permit side of a suite; `/sewer-water-line-responsibility-calgary/` covers City vs
+  homeowner. **Nothing on the site covers landlord vs tenant**, which is the question a
+  Calgary suite owner or renter actually types.
+- Primary sources exist: alberta.ca *Landlords and tenants – rights and responsibilities*,
+  and CPLEA's *landlordandtenant.org* repairs pages. The Alberta Tradesecrets owner
+  exemption already in `BRIEF.md` is directly relevant — the *"not-for-profit use"* wording
+  is why a landlord probably cannot DIY the plumbing in a unit they rent.
+- **Risk to manage:** this is closer to legal information than the rest of the site.
+  Keep to what the primary sources say verbatim, state plainly that it is not legal advice,
+  and point readers to CPLEA and the RTDRS rather than interpreting. The `BRIEF.md`
+  treatment of the owner exemption — *a reasonable reading, clearly flagged as such, not
+  settled law* — is the register to copy.
+
+**W-C. Sewer smell in the house: dry traps, venting and when it is the City's problem**
+— *weakest of the three, listed for completeness.*
+- Intent check: distinct from `/drain-cleaning-calgary/` (blockages) and
+  `/frozen-sewer-line-calgary/`. Real search demand, and the seasonal hook is honest —
+  floor-drain traps dry out over a Calgary winter with the furnace running.
+- **The problem: no primary source found.** The City publishes nothing on household sewer
+  odour. Without a citable authority this page would rest on trade knowledge, which the
+  brief does not allow. **Do not build unless a primary source turns up** — most likely
+  route is the National Plumbing Code trap-seal provisions as referenced by the City.
+
+### Rejected during the 2026-09-16 research (so nobody re-proposes them)
+
+- **Outdoor water restrictions / lawn watering schedule.** Live and high-volume in Calgary,
+  and the City publishes a four-stage framework plus a year-round Lawn and Landscape
+  Watering Schedule. **Rejected anyway:** it is irrigation and landscaping, not residential
+  plumbing, and the site has no service to attach it to. It would pull traffic that never
+  converts and dilute the topical signal the whole site is built on.
+- **A second basement-bathroom URL.** See the rejection above.
 
 ### Deferred from the Wednesday queue (reasoned, not skipped silently)
 
