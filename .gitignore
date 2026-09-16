@@ -1,0 +1,11 @@
+# Build output — build.py regenerates this from content/ on every run.
+# Never commit it: it is ~3 MB of generated HTML plus copies of every hero image,
+# and a stray `git add -A` after a build will otherwise sweep all of it into main.
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
