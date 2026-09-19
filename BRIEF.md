@@ -116,8 +116,16 @@ Start directly with content. Wrap major sections in `<section>`.
   **DO NOT state that homeowners or plumbers may not legally operate the valve** — that claim
   is not in the source. It was published in error and removed from `/frozen-pipes-calgary/`
   and `/no-hot-water-calgary/` on 2026-09-05; this line was corrected 2026-09-12.
+  **The 2026-09-19 pass found the same claim still live in `no-hot-water-calgary.json`'s FAQ
+  block** ("It's not yours to operate, and it isn't your plumber's either") - the 2026-09-05 fix
+  touched the `.html` body only. **When you remove a claim, check both files for the slug.**
   Source: https://www.calgary.ca/water/water-utility/water-service-lines-calgary.html
   (canonical as of 2026-09-12; the older `/water/customer-service/` path still resolves)
+- What you CAN say instead, verbatim from a second City page: "Service valves are owned and
+  operated by The City of Calgary", and to have one turned off or on you book a service call
+  through the City. That supports "leave the curb stop alone" without asserting a legal
+  prohibition. Confirmed 2026-09-19.
+  Source: https://www.calgary.ca/water/customer-service/service-valves.html
 - Sewer: "Builders or homeowners are responsible for providing the water and sewer service
   connections from the property line to the residential or commercial plumbing system."
   Source: https://www.calgary.ca/development/home-building/water-sewer-connections.html
@@ -133,7 +141,8 @@ Start directly with content. Wrap major sections in `<section>`.
 
 **City of Calgary — permits and fees**
 - Homeowner's plumbing permit: **$112 permit fee + $4.50 Safety Codes Council fee = $116.50**,
-  $0 processing fee. Fees increase annually on January 1.
+  $0 processing fee. Fees increase annually on January 1. *(Re-confirmed unchanged 2026-09-19 -
+  no increase has landed since 2026-01-01; next one due 2027-01-01.)*
 - Homeowner eligibility, all three required: own the home; live in it or intend to reside in
   it (not a rental); do the work yourself (cannot pull a permit on a contractor's behalf).
   Not available for apartment-style condos; individually owned rowhouse/townhouse units need
