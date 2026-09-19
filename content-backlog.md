@@ -225,8 +225,8 @@ Seasonal order: refresh **ahead of** the season, not during it.
 
 1. ~~`/frozen-pipes-calgary/`~~ — **done 2026-09-05**, see below
 2. ~~`/frozen-sewer-line-calgary/`~~ — **done 2026-09-12**, see below
-3. `/no-hot-water-calgary/` — ahead of the winter failure peak ← **next**
-4. `/plumber-cost-calgary/` — trim 2,684 → under 2,000 (over spec)
+3. ~~`/no-hot-water-calgary/`~~ — **done 2026-09-19**, see below
+4. `/plumber-cost-calgary/` — trim 2,684 → under 2,000 (over spec) ← **next**
 5. `/sump-pump-calgary/` and `/water-bill-leak-calgary/` — both slightly over spec
 6. **`/backwater-valve-rebate-calgary/` and `/basement-bathroom-plumbing-calgary/`**
    — *added 2026-09-01.* The site's two joint-best organic pages (7 sessions each of 19).
@@ -252,6 +252,34 @@ PUBLISHED.
 **Done 2026-09-12:** `/frozen-sewer-line-calgary/` — both cited sources re-opened and confirmed
 unchanged. **No fact drifted.** Two citation titles corrected, two uncited City facts given
 proper citations, one unverifiable claim removed, trimmed 2,003 → 1,996 w. See PUBLISHED.
+
+**Done 2026-09-19:** `/no-hot-water-calgary/` — seasonal, ahead of the winter failure peak. Three of
+four cited sources re-opened and confirmed; **no fact had drifted.** Two citations repointed, one
+uncited safety claim given a primary source, and **one fabricated statistic removed**. Trimmed
+1,957 → 1,999 w after additions. See PUBLISHED.
+
+**Fabricated-statistic sweep needed — for the next Saturday run.** The opening sentence of
+`/no-hot-water-calgary/` claimed *“roughly a third of the no-hot-water calls we take turn out to be
+something the homeowner could have sorted in five minutes.”* There is no operating business and no
+completed jobs (see the FRIDAY LANE block), so that figure was invented — a direct breach of
+`BRIEF.md` rule 6. It was written at the initial 2026-08-16 build and survived a month and four
+refresh passes. **No refresh pass has ever looked for this class of error**: every pass so far
+checked cited facts, and this claim carried no citation, so it was never in scope. **Grep the other
+22 initial-build pages for first-person volume and frequency claims** — `we take`, `we see`, `most of
+our`, `in our experience`, `nine times out of ten`, `most of the calls` — before checking anything
+else. A cited fact that drifts is a maintenance problem; an invented statistic is a credibility
+problem, and this site's entire pitch is accuracy.
+
+**Could not re-verify 2026-09-19:** `mrmikesplumbing.ca/what-do-plumbers-charge-per-hour-in-calgary/`
+— the URL is live (it still ranks and resolves) but the fetcher was blocked four times by a
+`robots.txt` connect timeout on that host. **The link is not dead and the figures were left in
+place**, correctly labelled as a competitor self-report. The $85–$120 / $95–$150 / $150–$250 rates
+therefore carry a last-confirmed date of 2026-08-16, not 2026-09-19. The slug was stamped anyway
+because all four *authoritative* facts on the page were re-opened and confirmed — this exception is
+recorded so the stamp is not read as more than it is. The same source is cited on
+`/plumber-cost-calgary/`, which is **next in this queue** — try it again from there, and if it is
+still unreachable, that page needs a decision about whether a permanently unfetchable competitor
+page can keep carrying the site's only rate figures.
 
 **Sweep result 2026-09-12:** the `/winterize-outdoor-tap-calgary/` half of the note below is
 still outstanding — `/frozen-sewer-line-calgary/` did not cite the frozen-water-lines page at
@@ -321,6 +349,8 @@ jobs, so the lane has produced nothing. See
 ---
 
 ## Monthly SEO review
+
+PLACEHOLDER_ROW_MARKER
 
 Snapshots and the measurement gap live in **`seo-tracking.md`**. Read it before
 reprioritising anything here.
