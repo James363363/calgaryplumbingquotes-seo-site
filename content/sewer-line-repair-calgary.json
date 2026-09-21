@@ -1,0 +1,44 @@
+{
+  "path": "/sewer-line-repair-calgary/",
+  "priority": "0.8",
+  "crumb": "Sewer line repair",
+  "title": "Sewer Line Repair Calgary: Trenchless vs Digging",
+  "og_title": "Sewer line repair in Calgary: what decides the price, and who's actually allowed to dig",
+  "description": "Trenchless or open-cut, who may legally dig in the right-of-way, the six-metre boulevard tree rule, and why no honest Calgary price exists.",
+  "h1": "Sewer line repair in Calgary: what decides the price, and who's actually allowed to dig",
+  "image": "hero-sewer-line.jpg",
+  "image_alt": "An open trench across a Calgary front yard exposing the sewer service line running from the house out towards the boulevard",
+  "sidebar_links": [
+    ["/sewer-water-line-responsibility-calgary/", "Is the broken bit even yours?"],
+    ["/drain-cleaning-calgary/", "Blocked now? Start here"],
+    ["/sewer-scope-buying-home-calgary/", "Sewer scope before you buy"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"],
+    ["/emergency-plumber-calgary/", "Sewage backing up right now"]
+  ],
+  "faqs": [
+    {
+      "q": "Three quotes, three completely different numbers. Are some of them ripping me off?",
+      "a": "<p>Maybe, but probably not in the way you think. The reason the numbers scatter is that the job isn't really \"fix the pipe\" &mdash; it's \"get to the pipe.\" One Calgary company publishes pipe bursting at $60 to $105 a foot. Another publishes trenchless at $200 to $350 a foot. Those are both Calgary companies, both talking about trenchless, and they're a factor of three apart. Neither shows any working.</p><p>So stop comparing the totals and start comparing what's in them. Ask each one: does this include the excavation permit if you're cutting into the road? Who's restoring the sidewalk? Is the camera inspection in there or extra? Is there a tree in the boulevard and have you priced what happens if the City makes you protect it? The cheap quote is usually the one that hasn't answered those yet.</p>"
+    },
+    {
+      "q": "Can any plumber dig up the part out by the sidewalk, or is that different?",
+      "a": "<p>That's different, and it's the bit almost nobody tells you about. Once the digging crosses your property line into the City's right-of-way &mdash; the boulevard, the sidewalk, the road &mdash; you're not just hiring a plumber any more. The City says plainly that homeowners needing service connections done in its rights-of-way have to hire a utility indemnified contractor, and it keeps a list of the ones it has approved.</p><p>There's a second permit on top of that: an Excavation Permit is required to break or dig into the surface of a City road right-of-way, and the contractor applies for it under a Road Indemnification Agreement. So the honest question to ask a company quoting you is not \"are you licensed\" &mdash; it's \"are you on the City's indemnified contractor list, and are you pulling the excavation permit or am I?\" If they get vague, that's your answer.</p>"
+    },
+    {
+      "q": "There's a big elm on the boulevard right where they'd have to dig. Does that change anything?",
+      "a": "<p>It might change quite a lot, and this is very Calgary. Those mature boulevard elms are City trees, and under the Tree Protection Bylaw a tree protection plan is required when work happens within <strong>six metres</strong> of a public tree in the road right-of-way. Six metres is a big circle. If your sewer line runs out under the boulevard &mdash; and in the older neighbourhoods it does &mdash; an open trench is going to land inside it.</p><p>What we can't tell you is whether a straightforward service-line repair gets treated the same as a construction project. The City's own page lists utility routing as something a plan has to show, but doesn't come out and say whether routine utility digging triggers one. So don't guess and don't let a contractor guess either &mdash; call 311 and ask Urban Forestry about your address before anyone books a machine. Fines under that bylaw run up to $1,000 for failing to comply with an enforcement order, and that's before you've paid for the tree.</p>"
+    },
+    {
+      "q": "Isn't there a free service that comes and marks where everything is buried?",
+      "a": "<p>There is, it's free, and here's the catch: it won't mark the pipe you're digging up. Utility Safety Partners coordinates locates for the utilities' own buried lines &mdash; gas, power, telecom &mdash; and marking those before a ground disturbance is mandatory in Alberta, not a courtesy. Their own guidance is to put the request in at least three full working days ahead.</p><p>But they're explicit that customer-owned lines are out of scope: water and sewer past the shut-off at the property line are the property owner's, the utility owners don't know where they run, and finding them is on you. Which is a slightly absurd situation when the thing you're digging for <em>is</em> the sewer &mdash; it's why the camera run matters so much. The camera tells you where the damage is and how deep, and that's what keeps the trench small.</p>"
+    },
+    {
+      "q": "Do I need a permit, or is a repair just a repair?",
+      "a": "<p>It depends which side of a line the City draws you land on, and the wording is worth reading yourself. The City says a plumbing permit is required when a plumbing system is constructed, extended or altered, and when water and sewer lines in or around the home are replaced. But it also lists repairing a leak in a water distribution or drainage system as something that does <em>not</em> need one.</p><p>So a full replacement is clearly permitted work and a small repair clearly isn't &mdash; and a sectional repair sits somewhere in between, where the City hasn't published a bright line. We're not going to invent one. Call 311, describe the actual scope, and get it settled before the work starts rather than after. And note the homeowner permit isn't really on the table here anyway: it's only for work you do yourself, on a home you live in, which rules out a rental and rules out pulling it on your contractor's behalf.</p>"
+    },
+    {
+      "q": "The City dug up the road outside my place last year. If they wreck the street fixing my line, who repaves it?",
+      "a": "<p>You do, through whoever you hired &mdash; that's the short version, and it surprises people who assume the road is the City's problem because the road is the City's. The excavation permit puts restoration on the permit holder, and the City's own terms include a $49 per square metre charge for toplift paving where it does the rehabilitation itself.</p><p>There's a tail on it too. The City's excavation permit page says the permit holder carries responsibility for maintaining the trench backfill for a two-year period. Backfill settles, especially over a Calgary winter, so that's a real obligation rather than paperwork. Before you sign, ask the contractor who holds the permit and who is on the hook if the patch sinks in eighteen months &mdash; and get the answer in writing.</p>"
+    }
+  ]
+}
