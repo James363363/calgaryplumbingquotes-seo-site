@@ -83,6 +83,7 @@ FOOTER = [
         ("/low-water-pressure-calgary/", "Low water pressure"),
         ("/water-bill-leak-calgary/", "High water bill? Find the leak"),
         ("/leak-detection-calgary/", "Leak detection"),
+        ("/home-pipe-materials-calgary/", "What your pipes are made of"),
     ]),
     ("Drains, sewers &amp; basements", [
         ("/drain-cleaning-calgary/", "Drain cleaning"),
