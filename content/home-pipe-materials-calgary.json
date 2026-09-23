@@ -1,1 +1,44 @@
-PLACEHOLDER
+{
+  "path": "/home-pipe-materials-calgary/",
+  "priority": "0.8",
+  "crumb": "What your pipes are made of",
+  "title": "What Your Calgary Home's Pipes Are Made Of",
+  "og_title": "Lead, galvanized, copper, Poly-B: what's actually in a Calgary house",
+  "description": "Identify your Calgary home's pipes with the City's own magnet test, and why the national pre-1975 lead rule badly over-flags houses here.",
+  "h1": "What your Calgary home's pipes are made of, and how to tell",
+  "image": "hero-diy.jpg",
+  "image_alt": "Copper and galvanized steel water pipes running to a water meter in the basement of an older Calgary home",
+  "sidebar_links": [
+    ["/sewer-water-line-responsibility-calgary/", "Who owns which pipe"],
+    ["/low-water-pressure-calgary/", "Low water pressure"],
+    ["/calgary-hard-water/", "Calgary hard water"],
+    ["/leak-detection-calgary/", "Leak detection"],
+    ["/sewer-scope-buying-home-calgary/", "Sewer scope before you buy"]
+  ],
+  "faqs": [
+    {
+      "q": "My house is from the sixties. Do I have lead pipes?",
+      "a": "<p>Almost certainly not, and this is the bit the national articles get wrong for us. Health Canada's national picture is that lead service lines went in across the country until 1975, which is where the &ldquo;anything older than the mid-seventies is suspect&rdquo; line comes from. The City of Calgary's own account of its system is much narrower: lead connections here were used &ldquo;only&hellip;for a short time period, primarily between 1939 and 1947, during World War II,&rdquo; and &ldquo;the majority of water service pipes in Calgary, including homes built prior to 1950, are made of copper.&rdquo;</p><p>So a sixties bungalow in Calgary is nowhere near the window the City describes. Go and check anyway &mdash; it takes five minutes with a magnet and a coin &mdash; but do not spend a week worrying about it first.</p><p>The thing that is worth a second look in a house that age is the solder in the copper joints, not the pipe itself. Lead-bearing solder was still in use in Canada until 1986.</p>"
+    },
+    {
+      "q": "The City's map says my service line is copper. Does that settle it?",
+      "a": "<p>It settles half of it, and unfortunately it is the half you do not pay for. The dataset's own description says the data &ldquo;only relates to the portion of the water service pipe on public property, owned and operated by The City,&rdquo; and adds that &ldquo;the material on private property can be a different material, and could have been installed at a different time.&rdquo;</p><p>So the map covers main-to-property-line, which is the City's pipe and the City's bill. The stretch from your property line into the house is yours, in both senses, and the map is silent on it. The City is blunt about that elsewhere too: all pipes, solder and fittings on private property are the property owner's responsibility.</p><p>Look up the map by all means. Then go and look at the pipe where it comes through your basement wall, because that is the one that tells you about your side.</p>"
+    },
+    {
+      "q": "There's grey plastic pipe under my sink. Is that Poly-B, and how urgent is it?",
+      "a": "<p>Quite possibly. Polybutylene &mdash; Poly-B &mdash; was widely used in Canadian homes from 1978 to the mid-1990s, which lines up with a huge amount of Calgary's suburban build-out. It is usually grey, though black, white and blue exist, and the pipe is often stamped PB2110 or CSA-B 137.8. No stamp does not mean it is not Poly-B.</p><p>Urgency is the wrong frame. It is not a safety issue the way a gas leak is. It is an insurance and water-damage issue: Canadian insurers take a hard line on it, and people find that out at renewal or after a claim rather than in advance. That is the conversation to have first.</p><p>Replacing it is a specialist whole-house job and not something we take on, so we will not pretend to price it here. There is a Calgary site that covers only that work &mdash; polybreplacementcalgary.com &mdash; and it is the right place to go for the scope and the sequencing.</p>"
+    },
+    {
+      "q": "How do I get my water tested for lead here, and what does it cost?",
+      "a": "<p>The City runs a free annual tap water sampling program. You register by contacting 311 and asking for the Tap Water Sampling Program. Sampling runs between May 1 and September 30, on a first come, first serve basis.</p><p>Which means two practical things. One, it costs nothing, so if you have any reason to wonder, there is no argument for guessing. Two, it is seasonal &mdash; if you are reading this in January you cannot get it done in January. Put a note in your phone for the spring.</p><p>There is also a City rebate for an NSF-53 certified tap-mounted or built-in filter, an NSF-58 reverse osmosis system, or an NSF-62 distillation system. The certification number is the thing to look for on the box; plenty of filters on the shelf are none of those three.</p>"
+    },
+    {
+      "q": "My pipes are galvanized. Do I have to repipe the whole house?",
+      "a": "<p>Not automatically, no. Galvanized steel was permitted under the national code until 1980 and there is a lot of it still working in older Calgary houses. What usually forces the decision is not the material, it is the symptom &mdash; the shower that has gone feeble, or a pinhole leak.</p><p>The trade's explanation for the pressure drop is corrosion and scale gradually narrowing the inside of the pipe. We will be straight with you: we could not find a City of Calgary or federal publication that states that, so treat it as the standard trade account rather than something we can cite. What is cited is Health Canada's point that galvanized pipe can itself be a source of lead, because lead is present in it as an impurity.</p><p>If pressure is the complaint, work the diagnosis in order before anyone quotes you a repipe. Low pressure in a Calgary house has several more common causes than the pipe material, and a partial repipe of the worst runs is often the honest answer rather than doing the lot.</p>"
+    },
+    {
+      "q": "Does it matter what my drain pipes are made of?",
+      "a": "<p>It matters more than the supply side does, financially, because the buried drain lateral from your house to the City main is yours to repair and it is the expensive one to dig up.</p><p>Older Calgary houses commonly have cast iron inside the walls and clay tile in the ground; newer ones are plastic. We are deliberately not putting build-year ranges on that the way we did for the water side, because we could not find a City or federal publication that dates drain materials in Calgary housing stock, and we would rather leave the gap visible than fill it with a guess.</p><p>In any case, on the drain side the material and its condition are really the same question, and the only thing that answers it is a camera down the line. If you are buying, that is a sewer scope. If you already own the place and it keeps backing up, that is a camera as part of the diagnosis, not an optional extra.</p>"
+    }
+  ]
+}
