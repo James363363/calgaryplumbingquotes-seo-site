@@ -1,0 +1,44 @@
+{
+  "path": "/backwater-valve-installation-calgary/",
+  "priority": "0.8",
+  "crumb": "Backwater valve installation",
+  "title": "Backwater Valve Installation Calgary: Permit, Steps",
+  "og_title": "Installing a backwater valve in Calgary: the permit, the inspection, and the three places it can go",
+  "description": "A permitted job, not a parts swap. The three places the valve can go, the inspection that has to happen before the concrete, and who may do the work.",
+  "h1": "Backwater valve installation in Calgary: what the job actually involves",
+  "image": "hero-backwater.jpg",
+  "image_alt": "Backwater valve access cover set flush into the concrete floor of a Calgary basement near the sewer cleanout",
+  "sidebar_links": [
+    ["/backwater-valve-rebate-calgary/", "Is there a rebate? (No)"],
+    ["/backwater-valve-secondary-suite-calgary/", "Valves and legal suites"],
+    ["/sump-pump-calgary/", "Sump pumps and discharge rules"],
+    ["/sewer-line-repair-calgary/", "Sewer line repair"],
+    ["/basement-bathroom-plumbing-calgary/", "Basement bathroom plumbing"]
+  ],
+  "faqs": [
+    {
+      "q": "The plumber says it's a half-day job. Why does it need a permit at all?",
+      "a": "<p>Because the City treats a backwater valve as a back-flow prevention device, and installing one of those needs a plumbing permit. It is also, physically, an alteration to your building drain &mdash; and the City requires a permit when a plumbing system is constructed, extended or altered. A half-day job can still be a permitted job.</p><p>Where people get tripped up is the opposite rule. No permit is needed to clear a blockage or repair a leak, so if somebody tells you your valve retrofit falls under &quot;repairs&quot;, that is not what the City's own list says. The permit is not expensive relative to the concrete work, and it buys you an inspection by someone with no stake in the invoice. That is the part worth having.</p>"
+    },
+    {
+      "q": "We already have a valve in the main drain. Is the basement suite covered by it?",
+      "a": "<p>Probably not, and this one catches a lot of Calgary homeowners mid-renovation. The City's plumbing advisory says a normally-open backwater valve may only serve one dwelling unit, and a legal secondary suite is a separate dwelling unit. One valve, two units, does not add up.</p><p>That can mean an existing shared install has to be removed, reconfigured, or supplemented before a suite passes. It is cheaper to find that out while the floor is open than after the tile is down &mdash; we wrote the suite side of it up separately.</p>"
+    },
+    {
+      "q": "Inside the basement floor or outside in the yard? Which should I be asking for?",
+      "a": "<p>Mostly it is decided for you by where your drain runs and how deep it sits, not by preference. Inside means saw-cutting the slab, digging out, setting the valve, and re-pouring &mdash; messy but contained, and you can get at the thing afterwards in slippers in February. Outside avoids cutting your floor, but it is an excavation in a city that freezes, so it has a season.</p><p>The question that actually matters is whether the dig crosses your property line. The moment it enters the City's road right-of-way &mdash; boulevard, sidewalk, lane &mdash; a different set of rules lands on the job, and the quote should say who is carrying them.</p>"
+    },
+    {
+      "q": "Can I put one in myself? I've done my own rough-in before.",
+      "a": "<p>Maybe, and the test is not how handy you are. Alberta makes plumber a compulsory certification trade, so the restricted work is for certificate holders and registered apprentices. The carve-out is for property you own, possess or control and intend only for personal, not-for-profit use. A homeowner's permit in Calgary needs all three of: you own the home, you live in it or intend to, and you do the work yourself.</p><p>So if the basement is going to be rented, read that &quot;not-for-profit use&quot; wording carefully &mdash; our reading is that it probably does not cover you, but that is a reading, not settled law. Confirm it with Alberta Apprenticeship and Industry Training before you buy a valve, and remember the inspections still apply either way.</p>"
+    },
+    {
+      "q": "Does the City pay for any of this? My brother-in-law in Edmonton got money back.",
+      "a": "<p>He did, and you will not. EPCOR runs a backwater valve subsidy of up to $800 for Edmonton homeowners. As of August 2026 Calgary has nothing equivalent for a residential valve or a sump pump &mdash; the City's only stormwater incentive is a developer program.</p><p>It is worth phoning 311 before you spend, because that is a negative claim and programs do launch. But do not let a quote lean on a rebate nobody can send you a link to.</p>"
+    },
+    {
+      "q": "Once it's in, am I done worrying about the basement?",
+      "a": "<p>About sewage coming back up the main, you are much better off. About water generally, no &mdash; a backwater valve is a one-way gate on your sewer, so it does nothing about groundwater coming through the walls or up under the slab. That is sump pump territory, and the City's own advice is to replace a sump pump every ten years or sooner.</p><p>Two other things to keep in your head. While that flap is shut against a surcharging main, your own waste has nowhere to go either, so a backup in the street is still a stop-using-water event until it clears. And it is a moving part under your floor: open the cover once a year and check the flap is clean and swings freely. An unserviced valve that cannot close is the same as not having one.</p>"
+    }
+  ]
+}
