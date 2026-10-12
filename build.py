@@ -89,6 +89,7 @@ FOOTER = [
         ("/drain-cleaning-calgary/", "Drain cleaning"),
         ("/sewer-water-line-responsibility-calgary/", "Who owns your sewer line"),
         ("/sewer-line-repair-calgary/", "Sewer line repair"),
+        ("/backwater-valve-installation-calgary/", "Backwater valve installation"),
         ("/backwater-valve-rebate-calgary/", "Backwater valve rebates"),
         ("/backwater-valve-secondary-suite-calgary/", "Backwater valves &amp; suites"),
         ("/sump-pump-calgary/", "Sump pumps"),
