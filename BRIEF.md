@@ -56,7 +56,7 @@ Start directly with content. Wrap major sections in `<section>`.
 - `<ol class="steps"><li><strong>Do this.</strong> Explanation.</li></ol>` — sequential steps.
 - `<div class="cards">` + `<div class="card"><h3>…</h3><p>…</p></div>` — benefit grids.
   Add `cards-3` to the wrapper for a 3-up grid.
-- `<div class="cta"><h2>…</h2><p>…</p><div class="btn-row"><a class="btn btn-primary" href="tel:+14035550100">Call (403) 555-0100</a> <a class="btn btn-ghost" href="/contact/">…</a></div></div>`
+- `<div class="cta"><h2>…</h2><p>…</p><div class="btn-row"><a class="btn btn-primary" href="tel:+18259061818">Call (825) 906-1818</a> <a class="btn btn-ghost" href="/contact/">…</a></div></div>`
 - `<div class="related"><h2>…</h2><ul>…</ul></div>` — internal links, near the end.
 - `<span class="placeholder">[LABEL]</span>` — for anything not yet real.
 
@@ -99,7 +99,7 @@ Start directly with content. Wrap major sections in `<section>`.
 ## Placeholders (use exactly these)
 
 - Business name: `[BUSINESS NAME]` — the brand is "Calgary Plumbing Quotes"
-- Phone: `(403) 555-0100`, tel link `tel:+14035550100`
+- Phone: `(825) 906-1818`, tel link `tel:+18259061818`
 - Email: `info@calgaryplumbingquotes.ca`
 - Licence/insurance: `<span class="placeholder">[LICENCE / WCB / INSURANCE INFO]</span>`
 - Reviews: `<span class="placeholder">[ADD REAL REVIEWS HERE]</span>`

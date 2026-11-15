@@ -138,7 +138,7 @@ for url, html in sorted(pages.items()):
         errors.append("%s does not have exactly one <h1>" % p)
 
     # --- NAP consistency
-    for token in ["(403) 555-0100", "info@calgaryplumbingquotes.ca", "Calgary, AB"]:
+    for token in ["(825) 906-1818", "info@calgaryplumbingquotes.ca", "Calgary, AB"]:
         if token not in html:
             errors.append("%s NAP token missing: %s" % (p, token))
 
