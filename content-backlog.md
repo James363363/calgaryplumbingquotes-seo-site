@@ -444,9 +444,15 @@ on 2026-11-15**, which reads like a deliberate choice to keep the business-voice
 
 **The 2026-11-23 run therefore wrote to the repo standard** — `BRIEF.md` plus the live
 `index.html` exemplar — because that is what the scheduled prompt names and what `verify.py`
-enforces. If the live site is actually the repositioned information site, then every page
-published since 2026-08-29 has been written in the wrong voice, and this needs resolving once
-rather than re-litigated by each run. **The fix is either to push the repositioning into this
+enforces, **and the live site settles it.** `/plumber-cost-calgary/` was fetched after today's
+push and the live page still carries the business-voice footer with `[BUSINESS NAME]`,
+`[STREET ADDRESS]`, `[POSTAL CODE]`, `[CONFIRM AFTER-HOURS COVERAGE]` and
+`[LICENCE / WCB / INSURANCE INFO]` in it. **So the repositioned information-site build was
+never deployed either** — the zips in the 2026-08-29 session went nowhere, and what is live is
+what is in this repo, placeholders and all. That means the voice question is answered, but a
+second and worse problem is confirmed in its place: **bracketed placeholder tokens are visible
+to live visitors on every page, which is the exact condition the 2026-08-29 repositioning was
+triggered to fix.** Three months later it is still live. **The fix is either to push the repositioning into this
 repo (including `VOICE.md` and the stricter `verify.py`) or to retire the repositioning doc.**
 
 ---
