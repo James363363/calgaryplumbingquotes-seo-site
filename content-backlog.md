@@ -52,10 +52,38 @@ Take the top unpublished item. Respect the note attached to it.
    and both are linked rather than restated. **Take item 5 next** — read its note first, it
    requires verifying distinct intent against `/sewer-scope-buying-home-calgary/` and says to
    skip the item if the intent is not distinct.
-5. **Sewer-line inspection / camera Calgary** — `new`. Roadmap Wk 9.
-   *Note: `/sewer-scope-buying-home-calgary/` owns the pre-purchase angle and no plumber
-   competes there. Verify distinct intent — this would be the general diagnostic-camera
-   service, not the buyer's inspection. If the intent is not distinct, skip it.*
+5. ~~Sewer-line inspection / camera Calgary (roadmap Wk 9)~~ — **published 2026-11-23** as
+   `/sewer-camera-inspection-calgary/`; see PUBLISHED. **Intent verified distinct before
+   building**, against both `/sewer-scope-buying-home-calgary/` (pre-purchase, conditions
+   clock, negotiation) and the camera section inside `/drain-cleaning-calgary/`. Built as a
+   consolidation: the buy-side angle and the worth-it/not-worth-it list stay where they are
+   and are linked, not restated.
+
+> ### ⛔ MONDAY QUEUE IS NOW EXHAUSTED — fresh keyword research needed before the next run
+>
+> Item 5 was the last item. Per the standing rule at the foot of this file, **the next Monday
+> run must not invent a topic.** It needs either (a) a human pick, or (b) a dedicated
+> keyword/SERP research pass whose candidates are recorded here with an intent check against
+> all 34 live pages, the way the 2026-09-16 Wednesday research was.
+>
+> Three leads the 2026-11-23 run surfaced while researching, recorded as leads only — **none
+> has had an intent check and none may be built unattended:**
+> - **Sewer line locating Calgary.** The camera-plus-sonde locate is a distinct service with
+>   its own commercial intent (one ranking competitor sells it under that name). It is
+>   currently a section of `/sewer-camera-inspection-calgary/`; splitting it would need a real
+>   demand check, not a hunch.
+> - **Hydro jetting Calgary.** `/drain-cleaning-calgary/` covers jetting vs augering in two
+>   paragraphs and is at the word ceiling; the install/commercial query may be unserved.
+> - **Cleanout installation Calgary.** Comes up repeatedly as the access problem that makes a
+>   camera run or a clearance cost more. No page on the site covers it. No source checked yet.
+>
+> **Also unresolved and worth a human decision: five Mondays produced nothing.** The last
+> Monday page before this one was 2026-10-12. Nothing was published or recorded on 2026-10-19,
+> 10-26, 11-02, 11-09 or 11-16, and the repo's only commit in that window is a phone-number
+> change on 2026-11-15. This is the second time this lane has gone quiet for weeks (see the
+> 2026-09-28/10-05 note above) and the cause is still unknown from inside the repo — failed
+> runs, unfired schedule, or runs that published nothing silently. **If the lane is firing and
+> failing, nothing in this file can tell you; that needs checking outside the repo.**
 
 > **Two Mondays missing from this file, 2026-09-28 and 2026-10-05.** The 2026-09-21 run left
 > item 4 as the next pick and nothing was published or recorded in this file on either of the
@@ -393,6 +421,31 @@ small either. Two things came out of it: the Wednesday lane runs dry after 2026-
 (flagged above), and **Google Search Console is not connected**, which is why nothing in
 this repo can answer a question about positions, impressions, CTR or actual queries.
 Connecting GSC is the highest-value non-content task on the list.
+
+---
+
+## Flagged 2026-11-23 — the repo and the "information site" repositioning have diverged
+
+**James, this one needs you.** The Claude project carries a document dated **2026-08-29**,
+*"calgaryplumbingquotes.ca — repositioned as an information site"*, which records that the
+phone number, every placeholder token, the `Plumber`/`LocalBusiness` schema and all
+first-person trade voice were stripped from the site, that `verify.py` was changed to **fail
+the build** on a `tel:` link or a placeholder span, and that `VOICE.md` was added to the repo
+root as the binding editorial standard.
+
+**None of that is in this repo.** `verify.py` on `main` still *requires* the phone number as a
+NAP token and *requires* a `Plumber` schema node; `BRIEF.md` still instructs writers to use the
+`tel:` CTA and the placeholder spans; there is no `VOICE.md`; and the repositioning doc's own
+outstanding list says the rebuilt `dist/` and source were delivered as zips for manual upload.
+The repo's one commit since 2026-09-23 is **"Update contact phone number to (825) 906-1818"
+on 2026-11-15**, which reads like a deliberate choice to keep the business-voice site current.
+
+**The 2026-11-23 run therefore wrote to the repo standard** — `BRIEF.md` plus the live
+`index.html` exemplar — because that is what the scheduled prompt names and what `verify.py`
+enforces. If the live site is actually the repositioned information site, then every page
+published since 2026-08-29 has been written in the wrong voice, and this needs resolving once
+rather than re-litigated by each run. **The fix is either to push the repositioning into this
+repo (including `VOICE.md` and the stricter `verify.py`) or to retire the repositioning doc.**
 
 ---
 
