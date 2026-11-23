@@ -320,6 +320,10 @@ is a competitive advantage on this site, not a weakness.
 /gas-vs-electric-water-heater-calgary/         Gas vs electric water heaters (pub. 2026-09-02)
 /water-softener-installation-calgary/          Water softener installation (pub. 2026-09-07)
 /tankless-water-heater-installation-calgary/   Tankless water heater installation (pub. 2026-09-14)
+/sewer-line-repair-calgary/                    Sewer line repair (pub. 2026-09-21)
+/home-pipe-materials-calgary/                  What your pipes are made of (pub. 2026-09-23)
+/backwater-valve-installation-calgary/         Backwater valve installation (pub. 2026-10-12)
+/sewer-camera-inspection-calgary/              Sewer camera inspection (pub. 2026-11-23)
 /about/                                        About / trust
 /contact/                                      Contact & free quote
 ```
