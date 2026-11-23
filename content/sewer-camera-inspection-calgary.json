@@ -1,0 +1,44 @@
+{
+  "path": "/sewer-camera-inspection-calgary/",
+  "priority": "0.8",
+  "crumb": "Sewer camera inspection",
+  "title": "Sewer Camera Inspection Calgary: What to Demand",
+  "og_title": "Sewer camera inspection in Calgary: what you should get for your money, and what nobody will tell you the price of",
+  "description": "What a camera run can and can't settle, the deliverables to insist on in writing, and the free 311 call to make before you pay for one.",
+  "h1": "Sewer camera inspection in Calgary: what you should actually get for your money",
+  "image": "hero-sewerscope.jpg",
+  "image_alt": "A plumber feeding a push camera into a basement sewer cleanout while the monitor shows the inside of the pipe",
+  "sidebar_links": [
+    ["/drain-cleaning-calgary/", "Blocked right now? Start here"],
+    ["/sewer-line-repair-calgary/", "If the camera finds a defect"],
+    ["/sewer-water-line-responsibility-calgary/", "Whose pipe is it?"],
+    ["/sewer-scope-buying-home-calgary/", "Buying a house instead?"],
+    ["/plumber-cost-calgary/", "What Calgary plumbers charge"]
+  ],
+  "faqs": [
+    {
+      "q": "The plumber says he won't quote the repair until he's cameraed the line. Is that just another charge?",
+      "a": "<p>It's a fair ask, and the reason is less about the pipe than about the hole. The price of a sewer repair is mostly the price of getting at the pipe &mdash; how deep, how long, what's on top of it, and whether the dig crosses your property line into the boulevard. A camera gives him the distance to the defect, which is what tells him where the trench goes. Without it he's either guessing or padding, and padding is what you actually don't want.</p><p>Where it stops being fair is when the camera charge is vague. Ask whether it's credited against the repair if you go ahead with him, whether you get the recording either way, and what you owe if the camera can't complete the run. Any plumber who's happy to answer those three on the phone is probably fine. One who won't put a number on the inspection isn't going to put a firm number on the repair either.</p>"
+    },
+    {
+      "q": "Can I rent a camera from a tool place and do this myself?",
+      "a": "<p>You can rent one, and for looking at a kitchen branch or confirming you've actually cleared something, it's fine. Nothing about running a camera down your own drain needs a permit &mdash; the City lists removing a blockage in the drainage system as work that doesn't require one, and looking at it is considerably less than that.</p><p>The catch is that a cheap rental camera gives you a picture and nothing else. It usually has no distance counter, so you can see a problem without being able to say how far out it is &mdash; and on a Calgary lot the whole question is whether the problem sits before or after the property line, because that decides whether it's your bill. It also has no transmitter, so you can't mark the pipe's path on the surface. If you're just curious, rent one. If a decision or a quote depends on the answer, the distance log is the thing you're actually paying a pro for.</p>"
+    },
+    {
+      "q": "Sewage came up through the basement floor drain last night. Camera first, or phone first?",
+      "a": "<p>Phone first, and the first call is 311 rather than a plumber. The City's own procedure is that a 311 agent determines whether the problem is your internal plumbing or possibly City infrastructure, and if it turns out to be on the City's side of things that's not a camera you need to be paying for. If it's on your private property, the City says plainly that you'll be advised to call a plumber &mdash; so you've lost ten minutes and ruled out the expensive misunderstanding.</p><p>Don't expect them to come inside and find it for you, mind. The City states that crews will not move furniture, pull back carpet, remove toilets or make holes in drywall to identify the source of a backup. That part is yours. And if water is actively spreading while you're on hold, deal with that first &mdash; stop using water in the house, keep people off the wet floor, and get a plumber moving.</p>"
+    },
+    {
+      "q": "He showed me the screen in the back of the van and said the line's had it. Is that enough to act on?",
+      "a": "<p>No, and this is the part worth being stubborn about. A live picture on a monitor in a driveway is a sales aid. What you can take to a second plumber, an insurer or a seller is a file: the recording, the distance to each thing he's pointing at, what the pipe is made of, and where the run started from. Ask for all four before he packs up, because once the van leaves, a re-inspection costs you again.</p><p>We looked at what the Calgary companies currently ranking for this service promise on their own websites, and the pattern is thin. Two of the three say you get the footage on a USB or by Dropbox; the third describes live video only. None of them mentions a written report with distance readings, and none mentions grading what it finds against any standard. That's not an accusation &mdash; it's a reason to agree the deliverables out loud, in advance, rather than assuming them.</p>"
+    },
+    {
+      "q": "How often should I get the sewer line looked at?",
+      "a": "<p>We're not going to give you an interval, because nobody who'd know publishes one. You'll see &quot;every two to three years&quot; on Calgary plumbing websites with nothing behind it, and the City publishes no recommended inspection schedule for a private sewer lateral at all. An invented number is worse than no number.</p><p>What's defensible is that a camera run is event-driven, not calendar-driven. Worth it when the same line has blocked twice, when someone has recommended a replacement and you want evidence instead of an opinion, before you finish a basement, and before you dig in the front yard. Not worth it because a year has gone by and nothing's wrong. If you want the honest version of that list, our <a href=\"/drain-cleaning-calgary/\">drain cleaning page</a> works through it.</p>"
+    },
+    {
+      "q": "The report says &quot;offset joint at 11 metres.&quot; Is that mine or the City's?",
+      "a": "<p>It depends entirely on where your property line falls, and that's a number the camera can't give you. In Calgary The City owns the sewer and water service from the main up to the property line, and you own the run from the property line to the house and pay all the repair costs on that private-side portion. The property line typically sits only a few metres in from the edge of the curb or sidewalk &mdash; not at the road, which is where most people assume it is.</p><p>So take the distance from the report and the Real Property Report for your lot, and put them next to each other. Eleven metres from a basement cleanout on a deep inner-city lot is almost certainly still yours. If it looks close, call 311 with the address and the distance before you accept anybody's version of it &mdash; and read <a href=\"/sewer-water-line-responsibility-calgary/\">who owns which pipe</a> first so you know what you're asking.</p>"
+    }
+  ]
+}
